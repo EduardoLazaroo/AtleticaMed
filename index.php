@@ -79,9 +79,48 @@
         <div class="center">
             <div class="w50">
                 <h2 class="title">Depoimentos</h2>
+                <div class="depoimento-single">
+                <p class="depoimento-descricao">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
+                libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
+                distinctio beatae quaerat sapiente architecto illo maiores!</p>
+                <p class="class-autor">Lorem ipsum</p>
+            </div><!--depoimento-singele-->
+                <div class="depoimento-single">
+                <p class="depoimento-descricao">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
+                libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
+                distinctio beatae quaerat sapiente architecto illo maiores!</p>
+                <p class="class-autor">Lorem ipsum</p>
+            </div><!--depoimento-singele-->
+                <div class="depoimento-single">
+                <p class="depoimento-descricao">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
+                libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
+                distinctio beatae quaerat sapiente architecto illo maiores!</p>
+                <p class="class-autor">Lorem ipsum</p>
+            </div><!--depoimento-singele-->
+            </div><!--w50-->
+            <div class="w50">
+                <h2 class="title">serviços</h2>
+                <div class="servicos">
+                <ul>
+                    <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
+                    libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
+                    distinctio beatae quaerat sapiente architecto illo maiores</li>
+                    <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
+                    libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
+                    distinctio beatae quaerat sapiente architecto illo maiores</li>
+                    <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
+                    libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
+                    distinctio beatae quaerat sapiente architecto illo maiores</li>
+                </ul>
+                </div><!--servicos-->
             </div><!--w50-->
         </div><!--center-->
-
     </section><!--extras-->
+    <footer>
+        <div class="center">
+            <p>Todos os direitos reservados</p>
+        </div><!--center-->
+    </footer>
+    
 </body>
 </html>
