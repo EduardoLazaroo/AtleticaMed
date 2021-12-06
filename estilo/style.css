@@ -35,7 +35,7 @@
 
 header{
     padding: 20px 0;
-    background: #3d437A;
+    background: #858646;
 }
 
 header .logo{
@@ -67,4 +67,50 @@ nav.desktop li{
 nav.desktop a{
     color: white;
     text-decoration: none;
+}
+
+section.banner-principal{
+    width: 100%;
+    height: 700px;
+    background-image: url('../images/fotoback.jpg');
+    background-size: cover;
+    position: relative;
+}
+
+.overlay{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-color: rgba(51, 51, 51, 0.5);
+}
+
+section.banner-principal .unimar{
+    z-index: 2;
+    position: absolute;
+    text-transform: uppercase;
+    color: white;
+    font-size: 80px;
+    left: 50%;
+    top: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+section.banner-principal .unimar h3{
+    color: rgb(185, 187, 45);
+}
+
+section.risco{
+    height: 70px;
+    width: 100%;
+    background: #858646;
+}
+section.risco h1{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
 }

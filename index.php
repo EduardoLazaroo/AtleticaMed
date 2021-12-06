@@ -38,9 +38,27 @@
             <div class="clear"></div>
         </div><!--center-->
     </header>
-    <section class="banner-principal">
 
-    </section><!--banner principal-->
+    <section class="banner-principal">
+        <div class="overlay"></div>
+        <div class="center">
+            <form>
+                <div class="unimar">
+                    <h2>Atlética</h2>
+                    <h2>Medicina</h2>
+                    <h2>Unimar</h2>
+                    <h3>a.a.a.a.n</h3>
+                </div>
+            </form>
+        </div><!--center-->
+    </section class=><!--banner principal-->
+
+    <section class="risco">
+        <div class="center">
+            <h1>Raça, sangue e Suor</h1>
+        </div>
+    </section>
+
     <section class="descricao-autor">
     <div class="center">
         <div class="w50 left">
@@ -53,7 +71,7 @@
             sed laboriosam libero atque? Facere.</p>
         </div><!--w50-->
         <div class="w50 left">
-            <img src="images/fotoback.jpg">
+            <img src="images/na.jpg">
         </div><!--w50-->
         <div class="clear"></div>
         </div><!--center-->
