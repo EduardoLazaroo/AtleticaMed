@@ -40,7 +40,7 @@ img{
 
 header{
     padding: 20px 0;
-    background: #858646;
+    background: #464a86;
 }
 
 header .logo{
@@ -110,7 +110,7 @@ section.banner-principal .unimar h2{
 }
 
 section.banner-principal .unimar h3{
-    color: rgb(185, 187, 45);
+    color: #2a329e;
     font-size: 70px;
 }
 
@@ -121,7 +121,7 @@ section.banner-principal .unimar p{
 section.risco{
     height: 70px;
     width: 100%;
-    background: #858646;
+    background: #464a86;
 }
 
 section.risco h1{
@@ -130,7 +130,7 @@ section.risco h1{
     padding-top: 20px;
 }
 
-/* parte 2*/
+/* page 2*/
 
 section.descricao-autor{
     padding: 40px 0;
