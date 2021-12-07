@@ -115,7 +115,7 @@ section.banner-principal .unimar h3{
 }
 
 section.banner-principal .unimar p{
-    font-size: 20px;
+    font-size: 2px;
 }
 
 section.risco{
@@ -138,16 +138,18 @@ section.descricao-autor{
 }
 
 section.descricao-autor h2{
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 400;
     color: rgb(0, 0, 0);
 }
 
 section.descricao-autor p{
-    font-size: 16px;
+    font-size: 20px;
     color: rgb(0, 0, 0);
     margin-top: 10px;
 }
+
+
 
 @media screen and (max-width: 950px){
     nav.desktop{

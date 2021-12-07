@@ -67,21 +67,19 @@
     <div class="center">
         <div class="w50 left">
             <h2>O QUE É A A.A.A.A.N. ?</h2>
-            <p>A Associação Atlética Acadêmica Akira Nakadaira – AAAAN - é uma instituição que 
-                visa inserir o estudante de Medicina em atividades que possam promover a 
-                integração em áreas que estimulem a vivência fora do meio acadêmico. Tem como 
-                objetivos: a promoção e participação em eventos esportivos; o incentivo à prática 
-                esportiva através de treinos semanais; </p>
-            <p>Incentivo cultural com o desenvolvimento do grupo de percussão BATUKATUBRE e 
-                realização da festividade para recepção dos calouros, entre outros eventos 
-                para os quais somos convidados. Com a responsabilidade de representar a Faculdade 
-                de Medicina e, até mesmo, o nome da própria Universidade de Marília pelos eventos 
-                promovidos e participantes, a AAAAN busca sempre seriedade, compromisso e 
-                responsabilidade em suas ações.</p>
-            <p>Temos em mente que os projetos liderados pela AAAAN mostram que a Faculdade de Medicina 
-                da UNIMAR busca reconhecimento tanto dentro quanto fora do meio acadêmico. 
-                O nome representativo da nossa atlética é uma 
-                homenagem ao Dr. Akira Nakadaira, diretor evice-diretor da Faculdade de Medicina da UNIMAR.</p>
+            <p>A Associação Atlética Acadêmica Akira Nakadaira – AAAAN - é uma associação sem 
+                fins lucrativos formada por alunos do curso de medicina da Universidade de Marília.</p>
+            <p>Nossas atividades envolvem a promoção de práticas esportivas entre os alunos, 
+                campeonatos com outras faculdades, além da realização de eventos de integração, 
+                como festas e ações sociais.</p>
+            <p>As práticas esportivas oferecidas contam com inúmeras modalidades, que tem como 
+                principais objetivos não só promover integração entre os alunos, mas também 
+                oferecer uma ferramenta de manutenção de saúde mental e física aos alunos da 
+                Medicina</p>
+            <p>Os treinos ocorrem semanalmente de segunda-feira à quinta-feira. Além de proporcionar 
+                uma maneira de distração, os treinos possuem o importante objetivo de organizar times 
+                competitivos para defender nossa faculdade nos Jogos Universitários de Medicina 
+                (JUMED), competindo com diversos cursos de Medicina do estado de São Paulo. </p>
         </div><!--w50-->
         <div class="w50 left">
             <img class="right" src="images/na.jpg">
@@ -93,22 +91,22 @@
         <div class="center">
         <h2 class="title">Especialidades</h2>
             <div class="w33 left box-especialidades">
-                <h3>icone</h3>
-                <h3>css</h3>
+                <h3><i class="far fa-calendar-alt"></i></h3>
+                <h3>Eventos</h3>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum explicabo laborum 
                 quia velit earum ab, suscipit, qui nam, in et ex sapiente consequatur sed. Corrupti 
                 harum laboriosam atque nam totam.</p>
             </div><!--box-especialidades-->
             <div class="w33 left box-especialidades">
-                <h3><i class="fab fa-accessible-icon"></i></h3>
-                <h3>css2</h3>
+                <h3><i class="fas fa-store"></i></h3>
+                <h3>Lojinha</h3>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum explicabo laborum 
                 quia velit earum ab, suscipit, qui nam, in et ex sapiente consequatur sed. Corrupti 
                 harum laboriosam atque nam totam.</p>
             </div><!--box-especialidades-->
             <div class="w33 left box-especialidades">
-                <h3>icone3</h3>
-                <h3>css3</h3>
+                <h3><i class="fas fa-users"></i></h3>
+                <h3>Gestão</h3>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum explicabo laborum 
                 quia velit earum ab, suscipit, qui nam, in et ex sapiente consequatur sed. Corrupti 
                 harum laboriosam atque nam totam.</p>
