@@ -5,6 +5,10 @@
 }
 
 /**boot css**/
+img{
+    width: 100%;
+    max-width: 500px;
+}
 
 .center{
     max-width: 1280px;
@@ -17,6 +21,7 @@
 }
 
 .w50{
+    padding: 0 10px;
     width: 50%;
 }
 .left{
@@ -71,7 +76,7 @@ nav.desktop a{
 
 section.banner-principal{
     width: 100%;
-    height: 700px;
+    height: 710px;
     background-image: url('../images/fotoback.jpg');
     background-size: cover;
     position: relative;
@@ -91,8 +96,8 @@ section.banner-principal .unimar{
     z-index: 2;
     position: absolute;
     text-transform: uppercase;
+    width: 93%;
     color: white;
-    font-size: 80px;
     left: 50%;
     top: 50%;
     text-align: center;
@@ -100,8 +105,17 @@ section.banner-principal .unimar{
     -ms-transform: translate(-50%, -50%);
 }
 
+section.banner-principal .unimar h2{
+    font-size: 100px;
+}
+
 section.banner-principal .unimar h3{
     color: rgb(185, 187, 45);
+    font-size: 70px;
+}
+
+section.banner-principal .unimar p{
+    font-size: 20px;
 }
 
 section.risco{
@@ -109,8 +123,82 @@ section.risco{
     width: 100%;
     background: #858646;
 }
+
 section.risco h1{
     color: white;
     text-align: center;
     padding-top: 20px;
+}
+
+/* parte 2*/
+
+section.descricao-autor{
+    padding: 40px 0;
+    background: rgb(230, 227, 227);
+}
+
+section.descricao-autor h2{
+    font-size: 30px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+}
+
+section.descricao-autor p{
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+}
+
+@media screen and (max-width: 950px){
+    nav.desktop{
+        display: none;
+    }
+
+    nav.mobile{
+        display: block;
+    }
+
+    .botao-menu-mobile{
+        font-size: 24px;
+        cursor: pointer;
+        color: white;
+    }
+
+    nav.mobile ul{
+        top: 55px;
+        z-index: 3;
+        position: absolute;
+        left: 0;
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+
+    nav.mobile li{
+        font-weight: 300;
+        width: 100%;
+        display: none;
+        background: white;
+        border-bottom: 1px solid #ccc;
+        font-size: 17px;
+        padding: 8px 0;    
+    }
+
+    nav.mobile li a{
+        display: block;
+        color: #444;
+        text-decoration: none;
+    }
+}
+
+@media screen and (max-width: 768px){
+    img{
+        float: none !important;
+        display: block;
+        margin: 0 auto;
+    }
+    .w50{
+        padding: 20px;
+        width: 100%;
+    }
 }
