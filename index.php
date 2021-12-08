@@ -66,7 +66,7 @@
     <section class="descricao-autor">
     <div class="center">
         <div class="w50 left">
-            <h2>O QUE É A A.A.A.A.N. ?</h2>
+            <h2>O QUE É A A.A.A.N. ?</h2>
             <p>A Associação Atlética Acadêmica Akira Nakadaira – AAAAN - é uma associação sem 
                 fins lucrativos formada por alunos do curso de medicina da Universidade de Marília.</p>
             <p>Nossas atividades envolvem a promoção de práticas esportivas entre os alunos, 
@@ -87,60 +87,59 @@
         <div class="clear"></div>
         </div><!--center-->
     </section><!--descrição autor-->
-    <section class="especialidades">
+    <section class="risco">
         <div class="center">
-        <h2 class="title">Especialidades</h2>
-            <div class="w33 left box-especialidades">
+            <h1>Principais</h1>
+        </div>
+    </section>
+    <section class="principais">
+        <div class="center">
+            <div class="w33 left box-principais">
                 <h3><i class="far fa-calendar-alt"></i></h3>
-                <h3>Eventos</h3>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum explicabo laborum 
-                quia velit earum ab, suscipit, qui nam, in et ex sapiente consequatur sed. Corrupti 
-                harum laboriosam atque nam totam.</p>
-            </div><!--box-especialidades-->
-            <div class="w33 left box-especialidades">
+                <button type="button">Eventos</button>
+                <p>Aqui você pode acessar os Eventos</p>
+            </div><!--box-principais-->
+            <div class="w33 left box-principais">
                 <h3><i class="fas fa-store"></i></h3>
-                <h3>Lojinha</h3>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum explicabo laborum 
-                quia velit earum ab, suscipit, qui nam, in et ex sapiente consequatur sed. Corrupti 
-                harum laboriosam atque nam totam.</p>
-            </div><!--box-especialidades-->
-            <div class="w33 left box-especialidades">
+                <button type="button">Lojinha</button>
+                <p>Produtos da nossa Lojinha</p>
+            </div><!--box-principais-->
+            <div class="w33 left box-principais">
                 <h3><i class="fas fa-users"></i></h3>
-                <h3>Gestão</h3>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum explicabo laborum 
-                quia velit earum ab, suscipit, qui nam, in et ex sapiente consequatur sed. Corrupti 
-                harum laboriosam atque nam totam.</p>
-            </div><!--box-especialidades-->
+                <button type="button">Modalidaes</button>
+                <p>Veja nossas modalidades</p>
+            </div><!--box-principais-->
+            <div class="clear"></div>
         </div><!--center-->
-    </section><!--especialidades-->
+    </section><!--principais-->
 
     <section class="extras">
        
         <div class="center">
-            <div class="w50 left">
+            <div class="w50 left depoimentos-container">
                 <h2 class="title">Depoimentos</h2>
                 <div class="depoimento-single">
-                <p class="depoimento-descricao">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
+                <p class="depoimento-descricao">"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
                 libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
-                distinctio beatae quaerat sapiente architecto illo maiores!</p>
-                <p class="class-autor">Lorem ipsum</p>
+                distinctio beatae quaerat sapiente architecto illo maiores"</p>
+                <p class="nome-autor">Lorem ipsum</p>
             </div><!--depoimento-singele-->
                 <div class="depoimento-single">
-                <p class="depoimento-descricao">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
+                <p class="depoimento-descricao">"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
                 libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
-                distinctio beatae quaerat sapiente architecto illo maiores!</p>
-                <p class="class-autor">Lorem ipsum</p>
+                distinctio beatae quaerat sapiente architecto illo maiores"</p>
+                <p class="nome-autor">Lorem ipsum</p>
             </div><!--depoimento-singele-->
                 <div class="depoimento-single">
-                <p class="depoimento-descricao">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
+                <p class="depoimento-descricao">"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
                 libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
-                distinctio beatae quaerat sapiente architecto illo maiores!</p>
-                <p class="class-autor">Lorem ipsum</p>
+                distinctio beatae quaerat sapiente architecto illo maiores"</p>
+                <p class="nome-autor">Lorem ipsum</p>
             </div><!--depoimento-singele-->
             </div><!--w50-->
 
-            <div class="w50 left">
-                <h2 class="title">serviços</h2>
+            <div class="w50 left servicos-container">
+                <h2 class="title">Serviços</h2>
                 <div class="servicos">
                 <ul>
                     <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
@@ -160,7 +159,7 @@
     </section><!--extras-->
     <footer>
         <div class="center">
-            <p>Todos os direitos reservados</p>
+            <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 20212 - Todos os Direitos Reservados</p>
         </div><!--center-->
     </footer>
     
