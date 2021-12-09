@@ -4,6 +4,36 @@
     box-sizing: border-box;
 }
 
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+
+/*====  VARIABLES ============================ */
+:root {
+    --header-height: 4.5rem;
+  
+    /* colors */
+    --hue: 159;
+    /* HSL color mode */
+    --base-color: hsl(var(--hue) 36% 57%);
+    --base-color-second: hsl(var(--hue) 65% 88%);
+    --base-color-alt: hsl(var(--hue) 57% 53%);
+    --title-color: hsl(var(--hue) 41% 10%);
+    --text-color: hsl(0 0% 46%);
+    --text-color-light: hsl(0 0% 98%);
+    --body-color: hsl(0 0% 98%);
+  
+    /* fonts */
+    --title-font-size: 1.875rem;
+    --subtitle-font-size: 1rem;
+  
+    --title-font: 'Poppins', sans-serif;
+    --body-font: 'DM Sans', sans-serif;
+  }
+
 /**boot css**/
 img{
     width: 100%;
@@ -52,10 +82,6 @@ header .logo{
     font-weight: 300;
 }
 
-.mobile{
-    padding: 10px 0;
-    display: none;  
-}
 
 nav.desktop ul{
     position: relative;
@@ -74,7 +100,8 @@ nav.desktop li{
 nav.desktop a{
     color: white;
     text-decoration: none;
-}
+} 
+
     /** FINAL NAV  **/
 
 section.banner-principal{
@@ -263,47 +290,75 @@ footer p{
     text-align: center;
 }
 
+/* nav */
+nav .menu{
+    opacity: 0;
+    visibility: hidden;
+    font-size: 1px;
+}
+
+/* mostrar menu */
+ nav.show .menu{
+    z-index: 4;
+    opacity: 1;
+    visibility: visible;
+
+    background: rgb(47, 47, 47);
+
+    height: 100%;
+    width:  100%;
+    position: fixed;
+
+    top: 0;
+    left: 0;
+    display: grid;
+    place-content: center;
+} 
+
+nav.show li{
+    font: 700 var(--title-font-size) var(--title-font);
+    -webkit-font-smoothing: auto;
+    text-align: center;
+    margin-top: 7%;
+}
+
+nav.show li a{
+    color: white;
+    transition: color 0.3s;
+    position: relative;
+}
+
+nav.show li a:hover{
+    color: rgb(61, 12, 12);
+}
+
+nav.show li a:after{
+    content: "";
+    width: 0%;
+    height: 2px;
+    background: rgb(61, 12, 12);
+
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    transition: width 1s;
+}
+
+nav.show li a:hover::after{
+    width: 100%;
+}
+
 @media screen and (max-width: 920px){
-    nav.desktop{
+     nav.desktop{
         display: none;
-    }
+    }  
 
-    nav.mobile{
+    /* nav.menu{
         display: block;
-    }
+    } */
 
-    .botao-menu-mobile{
-        margin-right: 15px;
-        font-size: 24px;
-        cursor: pointer;
-        color: white;
-    }
-
-    nav.mobile ul{
-        top: 55px;
-        z-index: 3;
-        position: absolute;
-        left: 0;
-        width: 100%;
-        display: block;
-        text-align: center;
-    }
-
-    nav.mobile li{
-        font-weight: 300;
-        width: 100%;
-        display: none;
-        background: white;
-        border-bottom: 1px solid #ccc;
-        font-size: 17px;
-        padding: 8px 0;    
-    }
-
-    nav.mobile li a{
-        display: block;
-        color: rgb(29, 27, 27);
-        text-decoration: none;
-    }
+  
+    
 }
 
 @media screen and (max-width: 920px){
