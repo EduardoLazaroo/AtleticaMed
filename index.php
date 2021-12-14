@@ -15,17 +15,14 @@
       rel="stylesheet"
     />
     <!-- links -->
-    <script src="js/script.js"></script>
     <link href="estilo/style.css" rel="stylesheet">
 
     <title>Atletica</title>
 </head>
 <body>
     <header id="header">
-
-
         <div class="logo left">Logo</div>
-            <!-- <nav class="desktop right">
+            <nav class="desktop right">
                 <ul>
                     <li><a href="#home">Home</a></li>
                     <li><a href="#eventos">Eventos</a></li>
@@ -35,10 +32,9 @@
                     <li><a href="#Hinos">Hinos</a></li>
                     <li><a href="#parcerias">Parcerias</a></li>
                 </ul>
-            </nav> -->
+            </nav>
 
-
-            <nav class="container center right ">
+            <nav class="container center right">
                 <div class="menu">
                     <ul>
                         <li><a href="#home">Home</a></li>
@@ -51,14 +47,9 @@
                     </ul>
                 </div>
 
-                <div class="open right">...</div>
-                <div class="close right">x</div>
-
+                <div class="toggle open right"><i class="fas fa-bars"></i></div>
+                <div class="toggle close right"><i class="far fa-times-circle"></i></div>
             </nav>
-
-
-
-
             <div class="clear"></div>
     </header>
 
@@ -157,7 +148,6 @@
                 <p class="nome-autor">Lorem ipsum</p>
             </div><!--depoimento-singele-->
             </div><!--w50-->
-
             <div class="w50 left servicos-container">
                 <h2 class="title">Serviços</h2>
                 <div class="servicos">
@@ -182,7 +172,6 @@
             <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 20212 - Todos os Direitos Reservados</p>
         </div><!--center-->
     </footer>
-    <script>
-    </script>
+    <script src="js/main.js"></script>
 </body>
 </html>
