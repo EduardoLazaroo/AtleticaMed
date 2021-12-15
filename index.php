@@ -22,7 +22,7 @@
     <title>Atletica</title>
 </head>
 <body>
-    <header id="header">
+    <header id="header" class="header">
         <div class="logo left">Logo</div>
             <nav class="desktop right">
                 <ul>
@@ -102,7 +102,7 @@
 
     <section class="section" id="principais">
         <div class="container grid">
-          <h2 class="title">Serviços</h2>
+          <h2 class="title">Principais</h2>
           <p class="principal">
             Lorem ipsum dolor sit amet consectetur simus temporibus 
             exercitationem dolor provident? Iste minima, provident 
@@ -134,48 +134,37 @@
 
     <div class="divider-2"></div>
 
-    <section class="extras">
-        <div class="center">
-            <div class="w50 left depoimentos-container">
-                <h2 class="title">Depoimentos</h2>
-                <div class="depoimento-single">
-                <p class="depoimento-descricao">"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
-                libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
-                distinctio beatae quaerat sapiente architecto illo maiores"</p>
-                <p class="nome-autor">Lorem ipsum</p>
-            </div><!--depoimento-singele-->
-                <div class="depoimento-single">
-                <p class="depoimento-descricao">"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
-                libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
-                distinctio beatae quaerat sapiente architecto illo maiores"</p>
-                <p class="nome-autor">Lorem ipsum</p>
-            </div><!--depoimento-singele-->
-                <div class="depoimento-single">
-                <p class="depoimento-descricao">"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
-                libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
-                distinctio beatae quaerat sapiente architecto illo maiores"</p>
-                <p class="nome-autor">Lorem ipsum</p>
-            </div><!--depoimento-singele-->
-            </div><!--w50-->
-            <div class="w50 left servicos-container">
-                <h2 class="title">Serviços</h2>
-                <div class="servicos">
-                <ul>
-                    <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
-                    libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
-                    distinctio beatae quaerat sapiente architecto illo maiores</li>
-                    <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
-                    libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
-                    distinctio beatae quaerat sapiente architecto illo maiores</li>
-                    <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti harum eaque 
-                    libero officiis facere sit. Porro unde corrupti qui nam dolorum repellendus, saepe 
-                    distinctio beatae quaerat sapiente architecto illo maiores</li>
-                </ul>
-                </div><!--servicos-->
-            </div><!--w50-->
-            <div class="clear"></div>
-        </div><!--center-->
-    </section><!--extras-->
+    <!-- TESTIMONIALS --><!-- ------------------------------------------- -->
+    <section class="section" id="testimonials">
+        <div class="container grid">
+            <h2 class="title">gestão Atletica medicina 2022</h2>
+            <div class="testimonials">
+                <div class="testimonial">
+                    <blockquote>
+                    <p>
+                        Alista de planejamento
+                    </p>
+                    <cite>
+                        <img src="https://randomuser.me/api/portraits/men/81.jpg"/> 
+                        Wanes Souza
+                    </cite>
+                    </blockquote>
+                </div>
+                <div class="testimonial">
+                    <blockquote>
+                    <p>
+                        Designer de habientes
+                    </p>
+                    <cite>
+                        <img src="https://randomuser.me/api/portraits/women/60.jpg"/> 
+                        suzani helena
+                    </cite>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+      </section>
+      <!-- ------------------------------------------- -->
     <footer>
         <div class="center">
             <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 20212 - Todos os Direitos Reservados</p>
