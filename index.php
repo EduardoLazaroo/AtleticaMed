@@ -9,6 +9,8 @@
     <script src="https://kit.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
    
     <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Nunito+Sans:wght@400;700&display=swap" rel="stylesheet">
+  
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link 
     href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap"
@@ -28,7 +30,6 @@
                     <li><a href="#eventos">Eventos</a></li>
                     <li><a href="#modalidades">Modalidades</a></li>
                     <li><a href="#lojinha">Lojinha</a></li>
-                    <li><a href="#gestao">Gestão</a></li>
                     <li><a href="#Hinos">Hinos</a></li>
                     <li><a href="#parcerias">Parcerias</a></li>
                 </ul>
@@ -41,7 +42,6 @@
                         <li><a href="#eventos">Eventos</a></li>
                         <li><a href="#modalidades">Modalidades</a></li>
                         <li><a href="#lojinha">Lojinha</a></li>
-                        <li><a href="#gestao">Gestão</a></li>
                         <li><a href="#Hinos">Hinos</a></li>
                         <li><a href="#parcerias">Parcerias</a></li>
                     </ul>
@@ -61,13 +61,12 @@
                     <h2>Atlética</h2>
                     <h2>Medicina</h2>
                     <h2>Unimar</h2>
-                    <h3>a . a . a . a . n</h3>
+                    <h3>a.a.a.a.n</h3>
                     <p>Associação Atlética Acadêmica Akira Nakadaira</p>
                 </div>
             </form>
         </div><!--center-->
     </section class=><!--banner principal-->
-
     <section class="risco">
         <div class="center">
             <h1>Raça, sangue e Suor</h1>
@@ -98,11 +97,12 @@
         <div class="clear"></div>
         </div><!--center-->
     </section><!--descrição autor-->
-    <section class="risco">
+    <div class="divider-1"></div>
+    <!-- <section class="risco">
         <div class="center">
             <h1>Principais</h1>
         </div>
-    </section>
+    </section> -->
     <section class="principais">
         <div class="center">
             <div class="w33 left box-principais">
@@ -111,21 +111,21 @@
                 <p>Aqui você pode acessar os Eventos</p>
             </div><!--box-principais-->
             <div class="w33 left box-principais">
-                <h3><i class="fas fa-store"></i></h3>
-                <button type="button">Lojinha</button>
-                <p>Produtos da nossa Lojinha</p>
-            </div><!--box-principais-->
-            <div class="w33 left box-principais">
                 <h3><i class="fas fa-users"></i></h3>
                 <button type="button">Modalidaes</button>
                 <p>Veja nossas modalidades</p>
             </div><!--box-principais-->
+            <div class="w33 left box-principais">
+                <h3><i class="fas fa-store"></i></h3>
+                <button type="button">Lojinha</button>
+                <p>Produtos da nossa Lojinha</p>
+            </div><!--box-principais-->
             <div class="clear"></div>
         </div><!--center-->
     </section><!--principais-->
+    <div class="divider-2"></div>
 
     <section class="extras">
-       
         <div class="center">
             <div class="w50 left depoimentos-container">
                 <h2 class="title">Depoimentos</h2>

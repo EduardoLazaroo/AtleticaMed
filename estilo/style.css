@@ -7,20 +7,36 @@
 a{
     text-decoration: none;
 }
+
 ul{
     list-style: none;
 }
+
+html{
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font: 400 1rem 'BM Plex Mono', monospace;
+    color: var(--text-color);
+    background: var(--body-color);
+    -webkit-font-smoothing: antialiased;
+  }
 
 /*====  VARIABLES ============================ */
 :root {
     --header-height: 4.5rem;
   
     /* colors */
-    --primary-color: rgb(0, 16, 158);
-    --secundary-color: rgb(17, 0, 112);
-    --terciary-color: rgb(173, 35, 35);
-    --back-color: ;
-
+    --f-color: rgb(7, 11, 44);
+    --pri-color: rgb(0, 7, 68);
+    --sec-color: rgb(21, 2, 129);
+    --ter-color: rgb(2, 5, 177);
+    --quar-color: rgb(10, 34, 173);
+    --quin-color: rgb(0, 81, 255);
+    --sex-color: rgb(0, 110, 255);
+    --sev-color: rgb(248, 251, 255);
+    --back-color: rgb(41, 41, 41);
   
     /* fonts */
     --title-font-size: 1.875rem;
@@ -30,10 +46,11 @@ ul{
     --body-font: 'DM Sans', sans-serif;
   }
 
-/**boot css**/
+/**Estrutura**/
 img{
+    margin-top: 30px;
     width: 100%;
-    max-width: 500px;
+    max-width: 470px;
 }
 
 .center{
@@ -64,11 +81,27 @@ img{
     clear: both;
 }
 
-/**Estilização do Site**/
+.divider-1 {
+    height: 4px;
+    background: linear-gradient(
+    270deg,
+    rgb(14, 5, 144),
+    rgb(204, 221, 244)
+    );
+  }
 
+  .divider-2 {
+    height: 4px;
+    background: linear-gradient(
+    270deg,
+    rgb(204, 221, 244),
+    rgb(14, 5, 144)
+    );
+  }
+/**Estilização do Site**/
 header{
     padding: 20px 0;
-    background: var(--secundary-color);
+    background: var(--back-color);
 }
 
 header .logo{
@@ -76,8 +109,8 @@ header .logo{
     color: white;
     text-transform: uppercase;
     font-weight: 300;
+    margin-left: 35px;
 }
-
 
 nav.desktop ul{
     position: relative;
@@ -96,15 +129,19 @@ nav.desktop li{
 nav.desktop a{
     color: white;
     text-decoration: none;
-} 
-#header.scroll{
-    box-shadow: 0px 1px 22px rgba(0, 0, 0, 0.335);
 }
+
+nav.desktop a:hover{
+    color: var(--quin-color);
+    font-size: 16px;
+    transition: 1s;
+} 
+
     /** FINAL NAV  **/
 
 section.banner-principal{
     width: 100%;
-    height: 710px;
+    height: 700px;
     background-image: url('../images/fotoback.jpg');
     background-size: cover;
     position: relative;
@@ -117,14 +154,14 @@ section.banner-principal{
     width: 100%;
     height: 100%;
     z-index: 1;
-    background-color: rgba(15, 15, 15, 0.5);
+    background-color: rgba(15, 15, 15, 0.76);
 }
 
 section.banner-principal .unimar{
-    z-index: 2;
+    z-index: 1;
     position: absolute;
     text-transform: uppercase;
-    width: 93%;
+    width: 100%;
     color: white;
     left: 50%;
     top: 50%;
@@ -134,24 +171,24 @@ section.banner-principal .unimar{
 }
 
 section.banner-principal .unimar h2{
-    font-size: 100px;
+    font-size: 110px;
 }
 
 section.banner-principal .unimar h3{
-    color: #9b1616;
-    font-size: 70px;
+    color: var(--quin-color);
+    font-size: 78px;
 }
 
 section.banner-principal .unimar p{
     font-size: 22px;
+    color: var(--sev-color);
 }
 
     /**  Risco  **/
-
 section.risco{
     height: 70px;
     width: 100%;
-    background: #610707;
+    background: var(--pri-color);
 }
 
 section.risco h1{
@@ -161,36 +198,35 @@ section.risco h1{
 }
 
     /**  Page 2  **/
-
 section.descricao-autor{
     padding: 40px 0;
-    background: rgb(34, 32, 33);
+    background: rgb(255, 255, 255);
 }
 
 section.descricao-autor h2{
     font-size: 35px;
     font-weight: 400;
-    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    color: rgb(0, 0, 0);
 }
 
 section.descricao-autor p{
     font-size: 20px;
-    color: rgb(255, 255, 255);
-    margin-top: 10px;
+    margin-top: 15px;
+    color: rgb(0, 0, 0);
 }
 
     /**  page 3  **/
-
 section.principais{
-    padding: 40px 0;
-    background: #222222;
+    margin: 60px;
+    background: #ffffff;
 }
 
 section.principais .title{
     font-size: 30px;
     text-align: center;
     font-weight: 400;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 .box-principais{
@@ -200,7 +236,7 @@ section.principais .title{
 }
 
 .box-principais h3{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 40px;
 }
 
@@ -208,7 +244,7 @@ section.principais .title{
     width: 150px;
     height: 50px;
     margin: 20px;
-    background: #992d2d;
+    background: #081146;
     cursor: pointer;
     font-weight: 300;
     color: rgb(255, 255, 255);
@@ -218,16 +254,16 @@ section.principais .title{
 }
 
 .box-principais p{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 15px;
     margin-top: 10px;
 }
 
-    /**  Page 3  **/
-
+    /**  Page 4  **/
 section.extras{
-    background: #992d2d;
-    padding-bottom: 25px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    background: #f8fdff;
 }
 
 .servicos-container,.depoimentos-container{
@@ -236,7 +272,7 @@ section.extras{
 }
 
 section.extras .title{
-    color: white;
+    color: rgb(0, 0, 0);
     font-weight: 300;
     font-size: 25px;
     margin-bottom: 25px;
@@ -255,7 +291,7 @@ p.depoimento-descricao{
 
 p.nome-autor{
     font-size: 15px;
-    color: white;
+    color: rgb(0, 0, 0);
     margin-top: 5px;
     font-weight: bold;
 }
@@ -267,7 +303,7 @@ p.nome-autor{
 .servicos li{
     margin-bottom: 15px;
     font-size: 15px;
-    color: white;
+    color: rgb(0, 0, 0);
     font-weight: 300;
 }
 
