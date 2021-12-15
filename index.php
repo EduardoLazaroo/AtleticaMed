@@ -7,7 +7,7 @@
   
     <!-- icon -->
     <script src="https://kit.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
-   
+    
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Nunito+Sans:wght@400;700&display=swap" rel="stylesheet">
   
@@ -46,7 +46,6 @@
                         <li><a href="#parcerias">Parcerias</a></li>
                     </ul>
                 </div>
-
                 <div class="toggle open right"><i class="fas fa-bars"></i></div>
                 <div class="toggle close right"><i class="far fa-times-circle"></i></div>
             </nav>
@@ -76,7 +75,7 @@
     <section class="descricao-autor">
     <div class="center">
         <div class="w50 left">
-            <h2>O QUE É A A.A.A.N. ?</h2>
+            <h2>O que é A A.A.A.N. ?</h2>
             <p>A Associação Atlética Acadêmica Akira Nakadaira – AAAAN - é uma associação sem 
                 fins lucrativos formada por alunos do curso de medicina da Universidade de Marília.</p>
             <p>Nossas atividades envolvem a promoção de práticas esportivas entre os alunos, 
@@ -98,31 +97,41 @@
         </div><!--center-->
     </section><!--descrição autor-->
     <div class="divider-1"></div>
-    <!-- <section class="risco">
-        <div class="center">
-            <h1>Principais</h1>
+
+    <!-- ------------------------------------------- -->
+
+    <section class="section" id="principais">
+        <div class="container grid">
+          <h2 class="title">Serviços</h2>
+          <p class="principal">
+            Lorem ipsum dolor sit amet consectetur simus temporibus 
+            exercitationem dolor provident? Iste minima, provident 
+            perferendis laborum dignissimos aut repellat, expedita sint 
+            possimus error <strong>susususususunt</strong> ex! Dolores.
+          </p>
+        <div class="cards grid">
+          <div class="card">
+            <i class="icon far fa-calendar-alt"></i>
+            <h3 class="title">Eventos</h3>
+            <p>Aqui você pode acessar os Eventos Aqui você pode acessar os Eventos</p>
+          </div>
+          <div class="card">
+            <i class="icon fas fa-users"></i>
+            <h3 class="title">Modalidaes</h3>
+            <p>Veja nossas modalidades Veja nossas modalidades</p>
+          </div>
+          <div class="card">
+            <i class="icon fas fa-store"></i>
+            <h3 class="title">Lojinha</h3>
+            <p> Produtos da nossa Lojinha  Produtos da nossa Lojinha</p>
+          </div>
         </div>
-    </section> -->
-    <section class="principais">
-        <div class="center">
-            <div class="w33 left box-principais">
-                <h3><i class="far fa-calendar-alt"></i></h3>
-                <button type="button">Eventos</button>
-                <p>Aqui você pode acessar os Eventos</p>
-            </div><!--box-principais-->
-            <div class="w33 left box-principais">
-                <h3><i class="fas fa-users"></i></h3>
-                <button type="button">Modalidaes</button>
-                <p>Veja nossas modalidades</p>
-            </div><!--box-principais-->
-            <div class="w33 left box-principais">
-                <h3><i class="fas fa-store"></i></h3>
-                <button type="button">Lojinha</button>
-                <p>Produtos da nossa Lojinha</p>
-            </div><!--box-principais-->
-            <div class="clear"></div>
-        </div><!--center-->
-    </section><!--principais-->
+      </div>
+      </div>
+      </section><!-- section -->
+
+<!-- ------------------------------------------- -->
+
     <div class="divider-2"></div>
 
     <section class="extras">
