@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt_BR">
 <head>
+    <!-- Page Info -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,16 +9,16 @@
     <!-- icon -->
     <script src="https://kit.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
     
+    <!-- Swiper -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
+
+    <!-- Style -->
+    <link href="estilo/style.css" rel="stylesheet">
+    
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Nunito+Sans:wght@400;700&display=swap" rel="stylesheet">
-  
-    <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link 
-    href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap"
-      rel="stylesheet"
-    />
-    <!-- links -->
-    <link href="estilo/style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet"/>
 
     <title>Atletica</title>
 </head>
@@ -136,40 +137,107 @@
 
     <!-- TESTIMONIALS --><!-- ------------------------------------------- -->
     <section class="section" id="testimonials">
-        <div class="container grid">
             <h2 class="title">gestão Atletica medicina 2022</h2>
-            <div class="testimonials">
-                <div class="testimonial">
-                    <blockquote>
-                    <p>
-                        Alista de planejamento
-                    </p>
-                    <cite>
-                        <img src="https://randomuser.me/api/portraits/men/81.jpg"/> 
-                        Wanes Souza
-                    </cite>
-                    </blockquote>
+            <div class="testimonials swiper-container">
+                <div class="swiper-wrapper">
+                    <div class="testimonial swiper-slide">
+                        <blockquote>
+                        <h3>
+                            Alista de planejamento
+                        </h3>
+                        <cite>
+                            <img src="https://randomuser.me/api/portraits/men/81.jpg"/> 
+                            <p>Jhony Soares</p>
+                        </cite>
+                        </blockquote>
+                    </div>
+
+                    <div class="testimonial swiper-slide">
+                        <blockquote>
+                        <h3>
+                            Alista de planejamento
+                        </h3>
+                        <cite>
+                            <img src="https://randomuser.me/api/portraits/women/60.jpg"/> 
+                            <p>Wanessinha69</p>
+                        </cite>
+                        </blockquote>
+                    </div>
+
+                    <div class="testimonial swiper-slide">
+                        <blockquote>
+                        <h3>
+                            Alista de planejamento
+                        </h3>
+                        <cite>
+                            <img src="https://randomuser.me/api/portraits/men/25.jpg"/> 
+                            <p>Jhonatan da Rocha</p>
+                        </cite>
+                        </blockquote>
+                    </div>
+
+                    <div class="testimonial swiper-slide">
+                        <blockquote>
+                        <h3>
+                            Alista de planejamento
+                        </h3>
+                        <cite>
+                            <img src="https://randomuser.me/api/portraits/men/80.jpg"/> 
+                            <p>Klauber Dos SAntos</p>
+                        </cite>
+                        </blockquote>
+                    </div>
+
+                    <div class="testimonial swiper-slide">
+                        <blockquote>
+                        <h3>
+                            Alista de planejamento
+                        </h3>
+                        <cite>
+                            <img src="https://randomuser.me/api/portraits/men/85.jpg"/> 
+                            <p>EddySakamoto </p>
+                        </cite>
+                        </blockquote>
+                    </div>
                 </div>
-                <div class="testimonial">
-                    <blockquote>
-                    <p>
-                        Designer de habientes
-                    </p>
-                    <cite>
-                        <img src="https://randomuser.me/api/portraits/women/60.jpg"/> 
-                        suzani helena
-                    </cite>
-                    </blockquote>
-                </div>
+
+                <!-- If we need pagination -->
+                <div class="swiper-pagination"></div>
             </div>
-        </div>
       </section>
       <!-- ------------------------------------------- -->
+      <!-- Contact -->
+      <section class="section" id="contact">
+          <div class="text">
+            <h2 class="title">Entre em contato com a gente!</h2>
+            <p>
+              Entre em contato com a nossa Atletica, queremos tirar suas dúvidas,
+              ouvir suas críticas e sugestões.
+            </p>
+            <a
+              href=""><i class="fab fa-whatsapp"></i> Entrar em contato</a>
+          </div>
+
+          <div class="links">
+            <ul>
+              <li><i class="fas fa-phone-alt"></i> 11 99845-6754</li>
+              <li><i class="fas fa-map-marker-alt"></i> R. Amauri Souza, 346</li>
+              <li><i class="fas fa-envelope-open-text"></i> contato@beautysalon.com</li>
+            </ul>
+          </div>
+      </section>
+
+
     <footer>
         <div class="center">
             <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 20212 - Todos os Direitos Reservados</p>
         </div><!--center-->
     </footer>
+
+    <!----- swiper ----->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    
+    <!----- main.js ---->
     <script src="js/main.js"></script>
 </body>
 </html>

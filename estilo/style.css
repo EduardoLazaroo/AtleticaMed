@@ -22,6 +22,9 @@ body{
     background: var(--body-color);
     -webkit-font-smoothing: antialiased;
 }
+strong{
+    color: rgb(6, 38, 180);
+}
   
 /*====  VARIABLES ============================ */
 :root {
@@ -46,7 +49,7 @@ body{
     --body-font: 'DM Sans', sans-serif;
   }
 
-/**Estrutura**/
+/******  Estrutura  ******/
 img{
     margin-top: 30px;
     width: 100%;
@@ -98,7 +101,7 @@ img{
     rgb(14, 5, 144)
     );
   }
-/**Estilização do Site**/
+/******   Estilização do Site  ********/
 header{
     padding: 20px 0;
     background: rgb(0, 19, 59);
@@ -156,7 +159,7 @@ nav .menu ul{
     display: none;
 }
 
-/* mostrar menu */
+/******** mostrar menu *********/
  nav.show .menu{
     z-index: 4;
     opacity: 1;
@@ -212,7 +215,7 @@ nav.show li a:hover::after{
 }
 
 
-/* Toggle menu */
+/****** Toggle menu ******/
 nav .close{
     visibility: hidden;
     opacity: 0;
@@ -287,7 +290,7 @@ section.banner-principal .unimar p{
     color: var(--sev-color);
 }
 
-    /**  Risco  **/
+    /****** Risco  ******/
 section.risco{
     height: 70px;
     width: 100%;
@@ -300,8 +303,8 @@ section.risco h1{
     padding-top: 20px;
 }
 
-    /**  Page 2  **/
 
+    /******  Page 2  ******/
 section.descricao-autor{
     padding-top: 40px;
     background: #f1f1f1;
@@ -322,7 +325,6 @@ section.descricao-autor p{
 }
 
     /**  -------------  page 3 --------------- **/
-
 section.section{
     padding: 5rem 0;
     background: white;
@@ -372,41 +374,7 @@ section.section h3.title{
     color: rgb(0, 68, 255);
 }
 
-
     /**  ----------------  Page 4 --------- **/
-
-section.extras{
-    background: #f1f1f1;
-}
-
-.depoimentos-container{
-    padding: 0 40px;
-}
-
-section.extras .title{
-    color: rgb(0, 0, 0);
-    font-weight: 300;
-    font-size: 25px;
-    margin-bottom: 25px;
-}
-
-.depoimento-single{
-    border-bottom: 1px solid #000000;
-}
-
-p.depoimento-descricao{
-    font-size: 15px;
-    color: var(--secundary-color);
-    font-weight: 300;
-}
-
-p.nome-autor{
-    font-size: 15px;
-    color: rgb(0, 0, 0);
-    margin-top: 5px;
-    font-weight: bold;
-}
-
 .servicos ul{
     margin: 20px 0;
 }
@@ -434,8 +402,6 @@ footer p{
     top: 50%;
     text-align: center;
 }
-
-
   
 @media screen and (max-width: 950px){
     nav.desktop{
@@ -481,6 +447,7 @@ footer p{
 #testimonials{
     background: white;
 }
+
 section h2.title{
     width: 100%;
     left: 50%;
@@ -491,14 +458,14 @@ section h2.title{
     font-size: 30px;
 }
 
-
 #testimonials blockquote{
     padding: 1rem;
     margin: 12%;
     box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.76);
     border-radius: 0.25rem;
 }
-#testimonials blockquote p{
+
+#testimonials blockquote h3{
     font-weight: 400;
     text-transform: uppercase;
     position: relative;
@@ -514,3 +481,17 @@ section h2.title{
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+#testimonials cite p{
+    margin-left: -10px;
+    font-size: 18px;
+}
+
+/*  swiper  */
+.swiper-slide{
+    height: auto;
+    padding: 4rem 1rem;
+}
+
+
+
