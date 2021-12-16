@@ -17,6 +17,7 @@ html{
 }
   
 body{
+    overflow-x: hidden;
     font: 400 1rem 'BM Plex Mono', monospace;
     color: var(--text-color);
     background: var(--body-color);
