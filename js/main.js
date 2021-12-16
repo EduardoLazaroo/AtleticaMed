@@ -25,4 +25,28 @@ const swiper = new Swiper('.swiper-container', {
     },
     keyboard: true
   })
+/* ScrollReveal: Mostrar elementos quando der scroll na página */
+const scrollReveal = ScrollReveal({
+    origin: 'top',
+    distance: '100px',
+    duration: 300,
+    reset: true
+})
+  
+scrollReveal.reveal(
+    `#about .image, #about .text,
+    #principais .title, #principais .card,
+    #testimonials header, #testimonials .testimonials
+    `,
+    { interval: 100 }
+)
 
+/* Botão voltar para o topo */
+const backToTopButton = document.querySelector('.back-to-top')
+window.addEventListener('scroll',function (){
+    if (window.scrollY >= 560) {
+        backToTopButton.classList.add('show')
+      } else {
+        backToTopButton.classList.remove('show')
+      }
+})
