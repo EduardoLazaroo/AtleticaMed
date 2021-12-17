@@ -34,7 +34,7 @@ const scrollReveal = ScrollReveal({
 })
   
 scrollReveal.reveal(
-    `#about .image, #about .text,
+    ` #about .text,
     #principais .title, #principais .card,
     #testimonials header, #testimonials .testimonials
     `,

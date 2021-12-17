@@ -205,6 +205,53 @@
                         </cite>
                         </blockquote>
                     </div>
+                    <div class="testimonial swiper-slide">
+                        <blockquote>
+                        <h3>
+                            Alista de planejamento
+                        </h3>    
+                        <cite>
+                            <img src="https://randomuser.me/api/portraits/women/60.jpg"/> 
+                            <p>Wanessinha69</p>
+                        </cite>
+                        </blockquote>
+                    </div>
+
+                    <div class="testimonial swiper-slide">
+                        <blockquote>
+                        <h3>
+                            Alista de planejamento
+                        </h3>
+                        <cite>
+                            <img src="https://randomuser.me/api/portraits/men/25.jpg"/> 
+                            <p>Jhonatan da Rocha</p>
+                        </cite>
+                        </blockquote>
+                    </div>
+
+                    <div class="testimonial swiper-slide">
+                        <blockquote>
+                        <h3>
+                            Alista de planejamento
+                        </h3>
+                        <cite>
+                            <img src="https://randomuser.me/api/portraits/men/80.jpg"/> 
+                            <p>Klauber Dos SAntos</p>
+                        </cite>
+                        </blockquote>
+                    </div>
+
+                    <div class="testimonial swiper-slide">
+                        <blockquote>
+                        <h3>
+                            Alista de planejamento
+                        </h3>
+                        <cite>
+                            <img src="https://randomuser.me/api/portraits/men/85.jpg"/> 
+                            <p>EddySakamoto </p>
+                        </cite>
+                        </blockquote>
+                    </div>
                 </div>
 
                 <!-- If we need pagination -->
