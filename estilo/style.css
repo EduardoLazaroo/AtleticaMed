@@ -106,46 +106,6 @@ img{
     rgb(14, 5, 144)
     );
   }
-  
-@media screen and (max-width: 950px){
-    nav.desktop{
-        display: none;
-    }
-
-    nav.menu{
-        display: block;
-    }  
-    
-    nav .open{
-        visibility: visible;
-        opacity: 1;
-        cursor: pointer;
-        margin-right: 15px;
-    }
-}
-
-@media screen and (max-width: 950px){
-    img{
-        float: none !important;
-        display: block;
-        margin: 0 auto;
-    }
- 
-    .w50{
-        padding: 20px;
-        width: 100%;
-    }
-
-    .w33{
-        width: 100%;
-        padding: 20px;
-    }
-    
-    .box-principais{
-        padding: 40px 20px;
-        margin: 0;
-    }
-}
 
 /******   Estilização do Site  ********/
 header{
@@ -283,6 +243,46 @@ nav .open{
     font-size: 25px;
     right: 1.5rem;
     color: white;
+}
+  
+@media screen and (max-width: 950px){
+    nav.desktop{
+        display: none;
+    }
+
+    nav.menu{
+        display: block;
+    }  
+    
+    nav .open{
+        visibility: visible;
+        opacity: 1;
+        cursor: pointer;
+        margin-right: 15px;
+    }
+}
+
+@media screen and (max-width: 950px){
+    img{
+        float: none !important;
+        display: block;
+        margin: 0 auto;
+    }
+ 
+    .w50{
+        padding: 20px;
+        width: 100%;
+    }
+
+    .w33{
+        width: 100%;
+        padding: 20px;
+    }
+    
+    .box-principais{
+        padding: 40px 20px;
+        margin: 0;
+    }
 }
 
     /** FINAL NAV  **/
