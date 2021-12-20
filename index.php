@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="pt_BR">
 <head>
+
     <!-- Page Info -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+
     <!-- icon -->
     <script src="https://kit.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
-    
+
     <!-- Swiper -->
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
 
@@ -28,23 +29,23 @@
             <nav class="desktop right">
                 <ul>
                     <li><a href="#home">Home</a></li>
-                    <li><a href="#eventos">Eventos</a></li>
-                    <li><a href="#modalidades">Modalidades</a></li>
-                    <li><a href="#lojinha">Lojinha</a></li>
-                    <li><a href="#Hinos">Hinos</a></li>
-                    <li><a href="#parcerias">Parcerias</a></li>
+                    <li><a href="pages/eventos.php">Eventos</a></li>
+                    <li><a href="pages/modalidades.php">Modalidades</a></li>
+                    <li><a href="pages/lojinha.php">Lojinha</a></li>
+                    <li><a href="pages/modalidades.php">Hinos</a></li>
+                    <li><a href="pages/parcerias.php">Parcerias</a></li>
                 </ul>
             </nav>
 
             <nav class="container center right">
                 <div class="menu">
                     <ul>
-                        <li><a href="#home">Home</a></li>
-                        <li><a href="#eventos">Eventos</a></li>
-                        <li><a href="#modalidades">Modalidades</a></li>
-                        <li><a href="#lojinha">Lojinha</a></li>
-                        <li><a href="#Hinos">Hinos</a></li>
-                        <li><a href="#parcerias">Parcerias</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="pages/eventos.php">Eventos</a></li>
+                        <li><a href="pages/modalidades.php">Modalidades</a></li>
+                        <li><a href="pages/lojinha.php">Lojinha</a></li>
+                        <li><a href="pages/modalidades.php">Hinos</a></li>
+                        <li><a href="pages/parcerias.php">Parcerias</a></li>
                     </ul>
                 </div>
                 <div class="toggle open right"><i class="fas fa-bars"></i></div>
@@ -293,7 +294,7 @@
 
     <footer>
         <div class="center">
-            <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 20212 - Todos os Direitos Reservados</p>
+            <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 2022 - Todos os Direitos Reservados</p>
         </div><!--center-->
     </footer>
     <a href="#home" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
