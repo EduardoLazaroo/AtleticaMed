@@ -649,6 +649,6 @@ section.hinos{
     background-image: url("../images/abutree_back2.png");
     position: relative;
 }
-section.hinos h2,p,title{
+/* section.hinos h2,p,title{
     color: white;
-}
+} */
