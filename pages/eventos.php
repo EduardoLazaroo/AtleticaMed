@@ -52,6 +52,7 @@
             </nav>
             <div class="clear"></div>
     </header>
+
     <!-- -------------Descricão autor------------- -->
     <br><br><br><br>
     <section class="descricao-autor" id="about">
@@ -77,6 +78,7 @@
     </section>
 
     <div class="divider-1"></div>
+    
 <!-- -------------Descricão autor------------- -->
     <section class="descricao-autor" id="about">
     <div class="center">

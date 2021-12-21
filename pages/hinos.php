@@ -5,12 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hinos</title>
-    <!-- icon -->
-    <script src="https://kit.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
+     <!-- icon -->
+     <script src="https://kit.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
 
     <!-- Style -->
     <link href="../estilo/style.css" rel="stylesheet">
-    
+
+    <!-- Swiper -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
+
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Nunito+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet"/>
+
 </head>
 <body>
 <header id="header" class="header" >
@@ -23,7 +31,7 @@
                     <li><a href="eventos.php">Eventos</a></li>
                     <li><a href="modalidades.php">Modalidades</a></li>
                     <li><a href="lojinha.php">Lojinha</a></li>
-                    <li><a href="modalidades.php">Hinos</a></li>
+                    <li><a href="#hinos">Hinos</a></li>
                     <li><a href="parcerias.php">Parcerias</a></li>
                 </ul>
             </nav>
@@ -44,20 +52,58 @@
             </nav>
             <div class="clear"></div>
     </header>
-    <br><br><br><br>
-    <h1>Inicio</h1>
-    <h1>Hinos</h1>
-    <h1>Hinos</h1>
-    <h1>Hinos</h1>
-    <h1>Hinos</h1>
-    <h1>Hinos</h1>
-    <h1>Hinos</h1>
+    <br><br><br>
+    <!-- -------------Descricão autor------------- -->
+    <section class="hinos">
+        <div>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+            <h2>edu</h2>
+        </div>
+    </section>
+
 
     <footer>
         <div class="center">
             <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 2022 - Todos os Direitos Reservados</p>
         </div><!--center-->
     </footer>
+
+     <!----- swiper ----->
+     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    
+    <!-- scrollreveal -->
+    <script src="https://unpkg.com/scrollreveal"></script>
+
     <!----- main.js ---->
     <script src="../js/main.js"></script>
 </body>

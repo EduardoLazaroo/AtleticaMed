@@ -57,7 +57,6 @@
     </header>
 
             <!-- -------Banner Principal-------- -->
-
     <section class="banner-principal" id="home">
         <div class="overlay"></div>
         <div class="center">
@@ -79,7 +78,6 @@
     </section>
 
             <!-- -------Descrição Autor-------- -->
-
     <section class="descricao-autor" id="about">
     <div class="center">
         <div class="w50 left">
@@ -110,8 +108,7 @@
     </section><!--descrição autor-->
     <div class="divider-1"></div>
 
-    <!-- ------------- Principais ------------------ -->
-
+        <!-------------- Principais ------------------>
     <section class="section" id="principais">
         <div class="container grid">
           <h2 class="title">Principais</h2>
@@ -146,8 +143,7 @@
 
     <div class="divider-2"></div>
 
-    <!------------------ Section --><!-- ---------------- -->
-
+        <!---------------- Section --><!----------------->
     <section class="section" id="testimonials">
             <h2 class="title">gestão Atletica medicina 2022</h2>
             <div class="testimonials swiper-container">
@@ -265,7 +261,7 @@
       
     <div class="divider-1"></div>
 
-       <!-- ------------ Contact --------------- -->
+       <!-------------- Contact ----------------->
       <section class="contact">
           <div class="text">
             <h2 class="title">Entre em contato com a gente!</h2>

@@ -10,7 +10,15 @@
 
     <!-- Style -->
     <link href="../estilo/style.css" rel="stylesheet">
-    
+
+    <!-- Swiper -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
+
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Nunito+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet"/>
+
 </head>
 <body>
 <header id="header" class="header" >
@@ -57,6 +65,13 @@
             <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 2022 - Todos os Direitos Reservados</p>
         </div><!--center-->
     </footer>
+
+     <!----- swiper ----->
+     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    
+    <!-- scrollreveal -->
+    <script src="https://unpkg.com/scrollreveal"></script>
+
     <!----- main.js ---->
     <script src="../js/main.js"></script>
 </body>
