@@ -290,7 +290,7 @@ nav .open{
 section.banner-principal{
     width: 100%;
     height: 650px;
-    background-image: url('../images/fotoback.jpg');
+    background-image: url('../images/fotoback2.png');
     background-size: cover;
     position: relative;
 }
@@ -319,7 +319,15 @@ section.banner-principal .unimar{
 }
 
 section.banner-principal .unimar h2{
+    font-size: 104px;
+    transition: 0.1s;
+}
+
+section.banner-principal .unimar h2:hover{
+    opacity: 1;
     font-size: 105px;
+    visibility: visible;
+
 }
 
 section.banner-principal .unimar h3{
@@ -402,6 +410,7 @@ section.section .card{
     border-bottom: 0.25rem solid rgb(0, 68, 255);
     border-radius: 0.25rem 0.25rem 0 0;
     text-align: center;
+    cursor: pointer;
 } 
 
 section.section h3.title{

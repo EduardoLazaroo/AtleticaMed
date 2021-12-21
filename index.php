@@ -126,7 +126,7 @@
             <p>Nossa Atlética tem historia pra contar! Tambem somos conhecidos por nossas conquistas
             em varias modalidades esportivas, de uma olhadinha...</p>
           </div>
-          <div class="card">
+          <div class="card" href="pages/lojinha.php">
             <i class="icon fas fa-store"></i>
             <h3 class="title">Lojinha</h3>
             <p>Em nosso loja vendemos diversos produtos que você vai se surpreeender, entre e de 
