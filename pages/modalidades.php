@@ -14,7 +14,9 @@
 </head>
 <body>
 <header id="header" class="header" >
-        <div class="logo left">Logo</div>
+        <div class="logo left">
+            <img src="../images/abutre_logo.png">
+        </div>
             <nav class="desktop right">
                 <ul>
                     <li><a href="../index.php">Home</a></li>

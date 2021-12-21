@@ -25,7 +25,9 @@
 </head>
 <body>
     <header id="header" class="header" >
-        <div class="logo left">Logo</div>
+        <div class="logo left">
+            <img src="images/abutre_logo.png">
+        </div>
             <nav class="desktop right">
                 <ul>
                     <li><a href="#home">Home</a></li>
@@ -54,6 +56,8 @@
             <div class="clear"></div>
     </header>
 
+            <!-- -------Banner Principal-------- -->
+
     <section class="banner-principal" id="home">
         <div class="overlay"></div>
         <div class="center">
@@ -73,6 +77,8 @@
             <h1>Raça, sangue, tesão e Suor</h1>
         </div>
     </section>
+
+            <!-- -------Descrição Autor-------- -->
 
     <section class="descricao-autor" id="about">
     <div class="center">
@@ -96,7 +102,7 @@
         </div><!--w50-->
         <div class="w50 left">
             <div class="image">
-                <img class="right" src="images/na.jpg">
+                <img class="right perfil" src="images/perfil.jpg">
             </div>
         </div><!--w50-->
         <div class="clear"></div>
@@ -104,7 +110,7 @@
     </section><!--descrição autor-->
     <div class="divider-1"></div>
 
-    <!-- ------------------------------------------- -->
+    <!-- ------------- Principais ------------------ -->
 
     <section class="section" id="principais">
         <div class="container grid">
@@ -138,11 +144,10 @@
       </div>
       </section><!-- section -->
 
-<!-- ------------------------------------------- -->
-
     <div class="divider-2"></div>
 
-    <!-- TESTIMONIALS --><!-- ------------------------------------------- -->
+    <!------------------ Section --><!-- ---------------- -->
+
     <section class="section" id="testimonials">
             <h2 class="title">gestão Atletica medicina 2022</h2>
             <div class="testimonials swiper-container">
@@ -254,18 +259,13 @@
                         </blockquote>
                     </div>
                 </div>
-
-                <!-- If we need pagination -->
-                <div class="swiper-pagination"></div>
             </div>
-            
             <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
-
       </section>
-      <!-- ------------------------------------------- -->
       
     <div class="divider-1"></div>
-      <!-- Contact -->
+
+       <!-- ------------ Contact --------------- -->
       <section class="contact">
           <div class="text">
             <h2 class="title">Entre em contato com a gente!</h2>

@@ -23,6 +23,10 @@ body{
     color: var(--text-color);
     background: var(--body-color);
     -webkit-font-smoothing: antialiased;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
 }
 strong{
     color: rgb(6, 38, 180);
@@ -55,12 +59,25 @@ strong{
   }
 
 /******  Estrutura  ******/
-img{
+section img.perfil{
     margin-top: 30px;
     width: 100%;
-    max-width: 470px;
+    max-width: 430px;
+}
+section img.batuka{
+    margin-top: 30px;
+    width: 100%;
+    max-width: 400px;
+}
+section img.turma{
+    margin-top: 30px;
+    margin-right: 30px;
+    width: 100%;
+    max-width: 680px;
 }
 
+
+/******  IMAGENS  ******/
 .center{
     max-width: 1280px;
     padding: 0 2%;
@@ -116,12 +133,13 @@ header{
     position: fixed;
 }
 
-header .logo{
-    font-size: 25px;
-    color: white;
-    text-transform: uppercase;
-    font-weight: 300;
-    margin-left: 35px;
+header .logo img{
+    width: 52px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: -8px;
+    margin-bottom: -10px;
+    position: center;
 }
 
 nav.desktop ul{
@@ -410,7 +428,6 @@ section.section .card{
     border-bottom: 0.25rem solid rgb(0, 68, 255);
     border-radius: 0.25rem 0.25rem 0 0;
     text-align: center;
-    cursor: pointer;
 } 
 
 section.section h3.title{
@@ -466,8 +483,8 @@ section h2.lado{
 }
 
 #testimonials cite img{
-    width: 8rem;
-    height: 8rem;
+    width: 13rem;
+    height: auto;
     object-fit: cover;
     clip-path: circle();
     margin-top: 30px;
@@ -486,6 +503,7 @@ section h2.lado{
 }
 .swiper-pagination-bullet {
     opacity: 0;
+    visibility: hidden;
 }
 
 /* ------- Contact  ------- */
@@ -505,6 +523,7 @@ section.contact h2{
 section.contact p{
     margin: 2rem 1rem;
 }
+
 /* whatsap */
 section.contact .buttonzap{
     margin: 1rem 2rem;
@@ -583,7 +602,6 @@ footer p{
     text-align: center;
 }
   
-
 /* back-to-top */
 .back-to-top{
     background: rgb(0, 55, 236);
@@ -611,3 +629,21 @@ footer p{
     opacity: 1;
     transform: translateY(0);
 }
+
+/* ---------eventos--------- */
+
+#parties cite img{
+    width: 70%;
+    height: auto;
+    object-fit: cover;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#parties cite p{
+    margin-left: -10px;
+    font-size: 18px;
+}
+
+
+
