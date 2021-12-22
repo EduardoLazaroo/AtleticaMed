@@ -46,7 +46,7 @@
                         <li><a href="pages/eventos.php">Eventos</a></li>
                         <li><a href="pages/modalidades.php">Modalidades</a></li>
                         <li><a href="pages/lojinha.php">Lojinha</a></li>
-                        <li><a href="pages/modalidades.php">Hinos</a></li>
+                        <li><a href="pages/hinos.php">Hinos</a></li>
                         <li><a href="pages/parcerias.php">Parcerias</a></li>
                     </ul>
                 </div>
@@ -271,7 +271,7 @@
             </p>
             <a
               href="https://api.whatsapp.com/send?phone=+5518998065592&text=Oi. Boa tarde!" 
-              class="buttonzap"  target="_blank"><i class="fab fa-instagram"></i>Entrar em contato
+              class="buttonzap"  target="_blank"><i class="fab fa-whatsapp"></i>Entrar em contato
             </a>
             <a
               href="https://www.instagram.com/" 

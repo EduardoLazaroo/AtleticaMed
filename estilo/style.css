@@ -649,6 +649,54 @@ section.hinos{
     background-image: url("../images/abutree_back2.png");
     position: relative;
 }
-/* section.hinos h2,p,title{
+
+section.hinos h2{
+    font-weight: 900;
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
     color: white;
-} */
+    padding: 3rem;
+    margin-bottom: 12rem;
+}
+
+section.hinos .cards{
+    padding: 5% 8%;
+}
+
+section.hinos .card{
+    padding: 4rem 2rem; 
+    margin: 20px 0;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.76);
+    border-bottom: 0.25rem solid rgb(238, 238, 240);
+    border-radius: 0.25rem 0.25rem 0 0;
+    text-align: center;
+}
+
+section.hinos h3.title{
+    color: white;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 2rem;
+}
+
+section.hinos .cards img{
+    position: absolute;
+    left: 50%;
+    top: 7.8%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+
+    width: 400px;
+    height: auto;
+}
+
+section.hinos .card p{
+    color: white;
+    font-weight: 500;
+    font-size: 17px;
+    margin-bottom: 1px;
+}
+
+

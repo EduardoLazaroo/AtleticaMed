@@ -53,41 +53,83 @@
             <div class="clear"></div>
     </header>
     <br><br><br>
+
     <!-- -------------Descricão autor------------- -->
     <section class="hinos">
-        <div>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
-            <h2>edu</h2>
+        <h2>Hinos</h2>
+        <div class="cards center">
+            <div class="center">
+                <img src="../images/abutre_white.png">
+            </div>
+            <div class="card">
+                <h3 class="title">CARNIÇAAAAAA!!!</h3>
+                <p>Abutre, voa, reina no ar</p>
+                <p>Arrasa, trucida, quem desafiar</p>
+                <p>Chega e pousa pra detonar</p>
+                <p>MEDICINA, MEDICINA, MEDICINA UNIMAR (2X)</p>
+                <br>
+                <br>
+                <p>Lá vem o Abutrão, pra botar no seu cusão</p>
+                <p>Meu pau na suas tetas, querendo sua buceta</p>
+                <p>Buceta, buceta, buceta MEDICINA</p>
+                <p>É só abrir as pernar que não saio mais de cima</p>
+                <p>É uma, é duas, é três sem parar</p>
+                <p>É MED, é MED, é MED UNIMAR</p>
+            </div>
+        </div>
+        <div class="cards center">
+            <div class="card">
+                <h3 class="title">MÉDICO LOKO</h3>
+                <p>Aqui só tem Médico Louco</p>
+                <p>Louco por putaria</p>
+                <p>Pra aqueles que acham que é pouco</p>
+                <p>Eu como sua mãe todo dia</p>
+                <p>Eu fumo até ficar louco</p>
+                <p>Eu bebo até vomitar</p>
+                <p>MED UNIMAR</p>
+                <p>Vamo MED UNIMAR, MED UNIMAR</p>
+                <p>Não para de trepá</p>
+            </div>
+        </div>
+        <div class="cards center">
+            <div class="card">
+                <h3 class="title">MACONHA</h3>
+                <p>Se você pensa que maconha mata?</p>
+                <p>Maconha não mata não</p>
+                <p>Maconha vem da cannabis</p>
+                <p>E viado vem de Ribeirão</p>
+                <p>Venha fumar com a gente</p>
+                <p>Putada de Ribeirão</p>
+                <p>Larga desses dementes</p>
+                <p>E vem dar pro Abutrão</p>
+            </div>
+        </div>
+        <div class="cards center">
+            <div class="card">
+                <h3 class="title">JUMED</h3>
+                <p>Meu coração Azul e Branco</p>
+                <p>Eu trago lá de Marília</p>
+                <p>O ABUTRÃO minha vida</p>
+                <p>JUMED coisa preferida</p>
+                <p>Vai toma no cú Unimes</p>
+                <p>Na Barão só tem viado</p>
+                <p>Unaerp retardado</p>
+                <p>O ABUTRE vai fudê o mago </p>
+            </div>
+        </div>
+        <div class="cards center">
+            <div class="card">
+                <h3 class="title">SURDO VOADOR</h3>
+                <p>Alô Alô a Unimes apanhou (2X)</p>
+                <p>Pontapezinho, muquetão (2X)</p>
+                <p>Cuidado com o surdo voador</p>
+                <p>Tira essa baqueta daí</p>
+                <p>Essa baqueta é pra dá na cabeça</p>
+                <p>Eu vou chamar o clínico</p>
+                <p>PORRADA (4x)</p>
+                <p>E o que é que deu? (2X)</p>
+                <p>Lata na cabeça (2X)</p>
+            </div>
         </div>
     </section>
 

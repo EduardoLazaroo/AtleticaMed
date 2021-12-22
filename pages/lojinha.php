@@ -43,7 +43,7 @@
                         <li><a href="eventos.php">Eventos</a></li>
                         <li><a href="modalidades.php">Modalidades</a></li>
                         <li><a href="lojinha.php">Lojinha</a></li>
-                        <li><a href="modalidades.php">Hinos</a></li>
+                        <li><a href="hinos.php">Hinos</a></li>
                         <li><a href="parcerias.php">Parcerias</a></li>
                     </ul>
                 </div>
