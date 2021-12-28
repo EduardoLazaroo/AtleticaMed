@@ -4,6 +4,9 @@
     box-sizing: border-box;
     user-select: none;
 }
+p{
+    margin-bottom: 3px;
+}
 
 a{
     text-decoration: none;
@@ -19,15 +22,15 @@ html{
   
 body{
     overflow-x: hidden;
-    font: 400 1rem 'BM Plex Mono', monospace;
-    color: var(--text-color);
-    background: var(--body-color);
+    /* font: 400 1rem 'Nunito Sans', sans-serif; */
+    font: 400 1rem 'Inter', sans-serif; /* p {margin bootom: 3px}*/
+    /* font: 400 1rem 'BM Plex Mono', monospace; */
     -webkit-font-smoothing: antialiased;
     height: 100vh;
     width: 100vw;
 }
 strong{
-    color: rgb(6, 38, 180);
+    color: rgb(45, 62, 141);
 }
 
 #header.scroll{
@@ -125,7 +128,7 @@ section img.turma{
 /****** Estilização do Site ********/
 header{
     padding: 20px 0;
-    background: rgb(0, 19, 59);
+    background: rgb(1, 11, 34);
     z-index: 2;
     width: 100%;
     position: fixed;
@@ -334,24 +337,22 @@ section.banner-principal .unimar{
 }
 
 section.banner-principal .unimar h2{
-    font-size: 104px;
+    font-size: 89px;
     transition: 0.1s;
 }
 
 section.banner-principal .unimar h2:hover{
-    opacity: 1;
-    font-size: 105px;
-    visibility: visible;
-
+    font-size: 90px;
+    color: rgb(238, 238, 255);
 }
 
 section.banner-principal .unimar h3{
     color: var(--quin-color);
-    font-size: 78px;
+    font-size: 73px;
 }
 
 section.banner-principal .unimar p{
-    font-size: 22px;
+    font-size: 20px;
     color: var(--sev-color);
 }
 
@@ -359,7 +360,7 @@ section.banner-principal .unimar p{
 section.risco{
     height: 70px;
     width: 100%;
-    background: var(--pri-color);
+    background: rgb(29, 29, 70);
 }
 
 section.risco h1{
@@ -427,6 +428,10 @@ section.section .card{
     text-align: center;
 } 
 
+section.section .card p{
+    /* text-align: justify; */
+}
+
 section.section h3.title{
     font-size: 25px;
     font-weight: 900;
@@ -437,7 +442,7 @@ section.section h3.title{
     display: block;
     margin-bottom: 1.5rem;
     font-size: 5rem;
-    color: rgb(0, 68, 255);
+    color: rgb(61, 91, 173);
 }
 
 /***** Pagina 4 *****/
@@ -505,7 +510,8 @@ section h2.lado{
 
 /**** Contact  ****/
 section.contact{
-    padding: 4rem 0;
+    text-align: center;
+    padding: 1rem 0;
     background: white;
 }
 
@@ -514,7 +520,8 @@ section.contact h2{
     text-align: center;
     font-weight: 900;
     color: rgb(0, 0, 0);
-    margin: 2rem 0;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
 }
 
 section.contact p{
@@ -601,7 +608,7 @@ footer p{
   
 /* back-to-top */
 .back-to-top{
-    background: rgb(0, 55, 236);
+    background: rgb(27, 40, 80);
     color: white;
 
     position: fixed;
@@ -643,6 +650,27 @@ footer p{
 }
 
 /********* Page Modalidades **********/
+#modalities cite img{
+    width: 95%;
+    height: auto;
+    object-fit: cover;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 650px;
+}
+
+#modalities cite p{
+    margin-left: -10px;
+    font-size: 18px;
+}
+
+#modalities .titulo p{
+    margin-bottom: 4rem;
+}
+
+#modalities .titulo h2{
+    margin-bottom: -60px;
+}
 
 /********* Page Lojinhas **********/
 
@@ -672,7 +700,7 @@ section.hinos .card{
     padding: 4rem 2rem; 
     margin: 20px 0;
     box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.76);
-    border-bottom: 0.25rem solid rgb(238, 238, 240);
+    border-bottom: 0.25rem solid rgb(255, 255, 255);
     border-radius: 0.25rem 0.25rem 0 0;
     text-align: center;
 }

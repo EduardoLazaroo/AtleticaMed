@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt_BR">
+<html lang="pt-BR">
 <head>
     <!-- Page Info -->
     <meta charset="UTF-8">
@@ -16,8 +16,11 @@
     <link href="estilo/style.css" rel="stylesheet">
     
     <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Nunito+Sans:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.gstatic.com"/>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet"/>
 
     <title>Atletica</title>
@@ -54,13 +57,13 @@
             </nav>
             <div class="clear"></div>
     </header>
-
     <!-- -------Banner Principal-------- -->
     <section class="banner-principal" id="home">
         <div class="overlay"></div>
         <div class="center">
             <form  class="unimar">
                 <div>
+                    <br><!-- espaçamento  -->
                     <h2>Atlética</h2>
                     <h2>Medicina</h2>
                     <h2>Unimar</h2>
@@ -82,9 +85,9 @@
         <div class="center">
             <div class="w50 left">
             <h2>O que é A.A.A.A.N ?</h2>
-            <div class="text">
+            <div class="text">  <strong></strong>
                 <p>A Associação Atlética Acadêmica Akira Nakadaira – AAAAN - é uma associação sem 
-                fins lucrativos formada por alunos do curso de medicina da Universidade de Marília.</p>
+                fins lucrativos formada por alunos do curso de <strong>medicina da Universidade de Marília</strong>.</p>
                 <p>Nossas atividades envolvem a promoção de práticas esportivas entre os alunos, 
                 campeonatos com outras faculdades, além da realização de eventos de integração, 
                 como festas e ações sociais.</p>
@@ -94,8 +97,8 @@
                 Medicina</p>
                 <p>Os treinos ocorrem semanalmente de segunda-feira à quinta-feira. Além de proporcionar 
                 uma maneira de distração, os treinos possuem o importante objetivo de organizar times 
-                competitivos para defender nossa faculdade nos Jogos Universitários de Medicina 
-                (JUMED), competindo com diversos cursos de Medicina do estado de São Paulo. </p>
+                competitivos para defender nossa faculdade nos <strong>Jogos Universitários de Medicina 
+                (JUMED)</strong>, competindo com diversos cursos de Medicina do estado de São Paulo. </p>
             </div>
             </div>
 
@@ -114,13 +117,13 @@
 
     <!-------------- Principais ------------------>
     <section class="section" id="principais">
-        <div class="container grid">
+        <div class="container">
           <h2 class="title">Principais</h2>
           <p class="principal">
             Nossa atletica é muito grande e temos muito a lhe apresentar, 
             sendo assim, separei <strong>três principais</strong> pesquisas em nossa pagina para você.
           </p>
-            <div class="cards grid">
+            <div class="cards">
                 <div class="card">
                     <i class="icon far fa-calendar-alt"></i>
                     <h3 class="title">Eventos</h3>

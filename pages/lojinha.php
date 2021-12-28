@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+    <!-- Page Info -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lojinha</title>
+    
     <!-- icon -->
     <script src="https://kit.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
 
@@ -19,6 +20,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com"/>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet"/>
 
+    <title>Lojinha</title>
 </head>
 <body>
 <header id="header" class="header" >
@@ -42,7 +44,7 @@
                         <li><a href="../index.php">Home</a></li>
                         <li><a href="eventos.php">Eventos</a></li>
                         <li><a href="modalidades.php">Modalidades</a></li>
-                        <li><a href="lojinha.php">Lojinha</a></li>
+                        <li><a href="#lojinha">Lojinha</a></li>
                         <li><a href="hinos.php">Hinos</a></li>
                         <li><a href="parcerias.php">Parcerias</a></li>
                     </ul>
@@ -60,11 +62,19 @@
     <h1>Lojinha</h1>
     <h1>Lojinha</h1>
 
+    <!-- footer -->
     <footer>
         <div class="center">
             <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 2022 - Todos os Direitos Reservados</p>
         </div><!--center-->
     </footer>
+
+    <!----- swiper ----->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    
+    <!-- scrollreveal -->
+    <script src="https://unpkg.com/scrollreveal"></script>
+
     <!----- main.js ---->
     <script src="../js/main.js"></script>
 </body>

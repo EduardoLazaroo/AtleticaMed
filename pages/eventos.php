@@ -126,40 +126,6 @@
                         </cite>
                         </blockquote>
                     </div>
-                    <div class="partie swiper-slide">
-                        <blockquote>
-                        <cite>
-                            <img src="../images/batukabutre.jpg"/> 
-                            <p>BatukaButre 2020</p>
-                        </cite>
-                        </blockquote>
-                    </div>
-
-                    <div class="partie swiper-slide">
-                        <blockquote>
-                        <cite>
-                            <img src="../images/mocas.jpg"/> 
-                            <p>Unimar aberta 2021</p>
-                        </cite>
-                        </blockquote>
-                    </div>
-                    <div class="partie swiper-slide">
-                        <blockquote>
-                        <cite>
-                            <img src="../images/batukabutre.jpg"/> 
-                            <p>BatukaButre 2020</p>
-                        </cite>
-                        </blockquote>
-                    </div>
-
-                    <div class="partie swiper-slide">
-                        <blockquote>
-                        <cite>
-                            <img src="../images/mocas.jpg"/> 
-                            <p>Unimar aberta 2021</p>
-                        </cite>
-                        </blockquote>
-                    </div>
                 </div>
 
                 <!-- If we need pagination -->
@@ -168,6 +134,20 @@
             <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
       </section><!-- section -->
       
+
+    <!-------------- Contact ----------------->
+    <section class="contact">
+        <div class="text">
+            <p>
+              Acesse nosso instagram e acompanhe nossos eventos!
+            </p>
+            <a
+            href="https://www.instagram.com/" 
+            class="buttoninst"  target="_blank"><i class="fab fa-instagram"></i></i>Entrar em contato
+            </a>
+        </div>
+    </section><!---- Contact ---->
+
     <div class="divider-1"></div>
 
     <!-- footer -->
