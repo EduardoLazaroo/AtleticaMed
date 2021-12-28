@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+    <!-- Page Info -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hinos</title>
-     <!-- icon -->
-     <script src="https://kit.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
+    
+    <!-- icon -->
+    <script src="https://kit.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
 
     <!-- Style -->
     <link href="../estilo/style.css" rel="stylesheet">
@@ -19,9 +20,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com"/>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet"/>
 
+    <title>Hinos</title>
 </head>
 <body>
-<header id="header" class="header" >
+    <header id="header" class="header" >
         <div class="logo left">
             <img src="../images/abutre_logo.png">
         </div>
@@ -54,7 +56,7 @@
     </header>
     <br><br><br>
 
-    <!-- -------------Descricão autor------------- -->
+    <!---------- Descricão autor ---------->
     <section class="hinos">
         <h2>Hinos</h2>
         <div class="cards center">
@@ -131,8 +133,7 @@
                 <p>Lata na cabeça (2X)</p>
             </div>
         </div>
-    </section>
-
+     </section><!-- Descricão autor -->
 
     <footer>
         <div class="center">
