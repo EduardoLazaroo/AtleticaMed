@@ -428,9 +428,9 @@ section.section .card{
     text-align: center;
 } 
 
-section.section .card p{
-    /* text-align: justify; */
-}
+/* section.section .card p{
+    text-align: justify;
+} */
 
 section.section h3.title{
     font-size: 25px;
