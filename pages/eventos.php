@@ -55,7 +55,7 @@
             <div class="clear"></div>
     </header>
 
-    <!-- -------------Descricão autor------------- -->
+    <!--------------Descricão autor--------------->
     <br><br><br><br>
     <section class="descricao-autor" id="about">
         <div class="center">
@@ -77,7 +77,7 @@
 
         <div class="clear"></div>
         </div>
-    </section>
+    </section> <!---Descricão autor----->
 
     <div class="divider-1"></div>
     

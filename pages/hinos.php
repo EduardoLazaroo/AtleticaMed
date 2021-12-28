@@ -79,6 +79,9 @@
                 <p>É MED, é MED, é MED UNIMAR</p>
             </div>
         </div>
+
+        <div class="divider-1"></div>
+
         <div class="cards center">
             <div class="card">
                 <h3 class="title">MÉDICO LOKO</h3>
@@ -93,6 +96,9 @@
                 <p>Não para de trepá</p>
             </div>
         </div>
+        
+        <div class="divider-2"></div>
+
         <div class="cards center">
             <div class="card">
                 <h3 class="title">MACONHA</h3>
@@ -106,6 +112,9 @@
                 <p>E vem dar pro Abutrão</p>
             </div>
         </div>
+
+        <div class="divider-1"></div>
+
         <div class="cards center">
             <div class="card">
                 <h3 class="title">JUMED</h3>
@@ -119,6 +128,9 @@
                 <p>O ABUTRE vai fudê o mago </p>
             </div>
         </div>
+
+        <div class="divider-2"></div>
+
         <div class="cards center">
             <div class="card">
                 <h3 class="title">SURDO VOADOR</h3>
@@ -133,6 +145,9 @@
                 <p>Lata na cabeça (2X)</p>
             </div>
         </div>
+
+        <div class="divider-1"></div>
+
      </section><!-- Descricão autor -->
 
     <footer>

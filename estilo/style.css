@@ -122,7 +122,7 @@ section img.turma{
     );
   }
 
-/******   Estilização do Site  ********/
+/****** Estilização do Site ********/
 header{
     padding: 20px 0;
     background: rgb(0, 19, 59);
@@ -164,7 +164,7 @@ nav.desktop a:hover{
     font-size: 16px;
     transition: 1s;
 } 
-/* nav */
+
 nav .menu{
     opacity: 0;
     visibility: hidden;
@@ -177,7 +177,7 @@ nav .menu ul{
     display: none;
 }
 
-/******** mostrar menu *********/
+/**** mostrar menu ****/
  nav.show .menu{
     z-index: 4;
     opacity: 1;
@@ -300,8 +300,7 @@ nav .open{
         margin: 0;
     }
 }
-
-    /** FINAL NAV  **/
+    /**** Final do Nav  ****/
 
 section.banner-principal{
     width: 100%;
@@ -356,7 +355,7 @@ section.banner-principal .unimar p{
     color: var(--sev-color);
 }
 
-    /****** Risco  ******/
+/****** Risco  ******/
 section.risco{
     height: 70px;
     width: 100%;
@@ -370,7 +369,7 @@ section.risco h1{
 }
 
 
-    /******  Page 2  ******/
+/******  Pagina 2  ******/
 section.descricao-autor{
     padding-top: 40px;
     background: #f1f1f1;
@@ -391,7 +390,7 @@ section.descricao-autor p{
     color: rgb(0, 0, 0);
 }
 
-    /**  -------------  page 3 --------------- **/
+/***** Pagina 3 *****/
 section.section{
     padding: 4rem 0;
     background: white;
@@ -441,7 +440,7 @@ section.section h3.title{
     color: rgb(0, 68, 255);
 }
 
-    /**  ----------------  Page 4 --------- **/
+/***** Pagina 4 *****/
 
 #testimonials{
     background: rgb(236, 236, 236);
@@ -494,7 +493,7 @@ section h2.lado{
     font-size: 18px;
 }
 
-/*  swiper  */
+/****  swiper  ****/
 .swiper-slide{
     height: auto;
     padding: 4rem 1rem;
@@ -504,7 +503,7 @@ section h2.lado{
     visibility: hidden;
 }
 
-/* ------- Contact  ------- */
+/**** Contact  ****/
 section.contact{
     padding: 4rem 0;
     background: white;
@@ -582,7 +581,7 @@ section.contact ul li i{
     font-size: 1.5rem;
     color: rgb(0, 0, 49);
 }
-
+/***** Footer *****/
 footer{
     background: #000000;
     padding: 30px 0;
@@ -628,8 +627,7 @@ footer p{
     transform: translateY(0);
 }
 
-/* ---------eventos--------- */
-
+/********* Page Eventos **********/
 #parties cite img{
     width: 100%;
     height: auto;
@@ -644,7 +642,11 @@ footer p{
     font-size: 18px;
 }
 
-/* ---------hinos---------- */
+/********* Page Modalidades **********/
+
+/********* Page Lojinhas **********/
+
+/********* Page Hinos **********/
 section.hinos{
     background-image: url("../images/abutree_back2.png");
     position: relative;
@@ -659,7 +661,7 @@ section.hinos h2{
     padding: 3rem;
     margin-bottom: 12rem;
     visibility: hidden;
-    /* visibleee */
+    /* Depois colocar visibleee */
 }
 
 section.hinos .cards{
@@ -702,3 +704,5 @@ section.hinos .card p{
 }
 
 
+
+/********* Page Parcerias **********/

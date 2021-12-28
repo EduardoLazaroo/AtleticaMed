@@ -33,7 +33,7 @@
                     <li><a href="pages/eventos.php">Eventos</a></li>
                     <li><a href="pages/modalidades.php">Modalidades</a></li>
                     <li><a href="pages/lojinha.php">Lojinha</a></li>
-                    <li><a href="pages/modalidades.php">Hinos</a></li>
+                    <li><a href="pages/hinos.php">Hinos</a></li>
                     <li><a href="pages/parcerias.php">Parcerias</a></li>
                 </ul>
             </nav>
