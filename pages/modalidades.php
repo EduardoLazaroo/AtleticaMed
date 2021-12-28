@@ -80,8 +80,8 @@
 
     <!-- -------------Section slide------------- -->
     <section class="section" id="modalities">
+    <p>Arraste para o lado e visualize nossas fotos!</p>
         <div class="titulo">   
-            <p>Arraste para o lado e visualize nossas fotos!</p>
             <h2 class="title">Atletismo</h2>
         </div> 
         <div class="modalities swiper-container">
@@ -89,8 +89,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/batukabutre.jpg"/> 
-                        <p>Atletismo 2019</p>
+                        <img src="../images/modalidades/atletismo1.jpg"/> 
+                        <p>Atletismo1 2019</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -98,7 +98,7 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/mocas.jpg"/> 
+                        <img src="../images/modalidades/atletismo2.jpg"/> 
                         <p>Atletismo 2020</p>
                     </cite>
                     </blockquote>
@@ -109,6 +109,308 @@
             <div class="swiper-pagination"></div>
         </div>
         <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <!-- divisao -->
+        <div class="titulo">   
+            <h2 class="title">Basquete</h2>
+        </div> 
+        <div class="modalities swiper-container">
+            <div class="swiper-wrapper">
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/basquete2.jpg"/> 
+                        <p>Basquete 2019</p>
+                    </cite>
+                    </blockquote>
+                </div>
+
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/basquete2.jpg"/> 
+                        <p>Basquete 2020</p>
+                    </cite>
+                    </blockquote>
+                </div>
+            </div>
+
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+        
+        <!-- divisao -->
+        <div class="titulo">   
+            <h2 class="title">Futebol de Campo</h2>
+        </div> 
+        <div class="modalities swiper-container">
+            <div class="swiper-wrapper">
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/futebol1.jpg"/> 
+                        <p>Futebol de Campo 2019</p>
+                    </cite>
+                    </blockquote>
+                </div>
+
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/futebol2.jpg"/> 
+                        <p>Futebol de Campo 2020</p>
+                    </cite>
+                    </blockquote>
+                </div>
+            </div>
+
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <!-- divisao -->
+        <div class="titulo">   
+            <h2 class="title">Futsal</h2>
+        </div> 
+        <div class="modalities swiper-container">
+            <div class="swiper-wrapper">
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/futsal1.jpg"/> 
+                        <p>Futsal 2019</p>
+                    </cite>
+                    </blockquote>
+                </div>
+
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/futsal2.jpg"/> 
+                        <p>Futsal 2020</p>
+                    </cite>
+                    </blockquote>
+                </div>
+            </div>
+
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <!-- divisao -->
+        <div class="titulo">   
+            <h2 class="title">Handbol</h2>
+        </div> 
+        <div class="modalities swiper-container">
+            <div class="swiper-wrapper">
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/handball1.jpg"/> 
+                        <p>Handbol 2019</p>
+                    </cite>
+                    </blockquote>
+                </div>
+
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/handball1.jpg"/> 
+                        <p>Handbol 2020</p>
+                    </cite>
+                    </blockquote>
+                </div>
+            </div>
+
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <!-- divisao -->
+        <div class="titulo">   
+            <h2 class="title">Judô</h2>
+        </div> 
+        <div class="modalities swiper-container">
+            <div class="swiper-wrapper">
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/judo1.jpg"/> 
+                        <p>Judô 2019</p>
+                    </cite>
+                    </blockquote>
+                </div>
+
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/judo2.jpg"/> 
+                        <p>Judô 2020</p>
+                    </cite>
+                    </blockquote>
+                </div>
+            </div>
+
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <!-- divisao -->
+        <div class="titulo">   
+            <h2 class="title">Natação</h2>
+        </div> 
+        <div class="modalities swiper-container">
+            <div class="swiper-wrapper">
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/natacao1.jpg"/> 
+                        <p>Natação 2019</p>
+                    </cite>
+                    </blockquote>
+                </div>
+
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/natacao2.jpg"/> 
+                        <p>Natação 2020</p>
+                    </cite>
+                    </blockquote>
+                </div>
+            </div>
+
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <!-- divisao -->
+        <div class="titulo">   
+            <h2 class="title">Tênis de Campo</h2>
+        </div> 
+        <div class="modalities swiper-container">
+            <div class="swiper-wrapper">
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/tenis_campo1.jpg"/> 
+                        <p>Tênis de Campo 2019</p>
+                    </cite>
+                    </blockquote>
+                </div>
+
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/tenis_campo2.jpg"/> 
+                        <p>Tênis de Campo 2020</p>
+                    </cite>
+                    </blockquote>
+                </div>
+            </div>
+
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <!-- divisao -->
+        <div class="titulo">   
+            <h2 class="title">Tênis de Mesa</h2>
+        </div> 
+        <div class="modalities swiper-container">
+            <div class="swiper-wrapper">
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/tenis_mesa2.jpg"/> 
+                        <p>Tênis de Mesa 2019</p>
+                    </cite>
+                    </blockquote>
+                </div>
+
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/tenis_mesa2.jpg"/> 
+                        <p>Tênis de Mesa 2020</p>
+                    </cite>
+                    </blockquote>
+                </div>
+            </div>
+
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <!-- divisao -->
+        <div class="titulo">   
+            <h2 class="title">Vôlei</h2>
+        </div> 
+        <div class="modalities swiper-container">
+            <div class="swiper-wrapper">
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/volei1.jpg"/> 
+                        <p>Vôlei 2019</p>
+                    </cite>
+                    </blockquote>
+                </div>
+
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/volei2.jpg"/> 
+                        <p>Vôlei 2020</p>
+                    </cite>
+                    </blockquote>
+                </div>
+            </div>
+
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <!-- divisao -->
+        <div class="titulo">   
+            <h2 class="title">Xadrez</h2>
+        </div> 
+        <div class="modalities swiper-container">
+            <div class="swiper-wrapper">
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/xadrez1.jpg"/> 
+                        <p>Xadrez 2019</p>
+                    </cite>
+                    </blockquote>
+                </div>
+
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/xadrez2.jpg"/> 
+                        <p>Xadrez 2020</p>
+                    </cite>
+                    </blockquote>
+                </div>
+            </div>
+
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+
       </section><!-- section -->
     
 
@@ -118,6 +420,8 @@
             <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 2022 - Todos os Direitos Reservados</p>
         </div><!--center-->
     </footer>
+    <!----- botao top ----->
+    <a href="#principais" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
 
     <!----- swiper ----->
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>

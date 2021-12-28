@@ -308,7 +308,7 @@ nav .open{
 section.banner-principal{
     width: 100%;
     height: 650px;
-    background-image: url('../images/fotoback2.png');
+    background-image: url('../images/fotoback.png');
     background-size: cover;
     position: relative;
 }
@@ -664,7 +664,7 @@ footer p{
     font-size: 18px;
 }
 
-#modalities .titulo p{
+#modalities p{
     margin-bottom: 4rem;
 }
 
@@ -676,7 +676,7 @@ footer p{
 
 /********* Page Hinos **********/
 section.hinos{
-    background-image: url("../images/abutree_back2.png");
+    background-image: url("../images/abutre_back.png");
     position: relative;
 }
 

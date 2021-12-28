@@ -143,11 +143,11 @@
             </p>
             <a
             href="https://www.instagram.com/" 
-            class="buttoninst"  target="_blank"><i class="fab fa-instagram"></i></i>Entrar em contato
+            class="buttoninst"  target="_blank"><i class="fab fa-instagram"></i></i>Acessar Instagram
             </a>
         </div>
     </section><!---- Contact ---->
-
+    <br><br>
     <div class="divider-1"></div>
 
     <!-- footer -->
