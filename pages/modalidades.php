@@ -75,6 +75,21 @@
                 </div>
             </div>
         </div>
+        <div class="center">
+            <div class="links">
+                <a href="#atletismo">Atletismo</a>
+                <a href="#basquete">Basquete</a>
+                <a href="#futebol_campo">Futebol de Campo</a>
+                <a href="#futsal">futsal</a>
+                <a href="#handbol">Handbol</a>
+                <a href="#judo">Judô</a>
+                <a href="#natacao">Natação</a>
+                <a href="#tenis_campo">Tênis de Campo</a>
+                <a href="#tenis_mesa">Tênis de Mesa</a>
+                <a href="#volei">Vôlei</a>
+                <a href="#xadrez">Xadrez</a>
+            </div>
+        </div>
     </section><!-- Principais -->
 
     <div class="divider-1"></div>
@@ -110,7 +125,7 @@
         <div class="divider-2"></div>
 
         <!-- divisao -->
-        <div class="titulo">   
+        <div class="titulo" id="basquete">   
             <h2 class="title">Basquete</h2>
         </div> 
         <div class="modalities swiper-container">
