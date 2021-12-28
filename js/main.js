@@ -28,15 +28,20 @@ const swiper = new Swiper('.swiper-container', {
 /* ScrollReveal: Mostrar elementos quando der scroll na página */
 const scrollReveal = ScrollReveal({
     origin: 'top',
-    distance: '100px',
+    distance: '30px',
     duration: 300,
     reset: true
 })
   
 scrollReveal.reveal(
-    ` #about .text,
+    `
+    #about .text,
     #principais .title, #principais .card,
-    #testimonials header, #testimonials .testimonials
+    #testimonials header, #testimonials .testimonials,
+    #contact .title, #contact a,
+    #parties .title, #parties p,
+    #modalities .title, #modalities p,
+    #hinos .title, #hinos p
     `,
     { interval: 100 }
 )

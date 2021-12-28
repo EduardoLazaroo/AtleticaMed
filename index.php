@@ -268,7 +268,7 @@
     <div class="divider-1"></div>
 
     <!-------------- Contact ----------------->
-    <section class="contact">
+    <section class="contact" id="contact">
         <div class="text">
             <h2 class="title">Entre em contato com a gente!</h2>
             <p>

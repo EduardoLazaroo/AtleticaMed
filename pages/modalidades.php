@@ -61,7 +61,9 @@
         <div class="container">
             <div class="cards">
                 <div class="card">
-                    <i class="fas fa-volleyball-ball"></i>
+                    <i class="fas fa-swimmer"></i>
+                    <i class="fas fa-futbol left"></i>
+                    <i class="fas fa-volleyball-ball right"></i>
                     <h3 class="title">Modalidaes</h3>
                     <p>Visa incrementar ações no meio esportivo e atividade física, com intuito de educar os participantes 
                         para uma vida mais ativa e ocupando o tempo livre com práticas saudáveis.</p>
@@ -70,7 +72,6 @@
                         com integração social, espírito de equipe e valorização pessoal.</p>
                     <p>Escolha sua modalidade e seja mais um atleta abutre de coração a representar a faculdade. 
                         Contamos com você!</p>
-                    
                 </div>
             </div>
         </div>
@@ -104,11 +105,9 @@
                     </blockquote>
                 </div>
             </div>
-
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
         </div>
-        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <div class="divider-2"></div>
 
         <!-- divisao -->
         <div class="titulo">   
@@ -134,12 +133,10 @@
                     </blockquote>
                 </div>
             </div>
-
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
         </div>
-        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
-        
+
+        <div class="divider-1"></div>
+
         <!-- divisao -->
         <div class="titulo">   
             <h2 class="title">Futebol de Campo</h2>
@@ -164,11 +161,9 @@
                     </blockquote>
                 </div>
             </div>
-
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
         </div>
-        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <div class="divider-2"></div>
 
         <!-- divisao -->
         <div class="titulo">   
@@ -194,11 +189,9 @@
                     </blockquote>
                 </div>
             </div>
-
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
         </div>
-        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <div class="divider-1"></div>
 
         <!-- divisao -->
         <div class="titulo">   
@@ -224,11 +217,9 @@
                     </blockquote>
                 </div>
             </div>
-
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
         </div>
-        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <div class="divider-2"></div>
 
         <!-- divisao -->
         <div class="titulo">   
@@ -254,11 +245,9 @@
                     </blockquote>
                 </div>
             </div>
-
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
         </div>
-        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <div class="divider-2"></div>
 
         <!-- divisao -->
         <div class="titulo">   
@@ -284,11 +273,9 @@
                     </blockquote>
                 </div>
             </div>
-
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
         </div>
-        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <div class="divider-1"></div>
 
         <!-- divisao -->
         <div class="titulo">   
@@ -314,11 +301,9 @@
                     </blockquote>
                 </div>
             </div>
-
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
         </div>
-        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+        
+        <div class="divider-2"></div>
 
         <!-- divisao -->
         <div class="titulo">   
@@ -344,11 +329,9 @@
                     </blockquote>
                 </div>
             </div>
-
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
         </div>
-        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <div class="divider-1"></div>
 
         <!-- divisao -->
         <div class="titulo">   
@@ -374,11 +357,9 @@
                     </blockquote>
                 </div>
             </div>
-
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
         </div>
-        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <div class="divider-2"></div>
 
         <!-- divisao -->
         <div class="titulo">   
@@ -404,11 +385,9 @@
                     </blockquote>
                 </div>
             </div>
-
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
         </div>
-        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+
+        <div class="divider-1"></div>
 
 
       </section><!-- section -->

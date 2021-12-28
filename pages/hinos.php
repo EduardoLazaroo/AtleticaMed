@@ -57,7 +57,7 @@
     <br><br><br>
 
     <!---------- Descricão autor ---------->
-    <section class="hinos">
+    <section class="hinos" id="hinos">
         <h2>Hinos</h2>
         <div class="cards center">
             <div class="center">
