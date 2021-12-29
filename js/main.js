@@ -38,7 +38,7 @@ scrollReveal.reveal(
     #about .text,
     #principais .title, #principais .card,
     #testimonials header, #testimonials .testimonials,
-    #contact .title, #contact a,
+    #contact .title,
     #parties .title, #parties p,
     #modalities .title, #modalities p,
     #hinos .title, #hinos p
