@@ -97,7 +97,7 @@
     <!-- -------------Section slide------------- -->
     <section class="section" id="modalities">
     <p>Arraste para o lado e visualize nossas fotos!</p>
-        <div class="titulo">   
+        <div class="titulo" id="atletismo">   
             <h2 class="title">Atletismo</h2>
         </div> 
         <div class="modalities swiper-container">
@@ -153,7 +153,7 @@
         <div class="divider-1"></div>
 
         <!-- divisao -->
-        <div class="titulo">   
+        <div class="titulo" id="futebol_campo">   
             <h2 class="title">Futebol de Campo</h2>
         </div> 
         <div class="modalities swiper-container">
@@ -181,7 +181,7 @@
         <div class="divider-2"></div>
 
         <!-- divisao -->
-        <div class="titulo">   
+        <div class="titulo" id="futsal">   
             <h2 class="title">Futsal</h2>
         </div> 
         <div class="modalities swiper-container">
@@ -209,7 +209,7 @@
         <div class="divider-1"></div>
 
         <!-- divisao -->
-        <div class="titulo">   
+        <div class="titulo" id="handbol">   
             <h2 class="title">Handbol</h2>
         </div> 
         <div class="modalities swiper-container">
@@ -237,7 +237,7 @@
         <div class="divider-2"></div>
 
         <!-- divisao -->
-        <div class="titulo">   
+        <div class="titulo" id="judo">   
             <h2 class="title">Judô</h2>
         </div> 
         <div class="modalities swiper-container">
@@ -265,7 +265,7 @@
         <div class="divider-2"></div>
 
         <!-- divisao -->
-        <div class="titulo">   
+        <div class="titulo" id="natacao">   
             <h2 class="title">Natação</h2>
         </div> 
         <div class="modalities swiper-container">
@@ -293,7 +293,7 @@
         <div class="divider-1"></div>
 
         <!-- divisao -->
-        <div class="titulo">   
+        <div class="titulo" id="tenis_campo">   
             <h2 class="title">Tênis de Campo</h2>
         </div> 
         <div class="modalities swiper-container">
@@ -321,7 +321,7 @@
         <div class="divider-2"></div>
 
         <!-- divisao -->
-        <div class="titulo">   
+        <div class="titulo" id="tenis_mesa">   
             <h2 class="title">Tênis de Mesa</h2>
         </div> 
         <div class="modalities swiper-container">
@@ -349,7 +349,7 @@
         <div class="divider-1"></div>
 
         <!-- divisao -->
-        <div class="titulo">   
+        <div class="titulo" id="volei">   
             <h2 class="title">Vôlei</h2>
         </div> 
         <div class="modalities swiper-container">
@@ -377,7 +377,7 @@
         <div class="divider-2"></div>
 
         <!-- divisao -->
-        <div class="titulo">   
+        <div class="titulo" id="xadrez">   
             <h2 class="title">Xadrez</h2>
         </div> 
         <div class="modalities swiper-container">

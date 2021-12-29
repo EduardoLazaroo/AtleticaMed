@@ -461,7 +461,7 @@ section h2.title{
 }
 
 section h2.lado{
-    color: rgb(13, 113, 180);
+    color: rgb(41, 40, 126);
     width: 30px;
     height: 30px;
     margin-top: -80px;
@@ -664,7 +664,7 @@ section.section .links a{
 
 
 #modalities cite img{
-    width: 95%;
+    width: 100%;
     height: auto;
     object-fit: cover;
     margin-bottom: 10px;
