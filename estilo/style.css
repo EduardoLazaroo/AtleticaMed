@@ -111,7 +111,7 @@ section img.turma{
     height: 4px;
     background: linear-gradient(
     270deg,
-    rgb(14, 5, 144),
+    rgb(34, 28, 122),
     rgb(204, 221, 244)
     );
   }
@@ -121,7 +121,7 @@ section img.turma{
     background: linear-gradient(
     270deg,
     rgb(204, 221, 244),
-    rgb(14, 5, 144)
+    rgb(43, 35, 160)
     );
   }
 
@@ -216,7 +216,7 @@ nav.show li a{
 }
 
 nav.show li a:hover{
-    color: rgb(23, 45, 170);
+    color: rgb(39, 51, 114);
 }
 
 nav.show li a:after{
@@ -353,7 +353,7 @@ section.banner-principal .unimar h3{
 
 section.banner-principal .unimar p{
     font-size: 20px;
-    color: var(--sev-color);
+    color: white;
 }
 
 /****** Risco  ******/
@@ -638,6 +638,7 @@ footer p{
     opacity: 1;
     transform: translateY(0);
 }
+
 
 /********* Page Eventos **********/
 #parties cite img{
