@@ -38,9 +38,8 @@ scrollReveal.reveal(
     #about .text,
     #principais .title, #principais .card,
     #testimonials header, #testimonials .testimonials,
-    #contact .title,
-    #parties .title, #parties p,
-    #modalities .title, #modalities p,
+    #contact .title, #parties .title,
+    #modalities .title,
     #hinos .title, #hinos p
     `,
     { interval: 100 }
