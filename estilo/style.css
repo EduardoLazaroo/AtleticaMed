@@ -4,6 +4,7 @@
     box-sizing: border-box;
     user-select: none;
 }
+
 p{
     margin-bottom: 3px;
 }
@@ -427,15 +428,21 @@ section.section .card{
     text-align: center;
 } 
 
-/* section.section .card p{
-    text-align: justify;
-} */
-
 section.section h3.title{
     font-size: 25px;
     font-weight: 900;
     padding: 17px 0;
 } 
+
+section.section h3.title a{
+    transition: 0.3s;
+    color: rgb(85, 110, 221);
+}
+
+section.section h3.title a:hover{
+    font-size: 26px;
+    color: rgb(49, 85, 204);
+}
 
 section.section .card i{
     display: block;
@@ -481,6 +488,7 @@ section h2.lado{
     position: relative;
     text-indent: 1.875rem;
     margin-bottom: 1.5rem;
+    margin-left: -33px;
 }
 
 #testimonials cite img{
@@ -585,6 +593,7 @@ section.contact ul li{
     display: flex;
     margin: 1rem 0;
     align-items: center;
+    user-select: text;
 }
 section.contact ul li i{
     margin-right: 10px;
