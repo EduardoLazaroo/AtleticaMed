@@ -55,12 +55,21 @@
             <div class="clear"></div>
     </header>
     <br><br><br><br>
-    <h1>Inicio</h1>
-    <h1>Lojinha</h1>
-    <h1>Lojinha</h1>
-    <h1>Lojinha</h1>
-    <h1>Lojinha</h1>
-    <h1>Lojinha</h1>
+    
+    <!-- -------------Section Principais------------- -->
+    <section class="section" id="principais">
+        <div class="cards">
+            <div class="card">
+            <i class="fas fa-store"></i>
+                <h3 class="title">Lojinha</h3>
+                <p>Visa incrementar ações no meio esportivo e atividade física, com intuito de educar os participantes 
+                    para uma vida mais ativa e ocupando o tempo livre com práticas saudáveis.</p>
+            </div>
+        </div>
+    </section><!-- Principais -->
+
+    <div class="divider-1"></div>
+
 
     <!-- footer -->
     <footer>
