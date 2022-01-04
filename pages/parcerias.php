@@ -62,8 +62,9 @@
             <div class="card">
             <i class="far fa-handshake"></i>
                 <h3 class="title">Parcerias</h3>
-                <p>Visa incrementar ações no meio esportivo e atividade física, com intuito de educar os participantes 
-                    para uma vida mais ativa e ocupando o tempo livre com práticas saudáveis.</p>
+                <p>Cada vez mais as redes sociais tem sido utilizadas como ferramentas 
+                    para gerar divulgação, vendas e lucratividade por diversas marcas. 
+                    Sendo assim a nossa Atlética esta repleta de parcerias em Marilia e região.</p>
             </div>
         </div>
     </section><!-- Principais -->
@@ -86,7 +87,7 @@
             </div>
             
 
-            <div class="w33 left">
+            <div class="w33 right">
                 <div>
                     <img class="right perfil" src="../images/parcerias/03.png">
                      <h3 class="title">Rock Temakeria</h3>

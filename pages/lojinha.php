@@ -58,18 +58,48 @@
     
     <!-- -------------Section Principais------------- -->
     <section class="section" id="principais">
-        <div class="cards">
             <div class="card">
             <i class="fas fa-store"></i>
                 <h3 class="title">Lojinha</h3>
-                <p>Visa incrementar ações no meio esportivo e atividade física, com intuito de educar os participantes 
-                    para uma vida mais ativa e ocupando o tempo livre com práticas saudáveis.</p>
+                <p>Tem Novidades chegando!! Sigam as Redes Sociais e fiquem por dentro das promoções,sorteios e todas as novidades!</p>
             </div>
-        </div>
     </section><!-- Principais -->
 
     <div class="divider-1"></div>
 
+    <!-------- warning -------->
+    <section class="warning" id="warning">
+        <div class="card">
+            <div class="center">
+                <h2>
+                    <i class="fas fa-exclamation-triangle"></i>
+                        O ministério da saúde adverte: Falta de novos looks deprime!
+                    <i class="fas fa-exclamation-triangle"></i>
+                </h2>
+            </div>
+        </div>
+    </section><!----- warning ----->
+
+    <!-- -------Descrição Autor-------- -->
+    <section class="store" id="store">
+        <div class="center">
+
+            <div class="w50 left">
+                <div>
+                    <img class="left perfil" src="../images/lojinha/a.jpg">
+                </div>
+            </div>
+            
+
+            <div class="w50 left">
+                <div>
+                    <img class="right perfil" src="../images/lojinha/a.jpg">
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </section><!--Store-->
+   
 
     <!-- footer -->
     <footer>

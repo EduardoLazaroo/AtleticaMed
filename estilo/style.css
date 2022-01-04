@@ -650,6 +650,11 @@ footer p{
 
 
 /********* Page Eventos **********/
+#parties p.sub{
+    font-size: 14px;
+    margin-top: 40px;
+}
+
 #parties cite img{
     width: 100%;
     height: auto;
@@ -700,6 +705,20 @@ section.section .links a{
 }
 
 /********* Page Lojinhas **********/
+#warning .card{
+    padding: 1rem 0.5rem; 
+    margin: 3rem 14%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.76);
+    border-bottom: 0.25rem solid rgb(19, 87, 212);
+    border-radius: 0.25rem 0.25rem 0 0;
+    text-align: center;
+}
+
+#warning .card i{
+    margin: 0 5px;
+    color: rgb(41, 84, 223);
+    font-size: 23px;
+}
 
 /********* Page Hinos **********/
 section.hinos{

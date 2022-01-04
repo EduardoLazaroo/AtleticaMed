@@ -106,33 +106,34 @@
 
     <!-- -------------Section slide------------- -->
     <section class="section" id="parties">
-            <h2 class="title">Eventos da nossa atletica</h2>
-            <div class="parties swiper-container">
-                <div class="swiper-wrapper">
-                    <div class="partie swiper-slide">
-                        <blockquote>
-                        <cite>
-                            <img src="../images/batukabutre.jpg"/> 
-                            <p>BatukaButre 2020</p>
-                        </cite>
-                        </blockquote>
-                    </div>
-
-                    <div class="partie swiper-slide">
-                        <blockquote>
-                        <cite>
-                            <img src="../images/mocas.jpg"/> 
-                            <p>Unimar aberta 2021</p>
-                        </cite>
-                        </blockquote>
-                    </div>
+        <h2 class="title">Eventos da nossa atletica</h2>
+        <p class="sub">Arraste para o lado e visualize nossas fotos!</p>
+        <div class="parties swiper-container">
+            <div class="swiper-wrapper">
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/batukabutre.jpg"/> 
+                        <p>BatukaButre 2020</p>
+                    </cite>
+                    </blockquote>
                 </div>
 
-                <!-- If we need pagination -->
-                <div class="swiper-pagination"></div>
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/mocas.jpg"/> 
+                        <p>Unimar aberta 2021</p>
+                    </cite>
+                    </blockquote>
+                </div>
             </div>
-            <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
-      </section><!-- section -->
+
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
+    </section><!-- section -->
       
 
     <!-------------- Contact ----------------->

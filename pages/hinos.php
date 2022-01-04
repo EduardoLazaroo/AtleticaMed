@@ -148,6 +148,21 @@
 
         <div class="divider-1"></div>
 
+        <div class="cards center">
+            <div class="card">
+                <h3 class="title">TETRA</h3>
+                <p>Ooo Marilia eu quero te ver contente</p>
+                <p>Americana tambem é casa da gente</p>
+                <p>E no Jumed o abutre tem moral</p>
+                <br>
+                <br>
+                <p>Vai tomar no cu unimes</p>
+                <p>Barão chupa meu pau (2x)</p>
+            </div>
+        </div>
+
+        <div class="divider-2"></div>  
+
      </section><!-- Descricão autor -->
 
     <footer>
