@@ -72,7 +72,7 @@
     <div class="divider-1"></div>
 
     <!-- -------Descrição Autor-------- -->
-    <section class="descricao-autor">
+    <section class="descricao-autor"  id="parcerias" >
         <div class="center">
             <div class="w33 left">
                 <img class="patrocinio" src="../images/parcerias/01.png">
@@ -87,17 +87,17 @@
             </div>
             
 
-            <div class="w33 left">
+            <div class="w33 right">
                 <div>
                     <img class="patrocinio" src="../images/parcerias/03.png">
-                    <h3 class="title">Rock Temakeria</h3>
+                     <h3 class="title">Rock Temakeria</h3>
                 </div>
             </div>
             <div class="clear"></div>
         </div>
     </section><!--descrição autor-->
     
-    <section class="descricao-autor">
+    <section class="descricao-autor"  id="parcerias" >
         <div class="center">
             <div class="w33 left">
             <img class="patrocinio" src="../images/parcerias/04.png">
@@ -121,7 +121,7 @@
         </div>
     </section><!--descrição autor-->
     
-    <section class="descricao-autor">
+    <section class="descricao-autor"  id="parcerias" >
         <div class="center">
             <div class="w33 left">
             <img class="patrocinio" src="../images/parcerias/07.png">
@@ -145,7 +145,7 @@
         </div>
     </section><!--descrição autor-->
     
-    <section class="descricao-autor">
+    <section class="descricao-autor"  id="parcerias" >
         <div class="center">
             <div class="w33 left">
             <img class="patrocinio" src="../images/parcerias/10.png"> 
@@ -169,7 +169,7 @@
         </div>
     </section><!--descrição autor-->
     
-    <section class="descricao-autor">
+    <section class="descricao-autor"  id="parcerias" >
         <div class="center">
             <div class="w33 left">
             <img class="patrocinio" src="../images/parcerias/13.png"> 
@@ -193,7 +193,7 @@
         </div>
     </section><!--descrição autor-->
     
-    <section class="descricao-autor">
+    <section class="descricao-autor"  id="parcerias" >
         <div class="center">
             <div class="w33 left">
             <img class="patrocinio" src="../images/parcerias/16.png"> 
@@ -217,7 +217,7 @@
         </div>
     </section><!--descrição autor-->
     
-    <section class="descricao-autor">
+    <section class="descricao-autor"  id="parcerias" >
         <div class="center">
             <div class="w33 left">
             <img class="patrocinio" src="../images/parcerias/19.png"> 

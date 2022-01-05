@@ -85,14 +85,14 @@
         <div class="center">
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/a.jpg">
-                <h3 class="title">Caneca de aluminio</h3>
-                <p class="title">Nossa nova blusinha de calçca so pra quem faz parte nova blusinha de calçca so pra quem faz parte desta atletica</p>
+                <h3 class="title">Caneca dinio</h3>
+                <h4 class="title">Nossa nova blusinha de calçca so pra quem faz parte nova blusinha de calçca so pra quem faz parte desta atletica</h4>
             </div>
             
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/b.jpg">
-                <h3 class="title">Pote de Vidro</h3>
-                <p class="title">Nossa nova blusinha de calçca so pra quem faz parte nova blusinha de calçca so pra quem faz parte desta atletica</p>
+                <h3 class="title">Pote de Vssssssssidro</h3>
+                <h4 class="title">Nossa nova blusinha de calçca so pra quem faz parte nova blusinha de calçca so pra quem faz parte desta atletica</h4>
             </div>
             <div class="clear"></div>
         </div>

@@ -76,14 +76,12 @@ section img.produtos{
     margin-top: 30px;
     width: 100%;
     max-width: 430px;
+    max-height: 550px;
 }
 
 section img.perfil{
     width: 100%;
-    left: 50%;
-    top: 50%;
-    margin-top: 30px;
-    width: 100%;
+    margin: 30px 10%;
     max-width: 430px;
 }
 
@@ -301,6 +299,9 @@ nav .open{
         cursor: pointer;
         margin-right: 15px;
     }
+    #store h4.title{
+        margin: 0 4%;
+    }
 }
 
 @media screen and (max-width: 950px){
@@ -408,7 +409,7 @@ section.descricao-autor h2{
 
 section.descricao-autor p{
     font-size: 20px;
-    margin-top: 15px;
+    margin-top: 8px;
     color: rgb(0, 0, 0);
 }
 
@@ -741,8 +742,18 @@ section.section .links a{
     font-size: 23px;
 }
 
-#store p.title{
-    margin: 30px 10%;
+#store h3.title{
+    margin-left: 17%;
+    margin-top: 20px;
+    margin-bottom: -10px;
+    font-size: 27px;
+    font-weight: 700;
+    color: rgb(25, 49, 128);
+}
+
+#store h4.title{
+    margin-top: 30px;
+    margin-right: 15%;
     font-size: 17px;
     font-weight: 300;
 }
@@ -805,17 +816,24 @@ section.hinos .card p{
     margin-bottom: 1px;
 }
 
-
-
 /********* Page Parcerias **********/
-section.descricao-autor h3.title{
+#parcerias h3.title{
     display: block;
-    font-size: 28px;
+    font-size: 30px;
     font-weight: 500;
     text-align: center;
-    color: rgb(26, 50, 114);
-    margin-top: 2px;
+    color: rgb(26, 42, 114);
+    margin-top: 10px;
     position: center;
 }
 
 
+@media screen and (max-width: 950px){
+    #store h4.title{
+        margin-right: 0;
+    }
+    #store h3.title{
+        text-align: center;
+        margin-right: 20%;
+    }
+}
