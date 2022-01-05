@@ -85,9 +85,7 @@
     <section class="descricao-autor" id="about">
         <div class="center">
             <div class="w50 left">
-                <div class="image">
-                    <img class="right turma" src="../images/turma.jpg">
-                </div>
+                <img class="right turma" src="../images/turma.jpg">
             </div>
             <div class="w50 left">
                 <h2>Nossos Eventos</h2>

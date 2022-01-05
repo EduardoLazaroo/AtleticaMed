@@ -75,22 +75,22 @@
     <section class="descricao-autor">
         <div class="center">
             <div class="w33 left">
-                <img src="../images/parcerias/01.png">
-                 <h3 class="title">Nosso Closet</h3>
+                <img class="patrocinio" src="../images/parcerias/01.png">
+                <h3 class="title">Nosso Closet</h3>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="right perfil" src="../images/parcerias/02.png">
+                    <img class="patrocinio" src="../images/parcerias/02.png">
                      <h3 class="title">Marmita Fit Congelada</h3>
                 </div>
             </div>
             
 
-            <div class="w33 right">
+            <div class="w33 left">
                 <div>
-                    <img class="right perfil" src="../images/parcerias/03.png">
-                     <h3 class="title">Rock Temakeria</h3>
+                    <img class="patrocinio" src="../images/parcerias/03.png">
+                    <h3 class="title">Rock Temakeria</h3>
                 </div>
             </div>
             <div class="clear"></div>
@@ -100,20 +100,20 @@
     <section class="descricao-autor">
         <div class="center">
             <div class="w33 left">
-            <img src="../images/parcerias/04.png">
+            <img class="patrocinio" src="../images/parcerias/04.png">
              <h3 class="title">Mansão Açai</h3>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="right perfil" src="../images/parcerias/05.png">
+                    <img class="patrocinio" src="../images/parcerias/05.png">
                      <h3 class="title">Mustang Beach</h3>
                 </div>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="right perfil" src="../images/parcerias/06.png">
+                    <img class="patrocinio" src="../images/parcerias/06.png">
                      <h3 class="title">Dr. Márcio Santilli</h3>
                 </div>
             </div>
@@ -124,20 +124,20 @@
     <section class="descricao-autor">
         <div class="center">
             <div class="w33 left">
-            <img src="../images/parcerias/07.png">
-             <h3 class="title">Bote Do Unibar</h3>
+            <img class="patrocinio" src="../images/parcerias/07.png">
+             <h3 class="title">Buteco Do Unibar</h3>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="right perfil" src="../images/parcerias/08.png">
+                    <img class="patrocinio" src="../images/parcerias/08.png">
                      <h3 class="title">Crossfit Marilia</h3>
                 </div>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="right perfil" src="../images/parcerias/09.png"> 
+                    <img class="patrocinio" src="../images/parcerias/09.png"> 
                     <h3 class="title">Ana Gonçalves</h3>
                 </div>
             </div>
@@ -148,20 +148,20 @@
     <section class="descricao-autor">
         <div class="center">
             <div class="w33 left">
-            <img src="../images/parcerias/10.png"> 
+            <img class="patrocinio" src="../images/parcerias/10.png"> 
             <h3 class="title">Olhar de Maria</h3>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="right perfil" src="../images/parcerias/11.png"> 
+                    <img class="patrocinio" src="../images/parcerias/11.png"> 
                     <h3 class="title">Madalê</h3>
                 </div>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="right perfil" src="../images/parcerias/12.png"> 
+                    <img class="patrocinio" src="../images/parcerias/12.png"> 
                     <h3 class="title">Dr Shape</h3>
                 </div>
             </div>
@@ -172,20 +172,20 @@
     <section class="descricao-autor">
         <div class="center">
             <div class="w33 left">
-            <img src="../images/parcerias/13.png"> 
+            <img class="patrocinio" src="../images/parcerias/13.png"> 
             <h3 class="title">Bêlicias Gourmet</h3>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="right perfil" src="../images/parcerias/14.png"> 
+                    <img class="patrocinio" src="../images/parcerias/14.png"> 
                     <h3 class="title">Cascata</h3>
                 </div>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="right perfil" src="../images/parcerias/15.png"> 
+                    <img class="patrocinio" src="../images/parcerias/15.png"> 
                     <h3 class="title">NewLifw</h3>
                 </div>
             </div>
@@ -196,20 +196,20 @@
     <section class="descricao-autor">
         <div class="center">
             <div class="w33 left">
-            <img src="../images/parcerias/16.png"> 
+            <img class="patrocinio" src="../images/parcerias/16.png"> 
             <h3 class="title">Isa Benke</h3>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="right perfil" src="../images/parcerias/17.png"> 
+                    <img class="patrocinio" src="../images/parcerias/17.png"> 
                     <h3 class="title">2M</h3>
                 </div>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="right perfil" src="../images/parcerias/18.png"> 
+                    <img class="patrocinio" src="../images/parcerias/18.png"> 
                     <h3 class="title">Box10</h3>
                 </div>
             </div>
@@ -220,13 +220,13 @@
     <section class="descricao-autor">
         <div class="center">
             <div class="w33 left">
-            <img src="../images/parcerias/19.png"> 
+            <img class="patrocinio" src="../images/parcerias/19.png"> 
             <h3 class="title">Barbearia FM</h3>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="right perfil" src="../images/parcerias/20.png"> 
+                    <img class="patrocinio" src="../images/parcerias/20.png"> 
                     <h3 class="title">Bem Fit</h3>
                 </div>
             </div>

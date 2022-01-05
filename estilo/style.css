@@ -61,23 +61,44 @@ strong{
   }
 
 /******  Estrutura  ******/
-section img.perfil{
+section img.patrocinio{
+    margin-top: 30px;
+    width: 100%;
+    height: 100%;
+    max-width: 430px;
+    max-height: 420px;
+}
+
+section img.produtos{
+    width: 100%;
+    left: 50%;
+    top: 50%;
     margin-top: 30px;
     width: 100%;
     max-width: 430px;
 }
+
+section img.perfil{
+    width: 100%;
+    left: 50%;
+    top: 50%;
+    margin-top: 30px;
+    width: 100%;
+    max-width: 430px;
+}
+
 section img.batuka{
     margin-top: 30px;
     width: 100%;
     max-width: 400px;
 }
-section img.turma{
-    margin-top: 30px;
-    margin-right: 40px;
-    width: 100%;
-    max-width: 820px;
-}
 
+section img.turma{
+    margin: 50px auto;
+    margin-left: 2%;
+    width: 100%;
+    max-width: 800px;
+}
 
 /******  IMAGENS  ******/
 .center{
@@ -88,12 +109,12 @@ section img.turma{
 
 .w33{
     width: 33.3%;
-    padding: 0 10px;
+    padding: 0 20px;
 }
 
 .w50{
-    padding: 0 10px;
     width: 50%;
+    padding: 0 20px;
 }
 
 .left{
@@ -290,8 +311,8 @@ nav .open{
     }
  
     .w50{
-        padding: 20px;
         width: 100%;
+        padding: 20px;
     }
 
     .w33{
@@ -720,6 +741,13 @@ section.section .links a{
     font-size: 23px;
 }
 
+#store p.title{
+    margin: 30px 10%;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+
 /********* Page Hinos **********/
 section.hinos{
     background-image: url("../images/abutre_back.png");
@@ -789,4 +817,5 @@ section.descricao-autor h3.title{
     margin-top: 2px;
     position: center;
 }
+
 

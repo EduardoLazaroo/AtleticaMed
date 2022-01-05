@@ -81,25 +81,22 @@
     </section><!----- warning ----->
 
     <!-- -------Descrição Autor-------- -->
-    <section class="store" id="store">
+    <section class="descricao-autor" id="store">
         <div class="center">
-
             <div class="w50 left">
-                <div>
-                    <img class="left perfil" src="../images/lojinha/a.jpg">
-                </div>
+                <img class="produtos" src="../images/lojinha/a.jpg">
+                <h3 class="title">Caneca de aluminio</h3>
+                <p class="title">Nossa nova blusinha de calçca so pra quem faz parte nova blusinha de calçca so pra quem faz parte desta atletica</p>
             </div>
             
-
             <div class="w50 left">
-                <div>
-                    <img class="right perfil" src="../images/lojinha/a.jpg">
-                </div>
+                <img class="produtos" src="../images/lojinha/b.jpg">
+                <h3 class="title">Pote de Vidro</h3>
+                <p class="title">Nossa nova blusinha de calçca so pra quem faz parte nova blusinha de calçca so pra quem faz parte desta atletica</p>
             </div>
             <div class="clear"></div>
         </div>
     </section><!--Store-->
-   
 
     <!-- footer -->
     <footer>

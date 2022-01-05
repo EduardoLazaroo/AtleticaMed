@@ -103,7 +103,7 @@
 
             <div class="w50 left">
                 <div class="image">
-                    <img class="right perfil" src="images/perfil.jpg">
+                    <img class="perfil" src="images/perfil.jpg">
                 </div>
             </div>
 
