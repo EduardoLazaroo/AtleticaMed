@@ -61,7 +61,7 @@
             <div class="card">
             <i class="fas fa-store"></i>
                 <h3 class="title">Lojinha</h3>
-                <p>Tem Novidades chegando!! Sigam as Redes Sociais e fiquem por dentro das promoções,sorteios e todas as novidades!</p>
+                <p>Tem Novidades chegando!! Sigam as Redes Sociais e fiquem por dentro das promoções, sorteios e todas as novidades!</p>
             </div>
     </section><!-- Principais -->
 
@@ -79,6 +79,18 @@
             </div>
         </div>
     </section><!----- warning ----->
+
+    <!-------------- Contact ----------------->
+    <section class="contact" id="contact">
+        <div class="text">
+            <h2 class="title">Acesse Nossa Lojinha Oficial</h2>
+            <a
+              href="https://www.youtube.com/watch?v=aUWkq1ZAY7g" 
+              class="buttonloja"  target="_blank"><i class="fas fa-tshirt"></i>Acessar
+            </a>
+    </section><!---- Contact ---->
+
+    <div class="divider-2"></div>
 
     <!-- -------Descrição Autor-------- -->
     <section class="descricao-autor" id="store">

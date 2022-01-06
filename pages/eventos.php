@@ -63,9 +63,10 @@
                 <h2>BatukaAbutre</h2>
                 <div class="text">
                     <p>A bateria é um espetáculo a parte e foi criada com a intenção de representar, das arquibancadas, a força dos ABUTRES DE CORAÇÃO nas competições!</p>
-                    <p>Com treinos semanais a BATUKABUTRE reune diversos alunos e não só para treinar e tocar, mas para fortalecer os laços dos apaixonados integrantes. Campeã da Disputa Universitária de Baterias (DUB) em 2013 e por onde vai proporciona um show.</p>
-                    <p>BATUKABUTRE foi o nome dado a bateria da MEDICINA UNIMAR para representar nossa </p>
-                    <p>Universidade dentro e fora de Marília, não somente nos jogos, mas em festas e principalmente na integração conjunta de todos os alunos no mesmo ideal, fazendo da nossa Universidade nossa segunda casa e de nosso curso, um dom para vida toda.</p>
+                    <p>Com treinos semanais a BATUKABUTRE reune diversos alunos e não só para treinar e tocar, mas para fortalecer os laços dos apaixonados integrantes. Campeã da Disputa 
+                    Universitária de Baterias (DUB) em 2013 e por onde vai proporciona um show.</p>
+                    <p>BATUKABUTRE foi o nome dado a bateria da MEDICINA UNIMAR para representar nossa Universidade dentro e fora de Marília, não somente nos jogos, mas em festas e principalmente 
+                    na integração conjunta de todos os alunos no mesmo ideal, fazendo da nossa Universidade nossa segunda casa e de nosso curso, um dom para vida toda.</p>
                 </div>
             </div>
 
@@ -108,23 +109,105 @@
         <p class="sub">Arraste para o lado e visualize nossas fotos!</p>
         <div class="parties swiper-container">
             <div class="swiper-wrapper">
+                <!-- slide -->
                 <div class="partie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/batukabutre.jpg"/> 
-                        <p>BatukaButre 2020</p>
+                        <img src="../images/eventos/batukabutre.jpg"/> 
+                        <p>BatukaButre</p>
                     </cite>
                     </blockquote>
                 </div>
-
+                <!-- slide -->
                 <div class="partie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/mocas.jpg"/> 
-                        <p>Unimar aberta 2021</p>
+                        <img src="../images/eventos/mocas.jpg"/> 
+                        <p>Self Medicina</p>
                     </cite>
                     </blockquote>
                 </div>
+                <!-- slide -->
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/fut_fem.png"/> 
+                        <p>Futsal Feminino</p>
+                    </cite>
+                    </blockquote>
+                </div>
+                <!-- slide -->
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/futsal_fem_trofeu.png"/> 
+                        <p>Troféu Futsal</p>
+                    </cite>
+                    </blockquote>
+                </div>
+                <!-- slide -->
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/jumed_2.png"/> 
+                        <p>Bicampeão Jumed 2014</p>
+                    </cite>
+                    </blockquote>
+                </div>
+                <!-- slide -->
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/jumed_3.png"/> 
+                        <p>Tricampeão Jumed</p>
+                    </cite>
+                    </blockquote>
+                </div>
+                <!-- slide -->
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/jumed_5.png"/> 
+                        <p>Pentacampeão Jumed</p>
+                    </cite>
+                    </blockquote>
+                </div>
+                <!-- slide -->
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/mascote.png"/> 
+                        <p>Mascote Atletica</p>
+                    </cite>
+                    </blockquote>
+                </div>
+                <!-- slide -->
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/trofeis.png"/> 
+                        <p>Trofeus</p>
+                    </cite>
+                    </blockquote>
+                </div>
+                <!-- slide -->
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/beijo.png"/> 
+                        <p>Beijo na Taça</p>
+                    </cite>
+                    </blockquote>
+                </div>
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/rapazes.png"/> 
+                        <p></p>
+                    </cite>
+                    </blockquote>
+                </div>
+                <!-- slide -->
             </div>
 
             <!-- If we need pagination -->

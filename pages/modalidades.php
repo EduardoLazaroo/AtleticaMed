@@ -103,8 +103,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/atletismo1.jpg"/> 
-                        <p>Atletismo1 2019</p>
+                        <img src="../images/modalidades/atletismo1.png"/> 
+                        <!-- <p>Atletismo1 2019</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -112,8 +112,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/atletismo2.jpg"/> 
-                        <p>Atletismo 2020</p>
+                        <img src="../images/modalidades/atletismo2.png"/> 
+                        <!-- <p>Atletismo 2020</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -131,8 +131,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/basquete2.jpg"/> 
-                        <p>Basquete 2019</p>
+                        <img src="../images/modalidades/basquete1.png"/> 
+                        <!-- <p>Basquete 2019</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -140,8 +140,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/basquete2.jpg"/> 
-                        <p>Basquete 2020</p>
+                        <img src="../images/modalidades/basquete2.png"/> 
+                        <!-- <p>Basquete 2020</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -159,8 +159,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/futebol1.jpg"/> 
-                        <p>Futebol de Campo 2019</p>
+                        <img src="../images/modalidades/futebol1.png"/> 
+                        <!-- <p>Futebol de Campo 2019</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -168,8 +168,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/futebol2.jpg"/> 
-                        <p>Futebol de Campo 2020</p>
+                        <img src="../images/modalidades/futebol2.png"/> 
+                        <!-- <p>Futebol de Campo 2020</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -187,8 +187,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/futsal1.jpg"/> 
-                        <p>Futsal 2019</p>
+                        <img src="../images/modalidades/futsal1.png"/> 
+                        <!-- <p>Futsal 2019</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -196,8 +196,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/futsal2.jpg"/> 
-                        <p>Futsal 2020</p>
+                        <img src="../images/modalidades/futsal2.png"/> 
+                        <!-- <p>Futsal 2020</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -215,8 +215,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/handball1.jpg"/> 
-                        <p>Handbol 2019</p>
+                        <img src="../images/modalidades/handball1.png"/> 
+                        <!-- <p>Handbol 2019</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -224,8 +224,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/handball1.jpg"/> 
-                        <p>Handbol 2020</p>
+                        <img src="../images/modalidades/handball2.png"/> 
+                        <!-- <p>Handbol 2020</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -243,8 +243,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/judo1.jpg"/> 
-                        <p>Judô 2019</p>
+                        <img src="../images/modalidades/judo1.png"/> 
+                        <!-- <p>Judô 2019</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -252,8 +252,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/judo2.jpg"/> 
-                        <p>Judô 2020</p>
+                        <img src="../images/modalidades/judo2.png"/> 
+                        <!-- <p>Judô 2020</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -271,8 +271,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/natacao1.jpg"/> 
-                        <p>Natação 2019</p>
+                        <img src="../images/modalidades/natacao1.png"/> 
+                        <!-- <p>Natação 2019</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -280,8 +280,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/natacao2.jpg"/> 
-                        <p>Natação 2020</p>
+                        <img src="../images/modalidades/natacao2.png"/> 
+                        <!-- <p>Natação 2020</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -299,8 +299,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/tenis_campo1.jpg"/> 
-                        <p>Tênis de Campo 2019</p>
+                        <img src="../images/modalidades/tenis_campo1.png"/> 
+                        <!-- <p>Tênis de Campo 2019</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -308,8 +308,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/tenis_campo2.jpg"/> 
-                        <p>Tênis de Campo 2020</p>
+                        <img src="../images/modalidades/tenis_campo2.png"/> 
+                        <!-- <p>Tênis de Campo 2020</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -327,8 +327,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/tenis_mesa2.jpg"/> 
-                        <p>Tênis de Mesa 2019</p>
+                        <img src="../images/modalidades/tenis_mesa1.png"/> 
+                        <!-- <p>Tênis de Mesa 2019</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -336,8 +336,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/tenis_mesa2.jpg"/> 
-                        <p>Tênis de Mesa 2020</p>
+                        <img src="../images/modalidades/tenis_mesa2.png"/> 
+                        <!-- <p>Tênis de Mesa 2020</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -355,8 +355,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/volei1.jpg"/> 
-                        <p>Vôlei 2019</p>
+                        <img src="../images/modalidades/volei1.png"/> 
+                        <!-- <p>Vôlei 2019</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -364,8 +364,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/volei2.jpg"/> 
-                        <p>Vôlei 2020</p>
+                        <img src="../images/modalidades/volei2.png"/> 
+                        <!-- <p>Vôlei 2020</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -383,8 +383,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/xadrez1.jpg"/> 
-                        <p>Xadrez 2019</p>
+                        <img src="../images/modalidades/xadrez1.png"/> 
+                        <!-- <p>Xadrez 2019</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -392,8 +392,8 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/xadrez2.jpg"/> 
-                        <p>Xadrez 2020</p>
+                        <img src="../images/modalidades/xadrez2.png"/> 
+                        <!-- <p>Xadrez 2020</p> -->
                     </cite>
                     </blockquote>
                 </div>

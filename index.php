@@ -119,8 +119,8 @@
         <div class="container">
           <h2 class="title">Principais</h2>
           <p class="principal">
-            Nossa atletica é muito grande e temos muito a lhe apresentar, 
-            sendo assim separamos <strong>três principais</strong> pesquisas em nossa pagina para você!
+            Nossa atletica é muito grande e temos muito a lhe apresentar, sendo assim 
+            separamos <strong>três principais</strong> pesquisas em nossa pagina para você acessar!
           </p>
             <div class="cards">
                 <div class="card">
@@ -128,24 +128,24 @@
                     <h3 class="title">
                         <a href="pages/eventos.php">Eventos</a>
                     </h3>
-                    <p>Aqui você pode acessar noosos Eventos, 
-                    sendo assim você fica por dentro de toda nossa programação já agendada.</p>
+                    <p>Aqui você pode acessar noosos Eventos, sendo assim você 
+                        fica por dentro de toda nossa programação já agendada.</p>
                 </div>
                 <div class="card">
                     <i class="icon fas fa-users"></i>
                     <h3 class="title">
                         <a href="pages/modalidades.php">Modalidades</a>
                     </h3>
-                    <p>Nossa Atlética tem historia pra contar! Tambem somos conhecidos por nossas conquistas
-                    em varias modalidades esportivas, de uma olhadinha...</p>
+                    <p>Nossa Atlética tem muita historia pra contar! Tambem somos conhecidos por 
+                        nossas conquistas em varias modalidades esportivas.</p>
                 </div>
                 <div class="card" href="pages/lojinha.php">
                     <i class="icon fas fa-store"></i>
                     <h3 class="title">
                         <a href="pages/lojinha.php">Lojinha</a>
                     </h3>
-                    <p>Em nosso loja vendemos diversos produtos que você vai se surpreeender, entre e de 
-                    uma conferida no que temos a te oferecer.
+                    <p>Em nossa lojinha vendemos diversos produtos de nossa atletica que você vai se surpreeender, 
+                        entre e de uma conferida no que temos a te oferecer.
                     </p>
                 </div>
             </div>

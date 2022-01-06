@@ -30,6 +30,7 @@ body{
     height: 100vh;
     width: 100vw;
 }
+
 strong{
     color: rgb(45, 62, 141);
 }
@@ -432,11 +433,6 @@ section p.principal{
     font-size: 16px;
 }
 
-section.section p strong{
-    color: rgb(57, 73, 128);
-    position: center;
-}
-
 section.section .cards{
     padding: 40px;
 } 
@@ -458,19 +454,19 @@ section.section h3.title{
 
 section.section h3.title a{
     transition: 0.3s;
-    color: rgb(85, 110, 221);
+    color: rgb(29, 55, 170);
 }
 
 section.section h3.title a:hover{
     font-size: 26px;
-    color: rgb(49, 85, 204);
+    color: rgb(8, 27, 90);
 }
 
 section.section .card i{
     display: block;
     margin-bottom: 1.5rem;
     font-size: 5rem;
-    color: rgb(61, 91, 173);
+    color: rgb(44, 72, 146);
 }
 
 /***** Pagina 4 *****/
@@ -584,6 +580,31 @@ section.contact .buttonzap i{
     font-size: 1.5rem;
 }
 
+/* Lojinha */
+section.contact .buttonloja{
+    margin: 1rem 2rem;
+    background-color: rgb(100, 111, 158);
+    color: white;
+    height: 3.5rem;
+    display: inline-flex;
+    align-items: center;
+    padding: 0 2rem;
+    border-radius: 0.25rem;
+    font: 500 1rem;
+    transition: background 0.3s;
+
+    margin-bottom: 4rem;
+  }
+
+section.contact .buttonloja:hover {
+    background: rgb(3, 32, 112);
+}
+
+section.contact .buttonloja i{
+    margin-right: 10px;
+    font-size: 1.5rem;
+}
+
 /* Intagram */
 section.contact .buttoninst{
     margin: 1rem 2rem;
@@ -678,12 +699,14 @@ footer p{
 }
 
 #parties cite img{
-    width: 100%;
-    height: auto;
     object-fit: cover;
     margin-top: 10px;
     margin-bottom: 30px;
+
+    /* height: 100%;
+    width: auto; */
     max-width: 900px;
+    max-height: 900px;
 }
 
 #parties cite p{
@@ -832,8 +855,16 @@ section.hinos .card p{
     #store h4.title{
         margin-right: 0;
     }
+    
     #store h3.title{
         text-align: center;
         margin-right: 20%;
+    }
+
+    #parties cite img{
+        margin-top: 10px;
+        margin-bottom: 30px;
+        width: 100%;
+        max-width: 900px;
     }
 }
