@@ -104,7 +104,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/atletismo1.png"/> 
-                        <!-- <p>Atletismo1 2019</p> -->
+                        <p>Atletismo 1/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -113,7 +113,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/atletismo2.png"/> 
-                        <!-- <p>Atletismo 2020</p> -->
+                        <p>Atletismo 1/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -132,7 +132,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/basquete1.png"/> 
-                        <!-- <p>Basquete 2019</p> -->
+                        <p>Basquete 1/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -141,7 +141,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/basquete2.png"/> 
-                        <!-- <p>Basquete 2020</p> -->
+                        <p>Basquete 2/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -160,7 +160,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futebol1.png"/> 
-                        <!-- <p>Futebol de Campo 2019</p> -->
+                        <p>Futebol de Campo 1/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -169,7 +169,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futebol2.png"/> 
-                        <!-- <p>Futebol de Campo 2020</p> -->
+                        <p>Futebol de Campo 2/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -188,7 +188,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futsal1.png"/> 
-                        <!-- <p>Futsal 2019</p> -->
+                        <p>Futsal 1/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -197,7 +197,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futsal2.png"/> 
-                        <!-- <p>Futsal 2020</p> -->
+                        <p>Futsal 2/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -216,7 +216,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/handball1.png"/> 
-                        <!-- <p>Handbol 2019</p> -->
+                        <p>Handbol 1/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -225,7 +225,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/handball2.png"/> 
-                        <!-- <p>Handbol 2020</p> -->
+                        <p>Handbol 2/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -244,7 +244,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/judo1.png"/> 
-                        <!-- <p>Judô 2019</p> -->
+                        <p>Judô 1/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -253,7 +253,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/judo2.png"/> 
-                        <!-- <p>Judô 2020</p> -->
+                        <p>Judô 2/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -272,7 +272,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/natacao1.png"/> 
-                        <!-- <p>Natação 2019</p> -->
+                        <p>Natação 1/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -281,7 +281,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/natacao2.png"/> 
-                        <!-- <p>Natação 2020</p> -->
+                        <p>Natação 2/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -300,7 +300,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/tenis_campo1.png"/> 
-                        <!-- <p>Tênis de Campo 2019</p> -->
+                        <p>Tênis de Campo 1/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -309,7 +309,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/tenis_campo2.png"/> 
-                        <!-- <p>Tênis de Campo 2020</p> -->
+                        <p>Tênis de Campo 1/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -328,7 +328,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/tenis_mesa1.png"/> 
-                        <!-- <p>Tênis de Mesa 2019</p> -->
+                        <p>Tênis de Mesa 1/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -337,7 +337,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/tenis_mesa2.png"/> 
-                        <!-- <p>Tênis de Mesa 2020</p> -->
+                        <p>Tênis de Mesa 2/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -356,7 +356,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/volei1.png"/> 
-                        <!-- <p>Vôlei 2019</p> -->
+                        <p>Vôlei 1/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -365,7 +365,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/volei2.png"/> 
-                        <!-- <p>Vôlei 2020</p> -->
+                        <p>Vôlei 2/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -384,7 +384,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/xadrez1.png"/> 
-                        <!-- <p>Xadrez 2019</p> -->
+                        <p>Xadrez 1/2</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -393,7 +393,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/xadrez2.png"/> 
-                        <!-- <p>Xadrez 2020</p> -->
+                        <p>Xadrez 2/2</p>
                     </cite>
                     </blockquote>
                 </div>
