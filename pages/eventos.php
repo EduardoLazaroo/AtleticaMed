@@ -127,6 +127,41 @@
                     </cite>
                     </blockquote>
                 </div>
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/azul_med1.png"/> 
+                        <p>Azul Med</p>
+                    </cite>
+                    </blockquote>
+                </div>
+                <!-- slide -->
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/azul_med2.jpg"/> 
+                        <p>Azul Med</p>
+                    </cite>
+                    </blockquote>
+                </div>
+                <!-- slide -->
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/azul_med3.jpg"/> 
+                        <p>Azul Med</p>
+                    </cite>
+                    </blockquote>
+                </div>
+                <!-- slide -->
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/azul_med4.jpg"/> 
+                        <p>Azul Med</p>
+                    </cite>
+                    </blockquote>
+                </div>
                 <!-- slide -->
                 <div class="partie swiper-slide">
                     <blockquote>
@@ -199,15 +234,8 @@
                     </cite>
                     </blockquote>
                 </div>
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/rapazes.png"/> 
-                        <p>Azul Med</p>
-                    </cite>
-                    </blockquote>
-                </div>
                 <!-- slide -->
+                
             </div>
 
             <!-- If we need pagination -->

@@ -232,7 +232,7 @@
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/modalidades/futsal2.png"/> 
+                        <img src="../images/modalidades/futsal2.jpg"/> 
                         <p>Futsal 2/4</p>
                     </cite>
                     </blockquote>
