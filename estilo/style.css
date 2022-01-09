@@ -867,4 +867,9 @@ section.hinos .card p{
         width: 100%;
         max-width: 900px;
     }
+    /* #parties h2.lado{
+        margin: 0;
+        opacity: 0;
+        visibility: hidden; 
+    }*/
 }

@@ -244,6 +244,9 @@
         </div><!--center-->
     </footer>
 
+    <!----- botao top ----->
+    <a href="#principais" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
+
     <!----- swiper ----->
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
     

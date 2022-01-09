@@ -203,7 +203,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/eventos/rapazes.png"/> 
-                        <p></p>
+                        <p>Azul Med</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -238,6 +238,9 @@
             <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 2022 - Todos os Direitos Reservados</p>
         </div><!--center-->
     </footer>
+
+    <!----- botao top ----->
+    <a href="#about" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
 
     <!----- swiper ----->
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
