@@ -186,7 +186,7 @@
             <div class="w33 left">
                 <div>
                     <img class="patrocinio" src="../images/parcerias/15.png"> 
-                    <h3 class="title">NewLifw</h3>
+                    <h3 class="title">NewLife</h3>
                 </div>
             </div>
             <div class="clear"></div>

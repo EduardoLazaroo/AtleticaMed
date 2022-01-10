@@ -128,8 +128,8 @@
                     <h3 class="title">
                         <a href="pages/eventos.php">Eventos</a>
                     </h3>
-                    <p>Aqui você pode acessar noosos Eventos, sendo assim você 
-                        fica por dentro de toda nossa programação já agendada.</p>
+                    <p>Aqui você pode acessar nossos Eventos, sendo assim você 
+                        fica por dentro de toda nossa programação já agendada</p>
                 </div>
                 <div class="card">
                     <i class="icon fas fa-users"></i>
@@ -137,7 +137,7 @@
                         <a href="pages/modalidades.php">Modalidades</a>
                     </h3>
                     <p>Nossa Atlética tem muita historia pra contar! Tambem somos conhecidos por 
-                        nossas conquistas em varias modalidades esportivas.</p>
+                        nossas conquistas em varias modalidades esportivas</p>
                 </div>
                 <div class="card" href="pages/lojinha.php">
                     <i class="icon fas fa-store"></i>
@@ -145,7 +145,7 @@
                         <a href="pages/lojinha.php">Lojinha</a>
                     </h3>
                     <p>Em nossa lojinha vendemos diversos produtos de nossa atletica que você vai se surpreeender, 
-                        entre e de uma conferida no que temos a te oferecer.
+                        entre e de uma conferida no que temos a te oferecer
                     </p>
                 </div>
             </div>
@@ -623,7 +623,7 @@
               class="buttonzap"  target="_blank"><i class="fab fa-whatsapp"></i>Entrar em contato
             </a>
             <a
-              href="https://www.instagram.com/" 
+              href="https://www.instagram.com/medicinaunimar/" 
               class="buttoninst"  target="_blank"><i class="fab fa-instagram"></i></i>Entrar em contato
             </a>
         </div>
@@ -631,7 +631,7 @@
         <div class="links">
             <ul>
               <li><i class="fas fa-phone-alt"></i> 14 99806-5592</li>
-              <li><i class="fas fa-map-marker-alt"></i> R. Amauri Souza, 346</li>
+              <li><i class="fas fa-map-marker-alt"></i> Universidade Unimar - Marilia</li>
               <li><i class="fas fa-envelope-open-text"></i> contato@atletica.com</li>
             </ul>
         </div>

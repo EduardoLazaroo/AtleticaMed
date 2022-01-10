@@ -91,11 +91,11 @@
             <div class="w50 left">
                 <h2>Nossos Eventos</h2>
                 <div class="text">
-                    <p>A bateria é um espetáculo a parte e foi criada com a intenção de representar, das arquibancadas, a força dos ABUTRES DE CORAÇÃO nas competições!</p>
-                    <p>Com treinos semanais a BATUKABUTRE reune diversos alunos e não só para treinar e tocar, mas para fortalecer os laços dos apaixonados integrantes. Campeã da Disputa Universitária de Baterias (DUB) em 2013 e por onde vai proporciona um show.</p>
-                    <p>BATUKABUTRE foi o nome dado a bateria da MEDICINA UNIMAR para representar nossa </p>
-                    <p>Universidade dentro e fora de Marília, não somente nos jogos, mas em festas e principalmente na integração conjunta de todos os alunos no mesmo ideal, fazendo da nossa Universidade nossa segunda casa e de nosso curso, um dom para vida toda.</p>
-                </div>
+                    <p>Eventos fora da Universidade acontecem sempre, porém temos um evento que é muito importante para nossa Atlética e que sempre nos preparamos com antecedência.</p>
+                    <p>O JUMED (Jogos Universitários de Medicina) é uma competição organizada por alunos das faculdades de Medicina de diversas cidades do estado de São Paulo com o intuito de promover a integração e a prática esportiva entre os estudantes.</p>
+                    <p>O evento, que acontece com objetivo fortalecer a integração dos acadêmicos de Medicina do Estado por meio da prática desportiva e social. Os futuros médicos participam de modalidades coletivas, como futsal, basquete, voleibol e handebol, de competições individuais, como atletismo e xadrez. </p>
+                    
+                  </div>
             </div>
         <div class="clear"></div>
         </div>
@@ -252,7 +252,7 @@
               Acesse nosso instagram e acompanhe nossos eventos!
             </p>
             <a
-            href="https://www.instagram.com/" 
+            href="https://www.instagram.com/medicinaunimar/" 
             class="buttoninst"  target="_blank"><i class="fab fa-instagram"></i></i>Acessar Instagram
             </a>
         </div>

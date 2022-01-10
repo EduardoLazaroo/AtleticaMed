@@ -85,7 +85,7 @@
         <div class="text">
             <h2 class="title">Acesse Nossa Lojinha Oficial</h2>
             <a
-              href="https://www.youtube.com/watch?v=aUWkq1ZAY7g" 
+              href="https://cheersshop.com.br/atl%C3%A9tica-medicina-unimar-aaaan~460" 
               class="buttonloja"  target="_blank"><i class="fas fa-tshirt"></i>Acessar
             </a>
     </section><!---- Contact ---->

@@ -196,7 +196,16 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futebol1.png"/> 
-                        <p>Futebol de Campo 1/2</p>
+                        <p>Futebol de Campo 1/3</p>
+                    </cite>
+                    </blockquote>
+                </div>
+
+                <div class="modalitie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/modalidades/futsal2.jpg"/> 
+                        <p>Futebol de Campo 2/3</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -205,7 +214,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futebol2.png"/> 
-                        <p>Futebol de Campo 2/2</p>
+                        <p>Futebol de Campo 3/3</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -224,16 +233,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futsal1.png"/> 
-                        <p>Futsal 1/4</p>
-                    </cite>
-                    </blockquote>
-                </div>
-
-                <div class="modalitie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/modalidades/futsal2.jpg"/> 
-                        <p>Futsal 2/4</p>
+                        <p>Futsal 1/3</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -242,7 +242,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futsal3.jpg"/> 
-                        <p>Futsal 3/4</p>
+                        <p>Futsal 2/3</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -251,7 +251,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futsal4.jpg"/> 
-                        <p>Futsal 4/4</p>
+                        <p>Futsal 3/3</p>
                     </cite>
                     </blockquote>
                 </div>
@@ -372,7 +372,7 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/tenis_campo2.png"/> 
-                        <p>Tênis de Campo 1/2</p>
+                        <p>Tênis de Campo 2/2</p>
                     </cite>
                     </blockquote>
                 </div>
