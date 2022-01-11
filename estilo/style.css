@@ -82,7 +82,7 @@ section img.produtos{
 
 section img.perfil{
     width: 100%;
-    margin: 30px 10%;
+    margin-top: 40px;
     max-width: 430px;
 }
 
@@ -411,6 +411,7 @@ section.descricao-autor h2{
 section.descricao-autor p{
     font-size: 20px;
     margin-top: 8px;
+    padding-left:  20px;
     color: rgb(0, 0, 0);
 }
 
@@ -866,9 +867,4 @@ section.hinos .card p{
         width: 100%;
         max-width: 900px;
     }
-    /* #parties h2.lado{
-        margin: 0;
-        opacity: 0;
-        visibility: hidden; 
-    }*/
 }

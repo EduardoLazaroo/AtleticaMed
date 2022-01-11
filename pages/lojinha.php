@@ -61,7 +61,7 @@
             <div class="card">
             <i class="fas fa-store"></i>
                 <h3 class="title">Lojinha</h3>
-                <p>Tem Novidades chegando!! Sigam as Redes Sociais e fiquem por dentro das promoções, sorteios e todas as novidades!</p>
+                <p>Tem novidades chegando!! Sigam as redes sociais e fiquem por dentro das promoções, sorteios e todas as novidades!</p>
             </div>
     </section><!-- Principais -->
 
@@ -213,11 +213,6 @@
                 <h4 class="title">Tirante</h4>
             </div>
             
-            <div class="w50 left">
-                <img class="produtos" src="../images/lojinha/tirante.png">
-                <h3 class="title">tirante</h3>
-                <h4 class="title">tirante</h4>
-            </div>
             <div class="clear"></div>
         </div>
     </section><!--Store-->
