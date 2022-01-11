@@ -109,6 +109,9 @@
             <div class="clear"></div>
         </div>
     </section><!--Store-->
+
+    <div class="divider-1"></div>
+
     <section class="descricao-autor" id="store">
         <div class="center">
             <div class="w50 left">
@@ -125,6 +128,9 @@
             <div class="clear"></div>
         </div>
     </section><!--Store-->
+
+    <div class="divider-2"></div>
+
     <section class="descricao-autor" id="store">
         <div class="center">
             <div class="w50 left">
@@ -141,6 +147,9 @@
             <div class="clear"></div>
         </div>
     </section><!--Store-->
+
+    <div class="divider-1"></div>
+
     <section class="descricao-autor" id="store">
         <div class="center">
             <div class="w50 left">
@@ -157,6 +166,9 @@
             <div class="clear"></div>
         </div>
     </section><!--Store-->
+
+    <div class="divider-2"></div>
+
     <section class="descricao-autor" id="store">
         <div class="center">
             <div class="w50 left">
@@ -173,6 +185,9 @@
             <div class="clear"></div>
         </div>
     </section><!--Store-->
+
+    <div class="divider-1"></div>
+
     <section class="descricao-autor" id="store">
         <div class="center">
             <div class="w50 left">
@@ -189,6 +204,10 @@
             <div class="clear"></div>
         </div>
     </section><!--Store-->
+
+
+    <div class="divider-2"></div>
+
     <section class="descricao-autor" id="store">
         <div class="center">
             <div class="w50 left">
@@ -205,6 +224,9 @@
             <div class="clear"></div>
         </div>
     </section><!--Store-->
+
+    <div class="divider-1"></div>
+
     <section class="descricao-autor" id="store">
         <div class="center">
             <div class="w50 left">
@@ -223,6 +245,9 @@
             <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 2022 - Todos os Direitos Reservados</p>
         </div><!--center-->
     </footer>
+
+    <!----- botao top ----->
+    <a href="#principais" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
 
     <!----- swiper ----->
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
