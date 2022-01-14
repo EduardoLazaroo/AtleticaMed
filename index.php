@@ -619,7 +619,7 @@
               ouvir suas críticas e sugestões.
             </p>
             <a
-              href="https://api.whatsapp.com/send?phone=+5518998065592&text=Oi. Boa tarde!" 
+              href="https://api.whatsapp.com/send?phone=+5543999067168&text=Oi. Boa tarde!" 
               class="buttonzap"  target="_blank"><i class="fab fa-whatsapp"></i>Entrar em contato
             </a>
             <a
@@ -630,9 +630,9 @@
         <!---- links ---->
         <div class="links">
             <ul>
-              <li><i class="fas fa-phone-alt"></i> 14 99806-5592</li>
+              <li><i class="fas fa-phone-alt"></i> 43 999067168</li>
               <li><i class="fas fa-map-marker-alt"></i> Universidade Unimar - Marilia</li>
-              <li><i class="fas fa-envelope-open-text"></i> contato@atletica.com</li>
+              <li><i class="fas fa-envelope-open-text"></i> amanda_nardii@hotmail.com </li>
             </ul>
         </div>
     </section><!---- Contact ---->
