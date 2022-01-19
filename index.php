@@ -23,7 +23,7 @@
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Nunito+Sans:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet"/>
 
-    <title>Atletica</title>
+    <title>Medicina Unimar</title>
 </head>
 <body>
     <header id="header" class="header" >
@@ -119,8 +119,8 @@
         <div class="container">
           <h2 class="title">Principais</h2>
           <p class="principal">
-            Nossa atletica é muito grande e temos muito a lhe apresentar, sendo assim 
-            separamos <strong>três principais</strong> pesquisas em nossa pagina para você acessar!
+          Nossa atletica é muito grande e temos muito a lhe apresentar, sendo assim separamos
+           <strong>três principais</strong> pesquisas em nossa pagina para você acessar!
           </p>
             <div class="cards">
                 <div class="card">
@@ -136,7 +136,7 @@
                     <h3 class="title">
                         <a href="pages/modalidades.php">Modalidades</a>
                     </h3>
-                    <p>Nossa Atlética tem muita historia pra contar! Tambem somos conhecidos por 
+                    <p>Nossa Atlética tem muita historia pra contar! Também  somos conhecidos por 
                         nossas conquistas em varias modalidades esportivas</p>
                 </div>
                 <div class="card" href="pages/lojinha.php">
@@ -144,8 +144,8 @@
                     <h3 class="title">
                         <a href="pages/lojinha.php">Lojinha</a>
                     </h3>
-                    <p>Em nossa lojinha vendemos diversos produtos de nossa atletica que você vai se surpreeender, 
-                        entre e de uma conferida no que temos a te oferecer
+                    <p>Em nossa lojinha vendemos diversos produtos de nossa atlética que você 
+                        vai se surpreender, entre e de uma conferida no que temos a te oferecer
                     </p>
                 </div>
             </div>
@@ -156,7 +156,7 @@
 
     <!--------------- Section ----------------->
     <section class="section" id="testimonials">
-        <h2 class="title">gestão Atletica medicina 2022</h2>
+        <h2 class="title">gestão Atlética medicina 2022</h2>
         <div class="testimonials swiper-container">
             <div class="swiper-wrapper">
                 <div class="testimonial swiper-slide">
@@ -318,7 +318,7 @@
                 <div class="testimonial swiper-slide">
                     <blockquote>
                     <h3>
-                        Patrocinio
+                        Patrocínio
                     </h3>
                     <cite>
                         <img src="images/gestao/14.PNG"/> 
@@ -618,10 +618,10 @@
               Entre em contato com a nossa Atletica, queremos tirar suas dúvidas,
               ouvir suas críticas e sugestões.
             </p>
-            <a
+            <!-- <a
               href="https://api.whatsapp.com/send?phone=+5543999067168&text=Oi. Boa tarde!" 
               class="buttonzap"  target="_blank"><i class="fab fa-whatsapp"></i>Entrar em contato
-            </a>
+            </a> -->
             <a
               href="https://www.instagram.com/medicinaunimar/" 
               class="buttoninst"  target="_blank"><i class="fab fa-instagram"></i></i>Entrar em contato
@@ -630,9 +630,9 @@
         <!---- links ---->
         <div class="links">
             <ul>
-              <li><i class="fas fa-phone-alt"></i> 43 999067168</li>
+              <!-- <li><i class="fas fa-phone-alt"></i> 43 999067168</li> -->
               <li><i class="fas fa-map-marker-alt"></i> Universidade Unimar - Marilia</li>
-              <li><i class="fas fa-envelope-open-text"></i> amanda_nardii@hotmail.com </li>
+              <!-- <li><i class="fas fa-envelope-open-text"></i> amanda_nardii@hotmail.com </li> -->
             </ul>
         </div>
     </section><!---- Contact ---->

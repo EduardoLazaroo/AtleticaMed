@@ -61,7 +61,7 @@
             <div class="card">
             <i class="fas fa-store"></i>
                 <h3 class="title">Lojinha</h3>
-                <p>Tem novidades chegando!! Sigam as redes sociais e fiquem por dentro das promoções, sorteios e todas as novidades!</p>
+                <p>Tem novidades chegando!! Sigam as redes sociais e fique por dentro das promoções, sorteios e todas as novidades!</p>
             </div>
     </section><!-- Principais -->
 
@@ -83,10 +83,10 @@
     <!-------------- Contact ----------------->
     <section class="contact" id="contact">
         <div class="text">
-            <h2 class="title">Acesse Nossa Lojinha Oficial</h2>
+            <h2 class="title">Acesse Nossos destaques no intagram</h2>
             <a
-              href="https://cheersshop.com.br/atl%C3%A9tica-medicina-unimar-aaaan~460" 
-              class="buttonloja"  target="_blank"><i class="fas fa-tshirt"></i>Acessar
+              href="https://www.instagram.com/medicinaunimar/" 
+              class="buttoninst"  target="_blank"><i class="fab fa-instagram"></i></i> Nosso Instagram
             </a>
     </section><!---- Contact ---->
 
@@ -98,13 +98,13 @@
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/adesivo.png">
                 <h3 class="title">Adesivo</h3>
-                <h4 class="title">Adesivo abutre para enfeite</h4>
+                <!-- <h4 class="title">Adesivo abutre para enfeite</h4> -->
             </div>
             
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/bata_samba.png">
                 <h3 class="title">Bata e Samba</h3>
-                <h4 class="title">Conjunto Bata e Samba</h4>
+                <!-- <h4 class="title">Conjunto Bata e Samba</h4> -->
             </div>
             <div class="clear"></div>
         </div>
@@ -117,13 +117,13 @@
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/blusa.png">
                 <h3 class="title">Blusa College</h3>
-                <h4 class="title">Blusa de Frio College Med</h4>
+                <!-- <h4 class="title">Blusa de Frio College Med</h4> -->
             </div>
             
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/bone.png">
                 <h3 class="title">Bone</h3>
-                <h4 class="title">Dois Modelos de Boné</h4>
+                <!-- <h4 class="title">Dois Modelos de Boné</h4> -->
             </div>
             <div class="clear"></div>
         </div>
@@ -136,13 +136,13 @@
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/bone_aba.png">
                 <h3 class="title">Bone aba Reta</h3>
-                <h4 class="title">Bone de aba Reta medicina</h4>
+                <!-- <h4 class="title">Bone de aba Reta medicina</h4> -->
             </div>
             
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/caneca.png">
                 <h3 class="title">Caneca</h3>
-                <h4 class="title">Caneca</h4>
+                <!-- <h4 class="title">Caneca</h4> -->
             </div>
             <div class="clear"></div>
         </div>
@@ -155,13 +155,13 @@
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/chaveiro.png">
                 <h3 class="title">Chaveiro Avridor</h3>
-                <h4 class="title">Chaveiro abridor de garrafa</h4>
+                <!-- <h4 class="title">Chaveiro abridor de garrafa</h4> -->
             </div>
             
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/chinelo.png">
                 <h3 class="title">Chinelo slide</h3>
-                <h4 class="title">Chinelo Slide</h4>
+                <!-- <h4 class="title">Chinelo Slide</h4> -->
             </div>
             <div class="clear"></div>
         </div>
@@ -174,13 +174,13 @@
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/Conjunto.png">
                 <h3 class="title">Conjunto</h3>
-                <h4 class="title">Conjuntinho</h4>
+                <!-- <h4 class="title">Conjuntinho</h4> -->
             </div>
             
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/kit_high.png">
                 <h3 class="title">Kit Highlander</h3>
-                <h4 class="title">Kit Highlander</h4>
+                <!-- <h4 class="title">Kit Highlander</h4> -->
             </div>
             <div class="clear"></div>
         </div>
@@ -193,13 +193,13 @@
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/maio.png">
                 <h3 class="title">Maiô</h3>
-                <h4 class="title">Maiô</h4>
+                <!-- <h4 class="title">Maiô</h4> -->
             </div>
             
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/mochila.png">
                 <h3 class="title">Mochila</h3>
-                <h4 class="title">Mochila</h4>
+                <!-- <h4 class="title">Mochila</h4> -->
             </div>
             <div class="clear"></div>
         </div>
@@ -213,13 +213,13 @@
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/moletom.png">
                 <h3 class="title">Moletom</h3>
-                <h4 class="title">Moletom</h4>
+                <!-- <h4 class="title">Moletom</h4> -->
             </div>
             
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/porta_cartao.png">
                 <h3 class="title">Porta Cartao</h3>
-                <h4 class="title">Porta Cartao</h4>
+                <!-- <h4 class="title">Porta Cartao</h4> -->
             </div>
             <div class="clear"></div>
         </div>
@@ -232,7 +232,7 @@
             <div class="w50 left">
                 <img class="produtos" src="../images/lojinha/tirante.png">
                 <h3 class="title">Tirante</h3>
-                <h4 class="title">Tirante</h4>
+                <!-- <h4 class="title">Tirante</h4> -->
             </div>
             
             <div class="clear"></div>

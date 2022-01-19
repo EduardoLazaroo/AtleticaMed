@@ -105,7 +105,7 @@
 
     <!-- -------------Section slide------------- -->
     <section class="section" id="parties">
-        <h2 class="title">Eventos da nossa atletica</h2>
+        <h2 class="title">Eventos da nossa atlética</h2>
         <p class="sub">Arraste para o lado e visualize nossas fotos!</p>
         <div class="parties swiper-container">
             <div class="swiper-wrapper">

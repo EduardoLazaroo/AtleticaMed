@@ -41,7 +41,7 @@ strong{
 /*====  VARIABLES ============================ */
 :root {
     --header-height: 4.5rem;
-  
+
     /* colors */
     --f-color: rgb(7, 11, 44);
     --pri-color: rgb(0, 7, 68);
@@ -52,7 +52,7 @@ strong{
     --sex-color: rgb(0, 110, 255);
     --sev-color: rgb(248, 251, 255);
     --back-color: rgb(41, 41, 41);
-  
+
     /* fonts */
     --title-font-size: 1.875rem;
     --subtitle-font-size: 1rem;
@@ -749,7 +749,7 @@ section.section .links a{
     margin-bottom: -30px;
 }
 
-/********* Page Lojinhas **********/
+/********* Page Lojinha **********/
 #warning .card{
     padding: 1rem 0.5rem; 
     margin: 3rem 14%;
@@ -763,6 +763,10 @@ section.section .links a{
     margin: 0 5px;
     color: rgb(41, 84, 223);
     font-size: 23px;
+}
+
+#contact a{
+    margin: 3rem 0;
 }
 
 #store h3.title{
