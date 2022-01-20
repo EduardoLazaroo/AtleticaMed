@@ -19,11 +19,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&display=swap" rel="stylesheet">
-    
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Nunito+Sans:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet"/>
 
     <title>Medicina Unimar</title>
+    
 </head>
 <body>
     <header id="header" class="header" >
@@ -52,16 +52,18 @@
                         <li><a href="pages/parcerias.php">Parcerias</a></li>
                     </ul>
                 </div>
+                
+                <!-- togles -->
                 <div class="toggle open right"><i class="fas fa-bars"></i></div>
                 <div class="toggle close right"><i class="far fa-times-circle"></i></div>
             </nav>
-            <div class="clear"></div>
+        <div class="clear"></div>
     </header>
-    <!-- -------Banner Principal-------- -->
+    <!---------Banner Principal---------->
     <section class="banner-principal" id="home">
         <div class="overlay"></div>
         <div class="center">
-            <form  class="unimar">
+            <form class="unimar">
                 <div>
                     <br><!-- espaçamento  -->
                     <h2>Atlética</h2>
@@ -72,56 +74,57 @@
                 </div>
             </form>
         </div>
-    </section class=><!--banner principal-->
+    </section class=><!-- banner principal -->
 
+    <!-- risco -->
     <section class="risco">
         <div class="center">
-            <h1>Raça, sangue, tesão e Suor</h1>
+            <h1>Raça, Sangue, Tesão e Suor</h1>
         </div>
-    </section>
+    </section><!-- risco -->
 
-    <!-- -------Descrição Autor-------- -->
+    <!-------- Descrição Autor --------->
     <section class="descricao-autor" id="about">
         <div class="center">
             <div class="w50 left">
-            <h2>O que é A.A.A.A.N ?</h2>
-            <div class="text">  <strong></strong>
-                <p>A Associação Atlética Acadêmica Akira Nakadaira – AAAAN - é uma associação sem 
-                fins lucrativos formada por alunos do curso de <strong>Medicina da Universidade de Marília</strong>.</p>
-                <p>Nossas atividades envolvem a promoção de práticas esportivas entre os alunos, 
-                campeonatos com outras faculdades, além da realização de eventos de integração, 
-                como festas e ações sociais.</p>
-                <p>As práticas esportivas oferecidas contam com inúmeras modalidades, que tem como 
-                principais objetivos não só promover integração entre os alunos, mas também 
-                oferecer uma ferramenta de manutenção de saúde mental e física aos alunos.</p>
-                <p>Os treinos ocorrem semanalmente de segunda-feira à quinta-feira. Além de proporcionar 
-                uma maneira de distração, os treinos possuem o importante objetivo de organizar times 
-                competitivos para defender nossa faculdade nos <strong>Jogos Universitários de Medicina 
-                (JUMED)</strong>, competindo com diversos cursos de Medicina do estado de São Paulo. </p>
-            </div>
+                <h2>O que é A.A.A.A.N ?</h2>
+                <div class="text">
+                    <p>A Associação Atlética Acadêmica Akira Nakadaira – AAAAN - é uma associação sem 
+                    fins lucrativos formada por alunos do curso de <strong>Medicina da Universidade de Marília</strong>.</p>
+                    <p>Nossas atividades envolvem a promoção de práticas esportivas entre os alunos, 
+                    campeonatos com outras faculdades, além da realização de eventos de integração, 
+                    como festas e ações sociais.</p>
+                    <p>As práticas esportivas oferecidas contam com inúmeras modalidades, que tem como 
+                    principais objetivos não só promover integração entre os alunos, mas também 
+                    oferecer uma ferramenta de manutenção de saúde mental e física aos alunos.</p>
+                    <p>Os treinos ocorrem semanalmente de segunda-feira à quinta-feira. Além de proporcionar 
+                    uma maneira de distração, os treinos possuem o importante objetivo de organizar times 
+                    competitivos para defender nossa faculdade nos <strong>Jogos Universitários de Medicina 
+                    (JUMED)</strong>, competindo com diversos cursos de Medicina do estado de São Paulo. </p>
+                </div>
             </div>
 
+            <!-- imagem -->
             <div class="w50 left">
                 <div class="image">
                     <img class="perfil" src="images/perfil.jpg">
                 </div>
             </div>
 
-            <div class="clear"></div>
-
+        <div class="clear"></div>
         </div>
     </section><!--descrição autor-->
 
     <div class="divider-1"></div>
 
-    <!-------------- Principais ------------------>
+    <!-------------- Principais ----------------->
     <section class="section" id="principais">
         <div class="container">
-          <h2 class="title">Principais</h2>
-          <p class="principal">
-          Nossa atletica é muito grande e temos muito a lhe apresentar, sendo assim separamos
-           <strong>três principais</strong> pesquisas em nossa pagina para você acessar!
-          </p>
+            <h2 class="title">Principais</h2>
+            <p class="principal">
+                Nossa atletica é muito grande e temos muito a lhe apresentar, sendo assim separamos
+                <strong>três principais</strong> pesquisas em nossa pagina para você acessar!
+            </p>
             <div class="cards">
                 <div class="card">
                     <i class="icon far fa-calendar-alt"></i>
@@ -606,7 +609,7 @@
             </div>
         </div>
         <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
-    </section> <!---- Section ----->
+    </section><!---- Section ----->
       
     <div class="divider-1"></div>
 
@@ -627,6 +630,7 @@
               class="buttoninst"  target="_blank"><i class="fab fa-instagram"></i></i>Entrar em contato
             </a>
         </div>
+
         <!---- links ---->
         <div class="links">
             <ul>
@@ -637,12 +641,12 @@
         </div>
     </section><!---- Contact ---->
     
-    <!----- footer ----->
+    <!--------- footer --------->
     <footer>
         <div class="center">
             <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 2022 - Todos os Direitos Reservados</p>
         </div>
-    </footer>
+    </footer><!----- footer ----->
 
     <!----- botao top ----->
     <a href="#home" class="back-to-top"><i class="fas fa-arrow-up"></i></a>

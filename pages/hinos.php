@@ -16,11 +16,14 @@
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
 
     <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Nunito+Sans:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.gstatic.com"/>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet"/>
 
     <title>Hinos</title>
+
 </head>
 <body>
     <header id="header" class="header" >
@@ -49,6 +52,8 @@
                         <li><a href="parcerias.php">Parcerias</a></li>
                     </ul>
                 </div>
+
+                <!-- togles -->
                 <div class="toggle open right"><i class="fas fa-bars"></i></div>
                 <div class="toggle close right"><i class="far fa-times-circle"></i></div>
             </nav>
@@ -165,11 +170,12 @@
 
      </section><!-- Descricão autor -->
 
-    <footer>
+    <footer><!--------- footer --------->
         <div class="center">
             <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 2022 - Todos os Direitos Reservados</p>
-        </div><!--center-->
-    </footer>
+        </div>
+    </footer><!-- footer -->
+
     <!----- botao top ----->
     <a href="#hinos" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
 

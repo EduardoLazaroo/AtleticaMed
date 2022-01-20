@@ -16,11 +16,14 @@
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
 
     <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Nunito+Sans:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.gstatic.com"/>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet"/>
-    
+
     <title>Eventos</title>
+
 </head>
 <body>
     <header id="header" class="header" >
@@ -49,6 +52,8 @@
                         <li><a href="parcerias.php">Parcerias</a></li>
                     </ul>
                 </div>
+
+                <!-- togles -->
                 <div class="toggle open right"><i class="fas fa-bars"></i></div>
                 <div class="toggle close right"><i class="far fa-times-circle"></i></div>
             </nav>
@@ -68,8 +73,8 @@
                         conjunta de todos os alunos no mesmo ideal de levantar nossa bandeira 
                         azul e branca.</p>
                     <p>A bateria é um espetáculo a parte e foi criada com a intenção de 
-                        representar, das arquibancadas, a força dos <strong>ABUTRES</strong>  nas competições!</p>
-                    <p>Com ensaios semanais a <strong>BATUKABUTRE</strong> reúne diversos alunos , não só para 
+                        representar, das arquibancadas, a força dos <strong>ABUTRES</strong> nas competições!</p>
+                    <p>Com ensaios semanais a <strong>BATUKABUTRE</strong> reúne diversos alunos, não só para 
                         tocar, mas para fortalecer os laços dos apaixonados integrantes. 
                         Campeã da Disputa Universitária de Baterias (DUB) em 2013 a nossa 
                         bateria realiza espetaculares apresentações em festas, eventos 
@@ -85,7 +90,7 @@
 
         <div class="clear"></div>
         </div>
-    </section> <!---Descricão autor----->
+    </section><!--- Descricão Autor ----->
 
     <div class="divider-1"></div>
     
@@ -98,19 +103,24 @@
             <div class="w50 left">
                 <h2>Nossos Eventos</h2>
                 <div class="text">
-                    <p>Eventos fora da Universidade acontecem sempre, porém temos um evento 
+                    <p>
+                        Eventos fora da Universidade acontecem sempre, porém temos um evento 
                         que é muito importante para nossa Atlética e que sempre nos preparamos 
-                        com antecedência.</p>
-                    <p><strong>O JUMED (Jogos Universitários de Medicina)</strong> é uma competição organizada 
+                        com antecedência.
+                    </p>
+                    <p>
+                        <strong>O JUMED (Jogos Universitários de Medicina)</strong> é uma competição organizada 
                         por alunos das faculdades de Medicina de diversas cidades do estado 
                         de São Paulo com o intuito de promover a integração e a prática 
-                        esportiva entre os estudantes.</p>
-                    <p>O evento, que acontece com objetivo fortalecer a integração dos 
+                        esportiva entre os estudantes.
+                    </p>
+                    <p>
+                        O evento, que acontece com objetivo fortalecer a integração dos 
                         cadêmicos de Medicina do Estado por meio da prática desportiva e social. 
                         Os futuros médicos participam de modalidades coletivas, como <strong>futsal</strong>, 
-                            <strong>basquete</strong>, <strong>voleibol</strong> e <strong>handebol</strong>, 
-                            de competições individuais, como <strong>atletismo</strong> e <strong>xadrez</strong>. </p>
-                    
+                        <strong>basquete</strong>, <strong>voleibol</strong> e <strong>handebol</strong>, 
+                        de competições individuais, como <strong>atletismo</strong> e <strong>xadrez</strong>. 
+                    </p>
                   </div>
             </div>
         <div class="clear"></div>
@@ -119,7 +129,7 @@
 
     <div class="divider-2"></div>
 
-    <!-- -------------Section slide------------- -->
+    <!-- ------------- Section parties ------------- -->
     <section class="section" id="parties">
         <h2 class="title">Eventos da nossa atlética</h2>
         <p class="sub">Arraste para o lado e visualize nossas fotos!</p>
@@ -258,8 +268,7 @@
             <div class="swiper-pagination"></div>
         </div>
         <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
-    </section><!-- section -->
-      
+    </section><!-- section parties -->
 
     <!-------------- Contact ----------------->
     <section class="contact">
@@ -272,16 +281,16 @@
             class="buttoninst"  target="_blank"><i class="fab fa-instagram"></i></i>Acessar Instagram
             </a>
         </div>
-    </section><!---- Contact ---->
+    </section><!-- Contact -->
     <br><br>
     <div class="divider-1"></div>
 
-    <!-- footer -->
+    <!--------- footer --------->
     <footer>
         <div class="center">
             <p>© Associação Atlética Acadêmica Akira Nakadaira - Faculdade de Medicina da UNIMAR - 2022 - Todos os Direitos Reservados</p>
-        </div><!--center-->
-    </footer>
+        </div>
+    </footer><!-- footer -->
 
     <!----- botao top ----->
     <a href="#about" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
