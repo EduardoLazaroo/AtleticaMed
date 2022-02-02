@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    user-select: none;
 }
 
 p{
@@ -23,9 +22,7 @@ html{
   
 body{
     overflow-x: hidden;
-    font: 400 1rem 'Inter', sans-serif; /* p {margin bootom: 3px}*/
-    /* font: 400 1rem 'Nunito Sans', sans-serif; */
-    /* font: 400 1rem 'BM Plex Mono', monospace; */
+    font: 400 1rem 'Inter', sans-serif;
     -webkit-font-smoothing: antialiased;
     height: 100vh;
     width: 100vw;

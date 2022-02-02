@@ -654,9 +654,6 @@
     <!----- swiper ----->
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
     
-    <!-- scrollreveal -->
-    <script src="https://unpkg.com/scrollreveal"></script>
-
     <!----- main.js ---->
     <script src="js/main.js"></script>
 </body>
