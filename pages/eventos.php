@@ -129,20 +129,6 @@
 
     <div class="divider-2"></div>
 
-    <!-- ------------- Section parties ------------- -->
-    <section class="section" id="parties">
-        <h2 class="title">Eventos da nossa atlética</h2>
-        <p class="sub">Arraste para o lado e visualize nossas fotos!</p>
-    </section><!-- section parties -->
-
-    <section class="eventSlide"> 
-        <div class="center" id="slider">
-            <img class="selected" src="../images/eventos/azul_med2.jpg" alt="">
-            <!-- <img src="../images/eventos/azul_med1.png" alt=""> -->
-            <!-- <img src="../images/eventos/azul_med2.jpg" alt=""> -->
-            <!-- <img src="../images/eventos/azul_med3.jpg" alt=""> -->
-        </div>
-    </section>
     <!-------------- Contact ----------------->
     <section class="contact">
         <div class="text">
@@ -156,8 +142,28 @@
         </div>
     </section><!-- Contact -->
     <br><br>
-    <div class="divider-1"></div>
 
+    <!-- ------------- Section parties ------------- -->
+    <section class="section" id="parties">
+        <h2 class="title">Eventos da nossa atlética</h2>
+        <div class="parties swiper-container">
+            <div class="swiper-wrapper">
+                <div class="partie swiper-slide">
+                    <blockquote>
+                    <cite>
+                        <img src="../images/eventos/azul_med2.jpg"/> 
+                        <p>Azul Med</p>
+                    </cite>
+                    </blockquote>
+                </div>
+            </div>
+
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
+    </section><!-- section parties -->
+    
+    <div class="divider-1"></div>
     <!--------- footer --------->
     <footer>
         <div class="center">
