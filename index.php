@@ -611,7 +611,16 @@
         </div>
         <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
     </section><!---- Section ----->
-      
+    
+    <section class="indexSlide"> 
+        <div class="center" id="slider">
+            <img class="selected" src="images/gestao/01.PNG" alt="">
+            <img src="images/gestao/02.PNG" alt="">
+            <img src="images/gestao/03.PNG" alt="">
+            <img src="images/gestao/04.PNG" alt="">
+        </div>
+    </section>
+
     <div class="divider-1"></div>
 
     <!-------------- Contact ----------------->

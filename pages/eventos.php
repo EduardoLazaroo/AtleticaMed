@@ -134,143 +134,16 @@
     <section class="section" id="parties">
         <h2 class="title">Eventos da nossa atlética</h2>
         <p class="sub">Arraste para o lado e visualize nossas fotos!</p>
-        <div class="parties swiper-container">
-            <div class="swiper-wrapper">
-                <!-- slide -->
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/batukabutre.jpg"/> 
-                        <p>BatukaButre</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <!-- slide -->
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/mocas.jpg"/> 
-                        <p>Self Medicina</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/azul_med1.png"/> 
-                        <p>Azul Med</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <!-- slide -->
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/azul_med2.jpg"/> 
-                        <p>Azul Med</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <!-- slide -->
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/azul_med3.jpg"/> 
-                        <p>Azul Med</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <!-- slide -->
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/azul_med4.jpg"/> 
-                        <p>Azul Med</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <!-- slide -->
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/fut_fem.png"/> 
-                        <p>Futsal Feminino</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <!-- slide -->
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/futsal_fem_trofeu.png"/> 
-                        <p>Troféu Futsal</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <!-- slide -->
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/jumed_2.png"/> 
-                        <p>Bicampeão Jumed 2014</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <!-- slide -->
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/jumed_3.png"/> 
-                        <p>Tricampeão Jumed</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <!-- slide -->
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/jumed_5.png"/> 
-                        <p>Pentacampeão Jumed</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <!-- slide -->
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/mascote.png"/> 
-                        <p>Mascote Atletica</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <!-- slide -->
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/trofeis.png"/> 
-                        <p>Trofeus</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <!-- slide -->
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/beijo.png"/> 
-                        <p>Beijo na Taça</p>
-                    </cite>
-                    </blockquote>
-                </div>
-                <!-- slide -->
-                
-            </div>
-
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
-        </div>
-        <h2 class="lado right"><i class="fas fa-arrow-right"></i></h2>
     </section><!-- section parties -->
 
+    <section class="eventSlide"> 
+        <div class="center" id="slider">
+            <img class="selected" src="../images/eventos/batukabutre.jpg" alt="">
+            <img src="../images/eventos/azul_med1.png" alt="">
+            <img src="../images/eventos/azul_med2.jpg" alt="">
+            <img src="../images/eventos/azul_med3.jpg" alt="">
+        </div>
+    </section>
     <!-------------- Contact ----------------->
     <section class="contact">
         <div class="text">

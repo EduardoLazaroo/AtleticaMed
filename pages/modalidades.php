@@ -98,9 +98,17 @@
 
     <div class="divider-1"></div>
 
+
+    <section class="modalSlide"> 
+        <div class="center" id="slider">
+        <h2 class="title">Atletismo</h2>
+            <img class="selected" src="../images/modalidades/atletismo1.png" alt="Atletismo 1/4">
+            <img src="../images/modalidades/atletismo2.png" alt="">
+            <img src="../images/modalidades/atletismo3.jpg" alt="">
+        </div>
+    </section>
     <!-- -------------Section slide------------- -->
     <section class="section" id="modalities">
-    <p>Arraste para o lado e visualize nossas fotos!</p>
         <div class="titulo" id="atletismo">   
             <h2 class="title">Atletismo</h2>
         </div> 

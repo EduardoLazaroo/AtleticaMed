@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    user-select: none;
 }
 
 p{
@@ -521,6 +522,35 @@ section h2.lado{
     font-size: 18px;
 }
 
+.indexSlide #slider{
+    width: 100%;
+    max-width: 900px;
+    height: 500px;
+    max-height: 500px;
+
+    position: relative;
+}
+
+.indexSlide #slider img{
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+
+    opacity: 0;
+    position: absolute;
+
+    width: 13rem;
+    height: auto;
+    clip-path: circle();
+
+    /* object-fit: cover; */
+    transition: opacity 800ms;
+}
+
+.indexSlide #slider img.selected{
+    opacity: 1;
+}
+
 /****  swiper  ****/
 .swiper-slide{
     height: auto;
@@ -711,6 +741,34 @@ footer p{
     margin-bottom: -7rem;
 }
 
+.eventSlide #slider{
+    width: 80%;
+    max-width: 900px;
+    height: 500px;
+    max-height: 500px;
+
+    position: relative;
+}
+
+.eventSlide #slider img{
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+
+    opacity: 0;
+    position: absolute;
+
+    width: 100%;
+    height: 100%;
+
+    /* object-fit: cover; */
+    transition: opacity 800ms;
+}
+
+.eventSlide #slider img.selected{
+    opacity: 1;
+}
+
 /********* Page Modalidades **********/
 section.section .links a{
     margin: 10px 1rem;
@@ -744,6 +802,36 @@ section.section .links a{
 #modalities .titulo h2{
     margin-top: 2rem;
     margin-bottom: -30px;
+}
+.modalSlide #slider{
+    width: 80%;
+    max-width: 600px;
+    height: 500px;
+    max-height: 500px;
+
+    position: relative;
+}
+section.modalSlide{
+    margin: 1rem 0;
+}
+
+section.modalSlide #slider img{
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+
+    opacity: 0;
+    position: absolute;
+
+    width: 100%;
+    height: auto;
+
+    object-fit: cover;
+    transition: opacity 800ms;
+}
+
+section.modalSlide #slider img.selected{
+    opacity: 1;
 }
 
 /********* Page Lojinha **********/
