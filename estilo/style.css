@@ -149,7 +149,7 @@ header{
     background: rgb(1, 11, 34);
     z-index: 2;
     width: 100%;
-    position: fixed;
+    position: absolute;
 }
 
 header .logo img{
@@ -866,5 +866,12 @@ section.hinos .card p{
         margin-bottom: 30px;
         width: 100%;
         max-width: 900px;
+    }
+    section.banner-principal .unimar h2{
+        font-size: 72px;
+        transition: 0.1s;
+    }
+    section.banner-principal .unimar h2:hover{
+        font-size: 73px;
     }
 }
