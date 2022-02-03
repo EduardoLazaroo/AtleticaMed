@@ -188,7 +188,7 @@
     </footer><!----- footer ----->
 
     <!----- botao top ----->
-    <!-- <a href="#home" class="back-to-top"><i class="fas fa-arrow-up"></i></a> -->
+    <a href="#home" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
 
     <!----- swiper ----->
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
