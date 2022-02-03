@@ -101,17 +101,17 @@
     <section class="descricao-autor"  id="parcerias" >
         <div class="center">
             <div class="w33 left">
-            <img class="patrocinio" src="../images/parcerias/04.png">
+            <img class="patrocinio" src="../images/parcerias/04.PNG">
              <h3 class="title">Mansão Açai</h3>
             </div>
 
             <div class="w33 left">
-                <img class="patrocinio" src="../images/parcerias/05.png">
+                <img class="patrocinio" src="../images/parcerias/05.PNG">
                     <h3 class="title">Mustang Beach</h3>
             </div>
 
             <div class="w33 right">
-                <img class="patrocinio" src="../images/parcerias/01.png">
+                <img class="patrocinio" src="../images/parcerias/06.PNG">
                     <h3 class="title">Dr. Márcio Santilli</h3>
             </div>
             <div class="clear"></div>
@@ -121,20 +121,20 @@
     <section class="descricao-autor"  id="parcerias" >
         <div class="center">
             <div class="w33 left">
-            <img class="patrocinio" src="../images/parcerias/07.png">
+            <img class="patrocinio" src="../images/parcerias/07.PNG">
              <h3 class="title">Buteco Do Unibar</h3>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="patrocinio" src="../images/parcerias/08.png">
+                    <img class="patrocinio" src="../images/parcerias/08.PNG">
                      <h3 class="title">Crossfit Marilia</h3>
                 </div>
             </div>
 
             <div class="w33 right">
                 <div>
-                    <img class="patrocinio" src="../images/parcerias/09.png"> 
+                    <img class="patrocinio" src="../images/parcerias/09.PNG"> 
                     <h3 class="title">Ana Gonçalves</h3>
                 </div>
             </div>
@@ -145,20 +145,20 @@
     <section class="descricao-autor"  id="parcerias" >
         <div class="center">
             <div class="w33 left">
-            <img class="patrocinio" src="../images/parcerias/10.png"> 
+            <img class="patrocinio" src="../images/parcerias/10.PNG"> 
             <h3 class="title">Olhar de Maria</h3>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="patrocinio" src="../images/parcerias/11.png"> 
+                    <img class="patrocinio" src="../images/parcerias/11.PNG"> 
                     <h3 class="title">Madalê</h3>
                 </div>
             </div>
 
             <div class="w33 right">
                 <div>
-                    <img class="patrocinio" src="../images/parcerias/12.png"> 
+                    <img class="patrocinio" src="../images/parcerias/12.PNG"> 
                     <h3 class="title">Dr Shape</h3>
                 </div>
             </div>
@@ -169,20 +169,20 @@
     <section class="descricao-autor"  id="parcerias" >
         <div class="center">
             <div class="w33 left">
-            <img class="patrocinio" src="../images/parcerias/13.png"> 
+            <img class="patrocinio" src="../images/parcerias/13.PNG"> 
             <h3 class="title">Bêlicias Gourmet</h3>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="patrocinio" src="../images/parcerias/14.png"> 
+                    <img class="patrocinio" src="../images/parcerias/14.PNG"> 
                     <h3 class="title">Cascata</h3>
                 </div>
             </div>
 
             <div class="w33 right">
                 <div>
-                    <img class="patrocinio" src="../images/parcerias/15.png"> 
+                    <img class="patrocinio" src="../images/parcerias/15.PNG"> 
                     <h3 class="title">NewLife</h3>
                 </div>
             </div>
