@@ -97,15 +97,6 @@
 
     <div class="divider-1"></div>
 
-
-    <section class="modalSlide"> 
-        <div class="center" id="slider">
-        <h2 class="title">Atletismo</h2>
-            <img class="selected" src="../images/modalidades/atletismo1.png" alt="Atletismo 1/4">
-            <img src="../images/modalidades/atletismo2.png" alt="">
-            <img src="../images/modalidades/atletismo3.jpg" alt="">
-        </div>
-    </section>
     <!-- -------------Section slide------------- -->
     <section class="section" id="modalities">
         <div class="titulo" id="atletismo">   
@@ -113,7 +104,7 @@
         </div> 
         <div class="modalities swiper-container">
             <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
+                <!-- <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/atletismo1.png"/> 
@@ -138,13 +129,13 @@
                         <p>Atletismo 3/4</p>
                     </cite>
                     </blockquote>
-                </div>
+                </div> -->
 
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/atletismo4.jpg"/> 
-                        <p>Atletismo 4/4</p>
+                        <!-- <p>Atletismo 4/4</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -159,7 +150,7 @@
         </div> 
         <div class="modalities swiper-container">
             <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
+                <!-- <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/basquete1.png"/> 
@@ -175,25 +166,25 @@
                         <p>Basquete 2/4</p>
                     </cite>
                     </blockquote>
-                </div>
+                </div> -->
 
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/basquete3.jpg"/> 
-                        <p>Basquete 3/4</p>
+                        <!-- <p>Basquete 3/4</p> -->
                     </cite>
                     </blockquote>
                 </div>
 
-                <div class="modalitie swiper-slide">
+                <!-- <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/basquete4.jpg"/> 
                         <p>Basquete 4/4</p>
                     </cite>
                     </blockquote>
-                </div>
+                </div> -->
             </div>
         </div>
 
@@ -205,32 +196,32 @@
         </div> 
         <div class="modalities swiper-container">
             <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
+                <!-- <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futebol1.png"/> 
                         <p>Futebol de Campo 1/3</p>
                     </cite>
                     </blockquote>
-                </div>
+                </div> -->
 
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futsal2.jpg"/> 
-                        <p>Futebol de Campo 2/3</p>
+                        <!-- <p>Futebol de Campo 2/3</p> -->
                     </cite>
                     </blockquote>
                 </div>
 
-                <div class="modalitie swiper-slide">
+                <!-- <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futebol2.png"/> 
                         <p>Futebol de Campo 3/3</p>
                     </cite>
                     </blockquote>
-                </div>
+                </div> -->
             </div>
         </div>
 
@@ -242,7 +233,7 @@
         </div> 
         <div class="modalities swiper-container">
             <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
+                <!-- <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futsal1.png"/> 
@@ -258,13 +249,13 @@
                         <p>Futsal 2/3</p>
                     </cite>
                     </blockquote>
-                </div>
+                </div> -->
 
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/futsal4.jpg"/> 
-                        <p>Futsal 3/3</p>
+                        <!-- <p>Futsal 3/3</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -283,12 +274,12 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/handball1.png"/> 
-                        <p>Handball 1/3</p>
+                        <!-- <p>Handball 1/3</p> -->
                     </cite>
                     </blockquote>
                 </div>
 
-                <div class="modalitie swiper-slide">
+                <!-- <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/handball2.png"/> 
@@ -304,7 +295,7 @@
                         <p>Handball 3/3</p>
                     </cite>
                     </blockquote>
-                </div>
+                </div> -->
             </div>
         </div>
 
@@ -316,20 +307,20 @@
         </div> 
         <div class="modalities swiper-container">
             <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
+                <!-- <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/judo1.png"/> 
                         <p>Judô 1/2</p>
                     </cite>
                     </blockquote>
-                </div>
+                </div> -->
 
                 <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/judo2.png"/> 
-                        <p>Judô 2/2</p>
+                        <!-- <p>Judô 2/2</p> -->
                     </cite>
                     </blockquote>
                 </div>
@@ -353,14 +344,14 @@
                     </blockquote>
                 </div>
 
-                <div class="modalitie swiper-slide">
+                <!-- <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/natacao2.png"/> 
                         <p>Natação 2/2</p>
                     </cite>
                     </blockquote>
-                </div>
+                </div> -->
             </div>
         </div>
 
@@ -376,19 +367,19 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/tenis_campo1.png"/> 
-                        <p>Tênis de Campo 1/2</p>
+                        <!-- <p>Tênis de Campo 1/2</p> -->
                     </cite>
                     </blockquote>
                 </div>
 
-                <div class="modalitie swiper-slide">
+                <!-- <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/tenis_campo2.png"/> 
                         <p>Tênis de Campo 2/2</p>
                     </cite>
                     </blockquote>
-                </div>
+                </div> -->
             </div>
         </div>
         
@@ -404,19 +395,19 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/tenis_mesa1.jpg"/> 
-                        <p>Tênis de Mesa 1/2</p>
+                        <!-- <p>Tênis de Mesa 1/2</p> -->
                     </cite>
                     </blockquote>
                 </div>
 
-                <div class="modalitie swiper-slide">
+                <!-- <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/tenis_mesa2.png"/> 
                         <p>Tênis de Mesa 2/2</p>
                     </cite>
                     </blockquote>
-                </div>
+                </div> -->
             </div>
         </div>
 
@@ -432,12 +423,12 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/volei1.png"/> 
-                        <p>Vôlei 1/4</p>
+                        <!-- <p>Vôlei 1/4</p> -->
                     </cite>
                     </blockquote>
                 </div>
 
-                <div class="modalitie swiper-slide">
+                <!-- <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/volei2.png"/> 
@@ -462,7 +453,7 @@
                         <p>Vôlei 4/4</p>
                     </cite>
                     </blockquote>
-                </div>
+                </div> -->
             </div>
         </div>
 
@@ -478,12 +469,12 @@
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/xadrez1.png"/> 
-                        <p>Xadrez 1/3</p>
+                        <!-- <p>Xadrez 1/3</p> -->
                     </cite>
                     </blockquote>
                 </div>
 
-                <div class="modalitie swiper-slide">
+                <!-- <div class="modalitie swiper-slide">
                     <blockquote>
                     <cite>
                         <img src="../images/modalidades/xadrez2.png"/> 
@@ -499,7 +490,7 @@
                         <p>Xadrez 3/3</p>
                     </cite>
                     </blockquote>
-                </div>
+                </div> -->
             </div>
         </div>
 

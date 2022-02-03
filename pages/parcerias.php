@@ -116,7 +116,7 @@
                 </div>
             </div>
 
-            <div class="w33 left">
+            <div class="w33 right">
                 <div>
                     <img class="patrocinio" src="../images/parcerias/06.png">
                      <h3 class="title">Dr. Márcio Santilli</h3>
@@ -140,7 +140,7 @@
                 </div>
             </div>
 
-            <div class="w33 left">
+            <div class="w33 right">
                 <div>
                     <img class="patrocinio" src="../images/parcerias/09.png"> 
                     <h3 class="title">Ana Gonçalves</h3>
@@ -164,7 +164,7 @@
                 </div>
             </div>
 
-            <div class="w33 left">
+            <div class="w33 right">
                 <div>
                     <img class="patrocinio" src="../images/parcerias/12.png"> 
                     <h3 class="title">Dr Shape</h3>
@@ -188,7 +188,7 @@
                 </div>
             </div>
 
-            <div class="w33 left">
+            <div class="w33 right">
                 <div>
                     <img class="patrocinio" src="../images/parcerias/15.png"> 
                     <h3 class="title">NewLife</h3>
@@ -212,7 +212,7 @@
                 </div>
             </div>
 
-            <div class="w33 left">
+            <div class="w33 right">
                 <div>
                     <img class="patrocinio" src="../images/parcerias/18.png"> 
                     <h3 class="title">Box10</h3>

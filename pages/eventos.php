@@ -137,10 +137,10 @@
 
     <section class="eventSlide"> 
         <div class="center" id="slider">
-            <img class="selected" src="../images/eventos/batukabutre.jpg" alt="">
-            <img src="../images/eventos/azul_med1.png" alt="">
-            <img src="../images/eventos/azul_med2.jpg" alt="">
-            <img src="../images/eventos/azul_med3.jpg" alt="">
+            <img class="selected" src="../images/eventos/azul_med2.jpg" alt="">
+            <!-- <img src="../images/eventos/azul_med1.png" alt=""> -->
+            <!-- <img src="../images/eventos/azul_med2.jpg" alt=""> -->
+            <!-- <img src="../images/eventos/azul_med3.jpg" alt=""> -->
         </div>
     </section>
     <!-------------- Contact ----------------->
