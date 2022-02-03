@@ -146,6 +146,7 @@ section img.turma{
 
 /****** Estilização do Site ********/
 header{
+    overflow-x: hidden;
     padding: 20px 0;
     background: rgb(1, 11, 34);
     z-index: 2;
@@ -350,19 +351,16 @@ section.banner-principal .unimar{
     position: absolute;
     text-transform: uppercase;
     color: white;
-    width: 80%;
+    width: 100%;
     left: 50%;
     top: 50%;
     text-align: center;
     transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-}
-section.banner-principal .unimar .title{
-    width: 100%;
 }
 
 section.banner-principal .unimar h2{
     font-size: 70px;
+    padding: 0 10px;
     transition: 0.1s;
 }
 
@@ -372,8 +370,9 @@ section.banner-principal .unimar h2:hover{
 }
 
 section.banner-principal .unimar h3{
-    color: rgb(0, 26, 255);
+    color: rgb(20, 38, 202);
     font-size: 63px;
+    padding: 5px 10px;
 }
 
 section.banner-principal .unimar p{
@@ -381,7 +380,7 @@ section.banner-principal .unimar p{
     color: white;
 }
 
-@media screen and (max-width: 950px){
+/* @media screen and (max-width: 950px){
     section.banner-principal .unimar h2{
         font-size: 39px;
         transition: 0.1s;
@@ -401,7 +400,7 @@ section.banner-principal .unimar p{
         font-size: 18px;
         color: white;
     }
-}
+} */
 
 /****** Risco  ******/
 section.risco{
