@@ -193,20 +193,20 @@
     <section class="descricao-autor"  id="parcerias" >
         <div class="center">
             <div class="w33 left">
-            <img class="patrocinio" src="../images/parcerias/16.png"> 
+            <img class="patrocinio" src="../images/parcerias/16.PNG"> 
             <h3 class="title">Isa Benke</h3>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="patrocinio" src="../images/parcerias/17.png"> 
+                    <img class="patrocinio" src="../images/parcerias/17.PNG"> 
                     <h3 class="title">2M</h3>
                 </div>
             </div>
 
             <div class="w33 right">
                 <div>
-                    <img class="patrocinio" src="../images/parcerias/18.png"> 
+                    <img class="patrocinio" src="../images/parcerias/18.PNG"> 
                     <h3 class="title">Box10</h3>
                 </div>
             </div>
@@ -217,13 +217,13 @@
     <section class="descricao-autor"  id="parcerias" >
         <div class="center">
             <div class="w33 left">
-            <img class="patrocinio" src="../images/parcerias/19.png"> 
+            <img class="patrocinio" src="../images/parcerias/19.PNG"> 
             <h3 class="title">Barbearia FM</h3>
             </div>
 
             <div class="w33 left">
                 <div>
-                    <img class="patrocinio" src="../images/parcerias/20.png"> 
+                    <img class="patrocinio" src="../images/parcerias/20.PNG"> 
                     <h3 class="title">Bem Fit</h3>
                 </div>
             </div>
