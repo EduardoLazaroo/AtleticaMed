@@ -165,10 +165,6 @@
               Entre em contato com a nossa Atletica, queremos tirar suas dúvidas,
               ouvir suas críticas e sugestões.
             </p>
-            <!-- <a
-              href="https://api.whatsapp.com/send?phone=+5543999067168&text=Oi. Boa tarde!" 
-              class="buttonzap"  target="_blank"><i class="fab fa-whatsapp"></i>Entrar em contato
-            </a> -->
             <a
               href="https://www.instagram.com/medicinaunimar/" 
               class="buttoninst"  target="_blank"><i class="fab fa-instagram"></i></i>Entrar em contato
@@ -180,7 +176,6 @@
             <ul>
               <!-- <li><i class="fas fa-phone-alt"></i> 43 999067168</li> -->
               <li><i class="fas fa-map-marker-alt"></i> Universidade Unimar - Marilia</li>
-              <!-- <li><i class="fas fa-envelope-open-text"></i> amanda_nardii@hotmail.com </li> -->
             </ul>
         </div>
     </section><!---- Contact ---->
@@ -193,7 +188,7 @@
     </footer><!----- footer ----->
 
     <!----- botao top ----->
-    <a href="#home" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
+    <!-- <a href="#home" class="back-to-top"><i class="fas fa-arrow-up"></i></a> -->
 
     <!----- swiper ----->
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>

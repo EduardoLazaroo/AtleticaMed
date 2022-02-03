@@ -928,4 +928,11 @@ section.hinos .card p{
         width: 100%;
         max-width: 900px;
     }
+    section.banner-principal .unimar h2{
+        font-size: 72px;
+        transition: 0.1s;
+    }
+    section.banner-principal .unimar h2:hover{
+        font-size: 73px;
+    }
 }
