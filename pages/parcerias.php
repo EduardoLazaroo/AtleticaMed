@@ -85,13 +85,13 @@
             </div>
 
             <div class="w33 left">
-                <img class="patrocinio" src="../images/parcerias/02.png">
+                <img class="patrocinio" src="../images/parcerias/02.PNG">
                     <h3 class="title">Marmita Fit Congelada</h3>
             </div>
             
 
             <div class="w33 right">
-                <img class="patrocinio" src="../images/parcerias/03.png">
+                <img class="patrocinio" src="../images/parcerias/03.PNG">
                     <h3 class="title">Rock Temakeria</h3>
             </div>
             <div class="clear"></div>

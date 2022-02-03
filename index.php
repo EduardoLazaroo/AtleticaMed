@@ -64,14 +64,7 @@
         <div class="overlay"></div>
         <div class="center">
             <form class="unimar">
-                <div class="title">
-                    <br><!-- espaçamento  -->
-                    <h2>Atlética</h2>
-                    <h2>Medicina</h2>
-                    <h2>Unimar</h2>
-                    <h3>a.a.a.a.n</h3>
-                    <p>Associação Atlética Acadêmica Akira Nakadaira</p>
-                </div>
+                
             </form>
         </div>
     </section class=><!-- banner principal -->
