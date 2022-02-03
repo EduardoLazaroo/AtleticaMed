@@ -8,8 +8,7 @@
     
     <!-- icon -->
     <script src="https://kit.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
-    <link rel="short icon" href="../images/abutre_logo.png">
-   
+
     <!-- Style -->
     <link href="../estilo/style.css" rel="stylesheet">
     

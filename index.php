@@ -8,8 +8,7 @@
 
     <!-- icon -->
     <script src="https://kit.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
-    <link rel="short icon" href="./images/abutre_logo.png">
-   
+
     <!-- Swiper -->
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
 
@@ -55,8 +54,8 @@
                 </div>
                 
                 <!-- togles -->
-                <div class="toggle open "><i class="fas fa-bars"></i></div>
-                <div class="toggle close "><i class="far fa-times-circle"></i></div>
+                <div class="toggle open right"><i class="fas fa-bars"></i></div>
+                <div class="toggle close right"><i class="far fa-times-circle"></i></div>
             </nav>
         <div class="clear"></div>
     </header>
