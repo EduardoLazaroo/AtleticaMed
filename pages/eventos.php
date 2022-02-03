@@ -146,21 +146,110 @@
     <!-- ------------- Section parties ------------- -->
     <section class="section" id="parties">
         <h2 class="title">Eventos da nossa atlética</h2>
-        <div class="parties swiper-container">
-            <div class="swiper-wrapper">
-                <div class="partie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/eventos/azul_med1.jpg"/> 
-                        <p>Azul Med</p>
-                    </cite>
-                    </blockquote>
-                </div>
+            <div>
+                <blockquote>
+                <cite>
+                    <img src="../images/eventos/mocas.jpg"/> 
+                    <p>Azul Medicina</p>
+                </cite>
+                </blockquote>
             </div>
-
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
-        </div>
+            <div>
+                <blockquote>
+                <cite>
+                    <img src="../images/eventos/azul_med2.jpg"/> 
+                    <p>Azul Medicina</p>
+                </cite>
+                </blockquote>
+            </div>
+            <div>
+                <blockquote>
+                <cite>
+                    <img src="../images/eventos/azul_med1.png"/> 
+                    <p>Azul Medicina</p>
+                </cite>
+                </blockquote>
+            </div>
+            <div>
+                <blockquote>
+                <cite>
+                    <img src="../images/eventos/batukabutre.jpg"/> 
+                    <p>Batukabutre</p>
+                </cite>
+                </blockquote>
+            </div>
+            <div>
+                <blockquote>
+                <cite>
+                    <img src="../images/eventos/azul_med3.jpg"/> 
+                    <p>Azul Medicina</p>
+                </cite>
+                </blockquote>
+            </div>
+            <div>
+                <blockquote>
+                <cite>
+                    <img src="../images/eventos/beijo.png"/> 
+                    <p>Beijo na Taça</p>
+                </cite>
+                </blockquote>
+            </div>
+            <div>
+                <blockquote>
+                <cite>
+                    <img src="../images/eventos/trofeis.png"/> 
+                    <p>Troféis</p>
+                </cite>
+                </blockquote>
+            </div>
+            <div>
+                <blockquote>
+                <cite>
+                    <img src="../images/eventos/futsal_fem_trofeu.png"/> 
+                    <p>Troféu Feminino</p>
+                </cite>
+                </blockquote>
+            </div>
+            <div>
+                <blockquote>
+                <cite>
+                    <img src="../images/eventos/jumed_2.png"/> 
+                    <p>Bi Jumed</p>
+                </cite>
+                </blockquote>
+            </div>
+            <div>
+                <blockquote>
+                <cite>
+                    <img src="../images/eventos/jumed_3.png"/> 
+                    <p>Tri Jumed</p>
+                </cite>
+                </blockquote>
+            </div>
+            <div>
+                <blockquote>
+                <cite>
+                    <img src="../images/eventos/jumed_5.png"/> 
+                    <p>Penta Jumed</p>
+                </cite>
+                </blockquote>
+            </div>
+            <div>
+                <blockquote>
+                <cite>
+                    <img src="../images/eventos/mascote.png"/> 
+                    <p>Mascote</p>
+                </cite>
+                </blockquote>
+            </div>
+            <div>
+                <blockquote>
+                <cite>
+                    <img src="../images/eventos/fut_fem.png"/> 
+                    <p>Futebol Feminino</p>
+                </cite>
+                </blockquote>
+            </div>
     </section><!-- section parties -->
     
     <div class="divider-1"></div>
