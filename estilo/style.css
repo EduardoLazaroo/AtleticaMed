@@ -932,13 +932,14 @@ section.hinos .card p{
         max-width: 900px;
     }
     section.banner-principal .unimar h2{
-        font-size: 52px;
+        font-size: 40px;
         transition: 0.1s;
     }
     section.banner-principal .unimar h2:hover{
-        font-size: 53px;
+        font-size: 41px;
     }
     section.banner-principal .unimar h3{
         font-size: 33px;
+        color: red;
     }
 }
