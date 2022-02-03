@@ -26,3 +26,41 @@ const swiper = new Swiper('.swiper-container', {
     keyboard: true
   })
 
+/* Botão voltar para o topo */
+const backToTopButton = document.querySelector('.back-to-top')
+window.addEventListener('scroll',function (){
+    if (window.scrollY >= 500) {
+        backToTopButton.classList.add('show')
+      } else {
+        backToTopButton.classList.remove('show')
+      }
+})
+
+// Slide troca de tela,
+let time = 3000,
+  currentImageIndex = 0,
+  images = document.querySelectorAll("#slider img")
+
+  max = images.length;
+
+function nextImage(){
+
+  images[currentImageIndex]
+    .classList.remove("selected")
+
+  currentImageIndex++
+
+  if(currentImageIndex >= max)
+  currentImageIndex = 0
+
+  images[currentImageIndex]
+    .classList.add("selected")
+}
+
+function start(){
+  setInterval(() =>{
+    nextImage()
+  }, time)
+}
+
+window.addEventListener("load", start)

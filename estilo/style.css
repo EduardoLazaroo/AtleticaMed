@@ -362,18 +362,18 @@ section.banner-principal .unimar .title{
 }
 
 section.banner-principal .unimar h2{
-    font-size: 89px;
+    font-size: 70px;
     transition: 0.1s;
 }
 
 section.banner-principal .unimar h2:hover{
-    font-size: 90px;
+    font-size: 71px;
     color: rgb(235, 235, 255);
 }
 
 section.banner-principal .unimar h3{
-    color: var(--quin-color);
-    font-size: 73px;
+    color: rgb(0, 26, 255);
+    font-size: 63px;
 }
 
 section.banner-principal .unimar p{
@@ -930,16 +930,5 @@ section.hinos .card p{
         margin-bottom: 30px;
         width: 100%;
         max-width: 900px;
-    }
-    section.banner-principal .unimar h2{
-        font-size: 40px;
-        transition: 0.1s;
-    }
-    section.banner-principal .unimar h2:hover{
-        font-size: 41px;
-    }
-    section.banner-principal .unimar h3{
-        font-size: 33px;
-        color: red;
     }
 }

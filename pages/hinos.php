@@ -69,7 +69,7 @@
                 <img src="../images/abutre_white.png">
             </div>
             <div class="card">
-                <h3 class="title">CARNIÇAAA!!</h3>
+                <h3 class="title">CARNIÇAA!!</h3>
                 <p>Abutre, voa, reina no ar</p>
                 <p>Arrasa, trucida, quem desafiar</p>
                 <p>Chega e pousa pra detonar</p>

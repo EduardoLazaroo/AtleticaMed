@@ -151,7 +151,7 @@
                 <div class="partie swiper-slide">
                     <blockquote>
                     <cite>
-                        <img src="../images/eventos/azul_med2.jpg"/> 
+                        <img src="../images/eventos/azul_med1.jpg"/> 
                         <p>Azul Med</p>
                     </cite>
                     </blockquote>

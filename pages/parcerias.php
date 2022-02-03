@@ -85,18 +85,14 @@
             </div>
 
             <div class="w33 left">
-                <div>
-                    <img class="patrocinio" src="../images/parcerias/02.png">
-                     <h3 class="title">Marmita Fit Congelada</h3>
-                </div>
+                <img class="patrocinio" src="../images/parcerias/02.png">
+                    <h3 class="title">Marmita Fit Congelada</h3>
             </div>
             
 
             <div class="w33 right">
-                <div>
-                    <img class="patrocinio" src="../images/parcerias/03.png">
-                     <h3 class="title">Rock Temakeria</h3>
-                </div>
+                <img class="patrocinio" src="../images/parcerias/03.png">
+                    <h3 class="title">Rock Temakeria</h3>
             </div>
             <div class="clear"></div>
         </div>
@@ -110,17 +106,13 @@
             </div>
 
             <div class="w33 left">
-                <div>
-                    <img class="patrocinio" src="../images/parcerias/05.png">
-                     <h3 class="title">Mustang Beach</h3>
-                </div>
+                <img class="patrocinio" src="../images/parcerias/05.png">
+                    <h3 class="title">Mustang Beach</h3>
             </div>
 
             <div class="w33 right">
-                <div>
-                    <img class="patrocinio" src="../images/parcerias/06.png">
-                     <h3 class="title">Dr. Márcio Santilli</h3>
-                </div>
+                <img class="patrocinio" src="../images/parcerias/01.png">
+                    <h3 class="title">Dr. Márcio Santilli</h3>
             </div>
             <div class="clear"></div>
         </div>
