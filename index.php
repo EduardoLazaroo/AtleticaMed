@@ -64,7 +64,7 @@
         <div class="overlay"></div>
         <div class="center">
             <form class="unimar">
-                <div>
+                <div class="title">
                     <br><!-- espaçamento  -->
                     <h2>Atlética</h2>
                     <h2>Medicina</h2>

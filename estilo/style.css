@@ -357,6 +357,9 @@ section.banner-principal .unimar{
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }
+section.banner-principal .unimar .title{
+    width: 100%;
+}
 
 section.banner-principal .unimar h2{
     font-size: 89px;
@@ -936,7 +939,6 @@ section.hinos .card p{
         font-size: 53px;
     }
     section.banner-principal .unimar h3{
-        color: var(--quin-color);
-        font-size: 53px;
+        font-size: 33px;
     }
 }
