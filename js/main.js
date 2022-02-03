@@ -25,25 +25,6 @@ const swiper = new Swiper('.swiper-container', {
     },
     keyboard: true
   })
-/* ScrollReveal: Mostrar elementos quando der scroll na página */
-// const scrollReveal = ScrollReveal({
-//     origin: 'top',
-//     distance: '30px',
-//     duration: 300,
-//     reset: true
-// })
-  
-// scrollReveal.reveal(
-//     `
-//     #about .text,
-//     #principais .title, #principais .card,
-//     #testimonials header, #testimonials .testimonials,
-//     #contact .title, #parties .title,
-//     #modalities .title,
-//     #hinos .title, #hinos p
-//     `,
-//     { interval: 100 }
-// )
 
 /* Botão voltar para o topo */
 const backToTopButton = document.querySelector('.back-to-top')
