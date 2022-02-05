@@ -143,114 +143,107 @@
     </section><!-- Contact -->
     <br><br>
 
-    <!-- ------------- Section parties ------------- -->
-    <section class="section" id="parties">
-        <h2 class="title">Eventos da nossa atlética</h2>
-            <div>
-                <blockquote>
-                <cite>
-                    <img src="../images/eventos/mocas.jpg"/> 
-                    <p>Azul Medicina</p>
-                </cite>
-                </blockquote>
+  <!-- -------Descrição Autor-------- -->
+    <section class="descricao-autor" id="store">
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/azul_med1.png">
+                <!-- <h3 class="title">Adesivo</h3> -->
             </div>
-            <div>
-                <blockquote>
-                <cite>
-                    <img src="../images/eventos/azul_med2.jpg"/> 
-                    <p>Azul Medicina</p>
-                </cite>
-                </blockquote>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/trofeis.png">
+                <!-- <h3 class="title">Bata</h3> -->
             </div>
-            <div>
-                <blockquote>
-                <cite>
-                    <img src="../images/eventos/azul_med1.png"/> 
-                    <p>Azul Medicina</p>
-                </cite>
-                </blockquote>
+            <div class="clear"></div>
+        </div>
+    </section><!--Store-->
+
+    <section class="descricao-autor" id="store">
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/azul_med2.jpg">
+                <!-- <h3 class="title">Adesivo</h3> -->
             </div>
-            <div>
-                <blockquote>
-                <cite>
-                    <img src="../images/eventos/batukabutre.jpg"/> 
-                    <p>Batukabutre</p>
-                </cite>
-                </blockquote>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/mocas.jpg">
+                <!-- <h3 class="title">Bata</h3> -->
             </div>
-            <div>
-                <blockquote>
-                <cite>
-                    <img src="../images/eventos/azul_med3.jpg"/> 
-                    <p>Azul Medicina</p>
-                </cite>
-                </blockquote>
+            <div class="clear"></div>
+        </div>
+    </section><!--Store-->
+
+    <section class="descricao-autor" id="store">
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/azul_med3.jpg">
+                <!-- <h3 class="title">Adesivo</h3> -->
             </div>
-            <div>
-                <blockquote>
-                <cite>
-                    <img src="../images/eventos/beijo.png"/> 
-                    <p>Beijo na Taça</p>
-                </cite>
-                </blockquote>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/mascote.png">
+                <!-- <h3 class="title">Bata</h3> -->
             </div>
-            <div>
-                <blockquote>
-                <cite>
-                    <img src="../images/eventos/trofeis.png"/> 
-                    <p>Troféis</p>
-                </cite>
-                </blockquote>
+            <div class="clear"></div>
+        </div>
+    </section><!--Store-->
+    <section class="descricao-autor" id="store">
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/azul_med4.jpg">
+                <!-- <h3 class="title">Adesivo</h3> -->
             </div>
-            <div>
-                <blockquote>
-                <cite>
-                    <img src="../images/eventos/futsal_fem_trofeu.png"/> 
-                    <p>Troféu Feminino</p>
-                </cite>
-                </blockquote>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/jumed_5.png">
+                <!-- <h3 class="title">Bata</h3> -->
             </div>
-            <div>
-                <blockquote>
-                <cite>
-                    <img src="../images/eventos/jumed_2.png"/> 
-                    <p>Bi Jumed</p>
-                </cite>
-                </blockquote>
+            <div class="clear"></div>
+        </div>
+    </section><!--Store-->
+    <section class="descricao-autor" id="store">
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/batukabutre.jpg">
+                <!-- <h3 class="title">Adesivo</h3> -->
             </div>
-            <div>
-                <blockquote>
-                <cite>
-                    <img src="../images/eventos/jumed_3.png"/> 
-                    <p>Tri Jumed</p>
-                </cite>
-                </blockquote>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/jumed_3.png">
+                <h3 class="title">Bata</h3>
             </div>
-            <div>
-                <blockquote>
-                <cite>
-                    <img src="../images/eventos/jumed_5.png"/> 
-                    <p>Penta Jumed</p>
-                </cite>
-                </blockquote>
+            <div class="clear"></div>
+        </div>
+    </section><!--Store-->
+    <section class="descricao-autor" id="store">
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/beijo.png">
+                <!-- <h3 class="title">Adesivo</h3> -->
             </div>
-            <div>
-                <blockquote>
-                <cite>
-                    <img src="../images/eventos/mascote.png"/> 
-                    <p>Mascote</p>
-                </cite>
-                </blockquote>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/jumed_2.png">
+                <!-- <h3 class="title">Bata</h3> -->
             </div>
-            <div>
-                <blockquote>
-                <cite>
-                    <img src="../images/eventos/fut_fem.png"/> 
-                    <p>Futebol Feminino</p>
-                </cite>
-                </blockquote>
+            <div class="clear"></div>
+        </div>
+    </section><!--Store-->
+    <section class="descricao-autor" id="store">
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/fut_fem.png">
+                <!-- <h3 class="title">Adesivo</h3> -->
             </div>
-    </section><!-- section parties -->
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/eventos/futsal_fem_trofeu.png">
+                <!-- <h3 class="title">Bata</h3> -->
+            </div>
+            <div class="clear"></div>
+        </div>
+    </section><!--Store-->
     
     <div class="divider-1"></div>
     <!--------- footer --------->
