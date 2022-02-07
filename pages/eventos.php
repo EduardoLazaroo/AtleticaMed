@@ -143,6 +143,8 @@
     </section><!-- Contact -->
     <br><br>
 
+    <div class="divider-1"></div>
+
   <!-- -------Descrição Autor-------- -->
     <section class="descricao-autor" id="store">
         <div class="center">
@@ -180,10 +182,10 @@
                 <img class="produtos" src="../images/eventos/azul_med3.jpg">
                 <!-- <h3 class="title">Adesivo</h3> -->
             </div>
-            
+
             <div class="w50 left">
-                <img class="produtos" src="../images/eventos/mascote.png">
-                <!-- <h3 class="title">Bata</h3> -->
+                <img class="produtos" src="../images/eventos/batukabutre.jpg">
+                <!-- <h3 class="title">Adesivo</h3> -->
             </div>
             <div class="clear"></div>
         </div>
@@ -204,14 +206,15 @@
     </section><!--Store-->
     <section class="descricao-autor" id="store">
         <div class="center">
+            
             <div class="w50 left">
-                <img class="produtos" src="../images/eventos/batukabutre.jpg">
-                <!-- <h3 class="title">Adesivo</h3> -->
+                <img class="produtos" src="../images/eventos/mascote.png">
+                <!-- <h3 class="title">Bata</h3> -->
             </div>
             
             <div class="w50 left">
                 <img class="produtos" src="../images/eventos/jumed_3.png">
-                <h3 class="title">Bata</h3>
+                <!-- <h3 class="title">Bata</h3> -->
             </div>
             <div class="clear"></div>
         </div>
@@ -222,19 +225,19 @@
                 <img class="produtos" src="../images/eventos/beijo.png">
                 <!-- <h3 class="title">Adesivo</h3> -->
             </div>
-            
             <div class="w50 left">
-                <img class="produtos" src="../images/eventos/jumed_2.png">
-                <!-- <h3 class="title">Bata</h3> -->
+                <img class="produtos" src="../images/eventos/fut_fem.png">
+                <!-- <h3 class="title">Adesivo</h3> -->
             </div>
+            
             <div class="clear"></div>
         </div>
     </section><!--Store-->
     <section class="descricao-autor" id="store">
         <div class="center">
             <div class="w50 left">
-                <img class="produtos" src="../images/eventos/fut_fem.png">
-                <!-- <h3 class="title">Adesivo</h3> -->
+                <img class="produtos" src="../images/eventos/jumed_2.png">
+                <!-- <h3 class="title">Bata</h3> -->
             </div>
             
             <div class="w50 left">
