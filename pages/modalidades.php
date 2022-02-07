@@ -99,22 +99,25 @@
 
     <!-- -------------Section slide------------- -->
     <section class="section" id="modalities">
+
         <div class="titulo" id="atletismo">   
             <h2 class="title">Atletismo</h2>
         </div> 
         
-        <div class="modalities swiper-container">
-            <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/modalidades/atletismo4.jpg"/> 
-                        <!-- <p>Atletismo 4/4</p> -->
-                    </cite>
-                    </blockquote>
-                </div>
+        <section class="descricao-autor" id="store">
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/atletismo1.png">
+                <!-- <h3 class="title">Adesivo</h3> -->
             </div>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/atletismo4.jpg">
+                <!-- <h3 class="title">Bata</h3> -->
+            </div>
+            <div class="clear"></div>
         </div>
+    </section><!--Store-->
 
         <div class="divider-2"></div>
 
