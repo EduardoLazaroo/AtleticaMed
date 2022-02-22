@@ -98,216 +98,192 @@
     <div class="divider-1"></div>
 
     <!-- -------------Section slide------------- -->
-    <section class="section" id="modalities">
-
-        <div class="titulo" id="atletismo">   
+    <section class="descricao-autor" id="store">
+        <div class="titulo" id="atletismo">
             <h2 class="title">Atletismo</h2>
         </div> 
         
-        <section class="descricao-autor" id="store">
         <div class="center">
             <div class="w50 left">
-                <img class="produtos" src="../images/modalidades/atletismo1.png">
-                <!-- <h3 class="title">Adesivo</h3> -->
+                <img class="produtos" src="../images/modalidades/atletismo4.jpg">
             </div>
             
             <div class="w50 left">
-                <img class="produtos" src="../images/modalidades/atletismo4.jpg">
-                <!-- <h3 class="title">Bata</h3> -->
+                <img class="produtos" src="../images/modalidades/atletismo3.jpg">
+            </div>
+            <div class="clear"></div>
+        </div>
+    </section><!--Store-->
+        
+    <div class="divider-2"></div>
+
+    <section class="descricao-autor" id="store">
+        <div class="titulo" id="basquete">
+            <h2 class="title">Basquete</h2>
+        </div> 
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/basquete3.jpg">
+            </div>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/basquete2.png">
+            </div>
+            <div class="clear"></div>
+        </div>
+    </section><!--Store-->
+    
+    <div class="divider-2"></div>
+
+    <section class="descricao-autor" id="store">
+        <div class="titulo" id="futebol_campo">
+            <h2 class="title">Futebol de Campo</h2>
+        </div> 
+        
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/futebol1.png">
+            </div>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/futebol2.png">
+            </div>
+            <div class="clear"></div>
+        </div>
+    </section><!--Store-->
+        
+    <div class="divider-2"></div>
+
+    <section class="descricao-autor" id="store">
+        <div class="titulo" id="futsal">
+            <h2 class="title">Futsal</h2>
+        </div> 
+
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/futsal1.png">
+            </div>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/futsal2.jpg">
             </div>
             <div class="clear"></div>
         </div>
     </section><!--Store-->
 
-        <div class="divider-2"></div>
+    <div class="divider-1"></div>
 
-        <!-- divisao -->
-        <div class="titulo" id="basquete">   
-            <h2 class="title">Basquete</h2>
+    <section class="descricao-autor" id="store">
+        <div class="titulo" id="handbol">
+            <h2 class="title">Handball</h2>
         </div> 
-        <div class="modalities swiper-container">
-            <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/modalidades/basquete3.jpg"/> 
-                        <!-- <p>Basquete 3/4</p> -->
-                    </cite>
-                    </blockquote>
-                </div>
+        
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/handball1.png">
             </div>
-        </div>
-
-        <div class="divider-1"></div>
-
-        <!-- divisao -->
-        <div class="titulo" id="futebol_campo">   
-            <h2 class="title">Futebol de Campo</h2>
-        </div> 
-        <div class="modalities swiper-container">
-            <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/modalidades/futsal2.jpg"/> 
-                        <!-- <p>Futebol de Campo 2/3</p> -->
-                    </cite>
-                    </blockquote>
-                </div>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/handball2.png">
             </div>
+            <div class="clear"></div>
         </div>
+    </section><!--Store-->
+        
+    <div class="divider-2"></div>
 
-        <div class="divider-2"></div>
-
-        <!-- divisao -->
-        <div class="titulo" id="futsal">   
-            <h2 class="title">Futsal</h2>
-        </div> 
-        <div class="modalities swiper-container">
-            <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/modalidades/futsal4.jpg"/> 
-                    </cite>
-                    </blockquote>
-                </div>
-            </div>
-        </div>
-
-        <div class="divider-1"></div>
-
-        <!-- divisao -->
-        <div class="titulo" id="handbol">   
-            <h2 class="title">Handbol</h2>
-        </div> 
-        <div class="modalities swiper-container">
-            <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/modalidades/handball1.png"/> 
-                    </cite>
-                    </blockquote>
-                </div>
-            </div>
-        </div>
-
-        <div class="divider-2"></div>
-
-        <!-- divisao -->
-        <div class="titulo" id="judo">   
+    <section class="descricao-autor" id="store">
+        <div class="titulo" id="judo">
             <h2 class="title">Judô</h2>
         </div> 
-        <div class="modalities swiper-container">
-            <div class="swiper-wrapper">
 
-                <div class="modalitie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/modalidades/judo2.png"/> 
-                    </cite>
-                    </blockquote>
-                </div>
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/judo1.png">
             </div>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/judo2.png">
+            </div>
+            <div class="clear"></div>
         </div>
+    </section><!--Store-->
+    
+    <div class="divider-1"></div>
 
-        <div class="divider-2"></div>
-
-        <!-- divisao -->
-        <div class="titulo" id="natacao">   
-            <h2 class="title">Natação</h2>
+    <section class="descricao-autor" id="store">
+        <div class="titulo" id="natacao1">
+            <h2 class="title">Natacão</h2>
         </div> 
-        <div class="modalities swiper-container">
-            <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/modalidades/natacao1.png"/> 
-                        <p>Natação 1/2</p>
-                    </cite>
-                    </blockquote>
-                </div>
+        
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/natacao1.png">
             </div>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/natacao2.png">
+            </div>
+            <div class="clear"></div>
         </div>
+    </section><!--Store-->
+        
+    <div class="divider-2"></div>
 
-        <div class="divider-1"></div>
-
-        <!-- divisao -->
-        <div class="titulo" id="tenis_campo">   
+    <section class="descricao-autor" id="store">
+        <div class="titulo" id="tenis_campo1">
             <h2 class="title">Tênis de Campo</h2>
         </div> 
-        <div class="modalities swiper-container">
-            <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/modalidades/tenis_campo1.png"/> 
-                    </cite>
-                    </blockquote>
-                </div>
+
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/tenis_campo1.png">
             </div>
-        </div>
-        
-        <div class="divider-2"></div>
-
-        <!-- divisao -->
-        <div class="titulo" id="tenis_mesa">   
-            <h2 class="title">Tênis de Mesa</h2>
-        </div> 
-        <div class="modalities swiper-container">
-            <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/modalidades/tenis_mesa1.jpg"/> 
-                    </cite>
-                    </blockquote>
-                </div>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/tenis_campo2.png">
             </div>
+            <div class="clear"></div>
         </div>
+    </section><!--Store-->
 
-        <div class="divider-1"></div>
+    <div class="divider-1"></div>
 
-        <!-- divisao -->
-        <div class="titulo" id="volei">   
+    <section class="descricao-autor" id="store">
+        <div class="titulo" id="volei1">
             <h2 class="title">Vôlei</h2>
         </div> 
-        <div class="modalities swiper-container">
-            <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/modalidades/volei1.png"/> 
-                    </cite>
-                    </blockquote>
-                </div>
+        
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/volei1.png">
             </div>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/volei2.png">
+            </div>
+            <div class="clear"></div>
         </div>
+    </section><!--Store-->
+        
+    <div class="divider-2"></div>
 
-        <div class="divider-2"></div>
-
-        <!-- divisao -->
-        <div class="titulo" id="xadrez">   
+    <section class="descricao-autor" id="store">
+        <div class="titulo" id="xadrez1">
             <h2 class="title">Xadrez</h2>
         </div> 
-        <div class="modalities swiper-container">
-            <div class="swiper-wrapper">
-                <div class="modalitie swiper-slide">
-                    <blockquote>
-                    <cite>
-                        <img src="../images/modalidades/xadrez1.png"/> 
-                    </cite>
-                    </blockquote>
-                </div>
+
+        <div class="center">
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/xadrez1.png">
             </div>
+            
+            <div class="w50 left">
+                <img class="produtos" src="../images/modalidades/xadrez2.png">
+            </div>
+            <div class="clear"></div>
         </div>
-
-        <div class="divider-1"></div>
-
-
-      </section><!-- section -->
-    
+    </section><!--Store-->
 
     <!--------- footer --------->
     <footer>
