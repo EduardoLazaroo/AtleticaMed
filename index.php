@@ -8,6 +8,7 @@
 
     <!-- icon -->
     <script src="https://kit.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
+    <link rel="shortcut icon" href="images/abutre_logo.png">
 
     <!-- Swiper -->
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
@@ -62,6 +63,7 @@
     <!---------Banner Principal---------->
     <section class="banner-principal" id="home">
         <div class="overlay"></div>
+        <h1>oi</h1>
     </section class=><!-- banner principal -->
 
     <!-- risco -->
