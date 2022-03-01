@@ -65,7 +65,7 @@
     <!---------- Descricão autor ---------->
     <section class="hinos" id="hinos">
         <div class="cards">
-            <img src="../images/abutre_white.png">
+            <!-- <img src="../images/abutre_white.png"> -->
             <div class="card">
                 <h3 class="title">CARNIÇAA!!</h3>
                 <p>Abutre, voa, reina no ar</p>
