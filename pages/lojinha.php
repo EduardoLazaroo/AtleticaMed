@@ -178,7 +178,7 @@
     <section class="descricao-autor" id="store">
         <div class="center">
             <div class="w50 left">
-                <img class="produtos" src="../images/lojinha/Conjunto.png">
+                <img class="produtos" src="../images/lojinha/conjunto.png">
                 <h3 class="title">Conjunto</h3>
                 <!-- <h4 class="title">Conjuntinho</h4> -->
             </div>

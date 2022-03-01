@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- icon -->
-    <script src="https://kt.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
+    <script src="https://kit.fontawesome.com/44147d9e89.js" crossorigin="anonymous"></script><!--icon-->
     <link rel="shortcut icon" href="../images/abutre_logo.png">
 
     <!-- Style -->
@@ -64,11 +64,8 @@
 
     <!---------- Descricão autor ---------->
     <section class="hinos" id="hinos">
-        <h2>Hinos</h2>
-        <div class="cards center">
-            <div class="center">
-                <img src="../images/abutre_white.png">
-            </div>
+        <div class="cards">
+            <img src="../images/abutre_white.png">
             <div class="card">
                 <h3 class="title">CARNIÇAA!!</h3>
                 <p>Abutre, voa, reina no ar</p>

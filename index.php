@@ -62,8 +62,16 @@
     </header>
     <!---------Banner Principal---------->
     <section class="banner-principal" id="home">
-        <div class="overlay"></div>
-        <h1>oi</h1>
+        <div class="overlay">
+        <br><br><br><br><br><br><br><br>
+            <div style="text-align-last: center;">
+                <h2 style="font-size: 65px; color: white; transition: 0.1s; text-transform: uppercase;">Atlética</h2>
+                <h2 style="font-size: 65px; color: white; transition: 0.1s; text-transform: uppercase;">Medicina</h2>
+                <h2 style="font-size: 65px; color: white; transition: 0.1s; text-transform: uppercase;">Unimar</h2>
+                <h3 style="color: rgb(20, 38, 202); font-size: 58px; padding: 5px 10px; text-transform: uppercase;">a.a.a.a.n</h3>
+                <p style="font-size: 17px; color: white; text-transform: uppercase;">Associação Atlética Acadêmica Akira Nakadaira</p>
+            </div>
+        </div>
     </section class=><!-- banner principal -->
 
     <!-- risco -->
